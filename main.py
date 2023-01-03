@@ -12,7 +12,7 @@ def main() :
             ploted_frame = data_to_pandas(the_data,ploted_frame)
             count += 1
             print(f"I'm at {count} page done")
-            if count == 500 : 
+            if count == 50 : 
                 break
     for key in ploted_frame:
         ploted_frame[key] = [clean_escape_characters(value) for value in ploted_frame[key]]
