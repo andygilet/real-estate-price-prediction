@@ -18,13 +18,35 @@ def get_data_from_url(url) :
     info = soup.find_all(class_ = 'classified-table__header')
     info_utf8 = str(info).encode('utf-8')
     description_list = str(info_utf8).split('<th class="classified-table__header" scope="row">')
+    #get the data from the url
+    url_splited = url.split('/')
+    bip_boup = url_splited[5:9]
+    #get bedrooms and size
+    result = ""
+    new_result = []
+    bedroom = ""
+    size_of_house = ""
 
-    the_dic = {}
-
-    the_type = soup.find_all(class_ = 'classified__title')
-    info_utf8 = str(the_type).encode('utf-8')
-    the_dic['type_properties'] = remove_html_tags(str(info_utf8))
-
+    for elem in soup.find_all("p", attrs={"class": "classified__information--property"}):
+        temp = elem.text
+        temp = temp.replace("\n", '')
+        temp = temp.replace(" ", '')
+        result += temp
+        new_result = result.split("|")
+        try :
+            bedroom = re.sub("[^0-9]", "", new_result[0])
+            size_of_house = re.sub("[^0-9]", "", new_result[1])
+        except : 
+            bedroom = 'None'
+            size_of_house = 'None'
+    #create the dic
+    the_dic = {
+        'property_type' : bip_boup[0],
+        'sale_type' : bip_boup[1],
+       'locality' : bip_boup[2],
+       'bedroom' : bedroom,
+       'size_of_house' : size_of_house
+    }
     #Clean the data
     for description,data in zip(description_list[1:],info_list[1:]) :
         the_dic[remove_html_tags(description)] = remove_html_tags(data)
