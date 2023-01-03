@@ -14,7 +14,7 @@ def change_page(driver : webdriver.Firefox, page : int) -> bool:
         return False
     time.sleep(0.5)
     return True
-
+    
 def try_cookie(driver : webdriver.Firefox):
     try:
         coockie_button = driver.find_element(By.XPATH, '//*[@id="uc-btn-accept-banner"]')
