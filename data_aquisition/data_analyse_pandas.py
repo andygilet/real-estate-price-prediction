@@ -20,11 +20,6 @@ def get_data_from_url(url) :
     description_list = str(info_utf8).split('<th class="classified-table__header" scope="row">')
 
     the_dic = {}
-
-    the_type = soup.find_all(class_ = 'classified__title')
-    info_utf8 = str(the_type).encode('utf-8')
-    the_dic['type_properties'] = remove_html_tags(str(info_utf8))
-
     #Clean the data
     for description,data in zip(description_list[1:],info_list[1:]) :
         the_dic[remove_html_tags(description)] = remove_html_tags(data)
