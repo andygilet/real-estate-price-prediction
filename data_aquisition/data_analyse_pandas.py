@@ -1,25 +1,74 @@
 import requests
-from bs4 import BeautifulSoup
 import re
+import pandas as pd
+from bs4 import BeautifulSoup
+
 def remove_html_tags(s):
     new_s = re.sub('\s+', ' ', s)
     return re.sub("<[^<]+?>", "", new_s)
+
 def get_data_from_url(url) :
     page = requests.get(url)
     soup = BeautifulSoup(page.content, 'html.parser')
-    #get the data we need from the class 'classified-table_data
+    #get the data we need from the class 'classified-table_data' (wich are the data)
     info = soup.find_all(class_ = 'classified-table__data')
     info_utf8 = str(info).encode('utf-8')
     info_list = str(info_utf8).split('<td class="classified-table__data"')
+    #get the data we need from the class 'classified-table_header (wich is the description)
+    info = soup.find_all(class_ = 'classified-table__header')
+    info_utf8 = str(info).encode('utf-8')
+    description_list = str(info_utf8).split('<th class="classified-table__header" scope="row">')
+
+    the_dic = {}
+
+    the_type = soup.find_all(class_ = 'classified__title')
+    info_utf8 = str(the_type).encode('utf-8')
+    the_dic['type_properties'] = remove_html_tags(str(info_utf8))
+
     #Clean the data
-    clean_data = []
-    for elem in info_list :
-        clean_data.append(remove_html_tags(elem))
-    print(clean_data[1:])
+    for description,data in zip(description_list[1:],info_list[1:]) :
+        the_dic[remove_html_tags(description)] = remove_html_tags(data)
     #return the data cleaned
-    return clean_data[1:]
+    return the_dic
 
-def data_to_pandas(data) :
-    pass
+    
+def data_to_pandas(data_dic,data_frame) :
+    '''
+    Parameters:
+    data_dic (dict): A dictionary containing the key-value pairs to be added to the dataframe.
+    data_frame (pandas.DataFrame): The dataframe to which the key-value pairs from `data_dic` will be added.
+    
+    Returns:
+    pandas.DataFrame: The modified dataframe with the key-value pairs from `data_dic` added.
+    '''
+    #Adding the none in the list of the key that doesn't match
+    len_items = False
+    if len(data_frame) > 0 : 
+        for key,value in data_frame.items() :
+            len_items = len(data_frame[key])
+            if key not in data_dic :
+                data_frame[key].append('None')
+    #Adding the value in the dic, if the key doesn't exist, create a list with x * none at the beginning    
+    for key,value in data_dic.items() :
+        if key in data_frame :
+            data_frame[key].append(value)
+        else : 
+            data_frame[key] = []
+            if len_items : 
+                for _ in range(len_items) :
+                    data_frame[key].append('None')
+            data_frame[key].append(value)
+    
+    return data_frame
 
-get_data_from_url('https://www.immoweb.be/en/classified/apartment/for-sale/schaerbeek/1030/10303386')
+data_frame = {}
+
+first_data = get_data_from_url('https://www.immoweb.be/en/classified/house/for-sale/genappe/1470/10303275')
+data_frame = data_to_pandas(first_data,data_frame)
+
+first_data = get_data_from_url('https://www.immoweb.be/en/classified/apartment-block/for-sale/ans/4430/10300959')
+data_frame = data_to_pandas(first_data,data_frame)
+
+print(data_frame)
+real_data = pd.DataFrame(data_frame)
+print(real_data)
