@@ -4,9 +4,9 @@ from webdriver_manager.firefox import GeckoDriverManager
 import numpy as np
 import time
 
-def change_page(driver : webdriver.Firefox, page : int) -> bool:
+def change_page(driver : webdriver.Firefox, page : int, buy_type : str, postal_code : int) -> bool:
     try:
-        driver.get(f"https://www.immoweb.be/en/search/house/for-sale?countries=BE&page={page}&orderBy=relevance")
+        driver.get(f"https://www.immoweb.be/en/search/house-and-apartment/{buy_type}/liege/{postal_code}?countries=BE&page={page}&orderBy=relevance")
         if driver.title != "House for sale - Immoweb":
             raise Exception("Last page attain !")
     except Exception as e:
@@ -43,14 +43,24 @@ def get_urls() -> list:
     continue_loop : bool = True
     page = 1
     urls = []
+    buy_types = ["for-sale","for-rent"]
     driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
     while continue_loop:
-        continue_loop = change_page(driver, page)
+        continue_loop = change_page(driver, page, "for-sale")
         if continue_loop:
             try_cookie(driver)
             print(f"page {page}")
             get_property_urls(driver, urls)
             page += 1
+    page = 1
+    while continue_loop:
+        continue_loop = change_page(driver, page, "for-rent")
+        if continue_loop:
+            try_cookie(driver)
+            print(f"page {page}")
+            get_property_urls(driver, urls)
+            page += 1
+    
     print(f"You have {len(urls)} properties !")
     create_csv_file(urls)
     return urls
