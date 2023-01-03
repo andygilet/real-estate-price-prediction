@@ -60,15 +60,3 @@ def data_to_pandas(data_dic,data_frame) :
             data_frame[key].append(value)
     
     return data_frame
-
-data_frame = {}
-
-first_data = get_data_from_url('https://www.immoweb.be/en/classified/house/for-sale/genappe/1470/10303275')
-data_frame = data_to_pandas(first_data,data_frame)
-
-first_data = get_data_from_url('https://www.immoweb.be/en/classified/apartment-block/for-sale/ans/4430/10300959')
-data_frame = data_to_pandas(first_data,data_frame)
-
-print(data_frame)
-real_data = pd.DataFrame(data_frame)
-print(real_data)
