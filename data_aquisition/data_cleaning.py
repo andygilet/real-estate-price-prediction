@@ -45,11 +45,12 @@ def reference_dic_needed(the_frame):
                 if len(price) > 8 : 
                     result = price[:int(len(price)/2)]
                 last_frame[key][i] = result.strip()
-
-        
-            
-
-    
+        elif key == 'fully_equipped_kitchen' :
+            for i, kitchen in enumerate(last_frame[key]) :
+                if kitchen == 'Not installed' : 
+                    last_frame[key][i] = 0
+                else : 
+                    last_frame[key][i] = 1
     return last_frame
 def clean_escape_characters(string):
     return re.sub(r'\\n|\\x..', '', string)
