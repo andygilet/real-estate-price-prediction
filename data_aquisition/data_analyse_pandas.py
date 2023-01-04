@@ -8,6 +8,9 @@ def remove_html_tags(s):
     return re.sub("<[^<]+?>", "", new_s)
 
 def get_data_from_url(url) :
+    #get the data from the url
+    url_splited = url.split('/')
+    bip_boup = url_splited[5:9]
     page = requests.get(url)
     soup = BeautifulSoup(page.content, 'html.parser')
     #get the data we need from the class 'classified-table_data' (wich are the data)
@@ -47,6 +50,7 @@ def get_data_from_url(url) :
        'bedroom' : bedroom,
        'size_of_house' : size_of_house
     }
+    
     #Clean the data
     for description,data in zip(description_list[1:],info_list[1:]) :
         the_dic[remove_html_tags(description)] = remove_html_tags(data)

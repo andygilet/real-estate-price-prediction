@@ -2,8 +2,8 @@ import re
 def reference_dic_needed(the_frame):
     needed_data_dic = {
     'locality' : 'locality',
-    'Type_property' : 'property_type',
     'Price' : 'Price, ',
+    'Type_property' : 'property_type',
     'Sale_type' : 'sale_type',
     'Number_bedrooms' : "bedroom",
     'Living_area' : '\\n Living area\\n , ',
@@ -56,6 +56,7 @@ def reference_dic_needed(the_frame):
                     last_frame[key][i] = 0
                 else : 
                     last_frame[key][i] = 1
+        
     return last_frame
 def clean_escape_characters(string):
     return re.sub(r'\\n|\\x..', '', string)

@@ -1,101 +1,101 @@
 ,locality,Type_property,Price,Sale_type,Number_bedrooms,Living_area,fully_equipped_kitchen,Furnished,terrace,garden,surface_land,surface_area_plot,facades_number,Swimming_pool,building_state,fire_place
-0,deinze,new-real-estate-project-houses,27500002750000,for-sale,3,None,1,None,None,None,159,None,None,None,None,None
-1,courcelles,house,300000,for-sale,4,264,1,No,None,2900,264,2900,3,None,Good,1
-2,liege,apartment-block,299000,for-sale,4,239,0,No,None,None,239,108,2,No,Good,None
-3,woluwe-saint-pierre,new-real-estate-project-houses,299000,for-sale,4,None,1,None,None,None,380385,None,None,None,None,None
-4,genappe,house,335000,for-sale,4,120,1,No,10,654,120,790,3,No,Good,None
-5,liege,house,349000,for-sale,4,218,1,No,15,120,218,217,3,No,Good,None
-6,ampsin,house,189000,for-sale,3,125,1,No,20,360,125,515,2,None,Good,None
-7,oupeye,house,249000,for-sale,5,201,0,No,40,None,201,106,3,No,Just renovated,None
-8,ronse,mansion,349000,for-sale,4,220,1,No,30,65,220,170,2,No,As new,None
-9,genval,villa,425000,for-sale,4,162,1,No,14,350,162,722,4,No,To renovate,None
-10,molenbeek-saint-jean,house,379000,for-sale,4,250,1,No,None,None,250,100,2,No,To be done up,None
-11,liege-grivegnee,house,139000,for-sale,2,80,1,No,45,None,80,113,2,No,To renovate,None
-12,ans,apartment-block,189000,for-sale,3,177,1,No,150,100,177,450,None,None,To renovate,None
-13,ans,house,189000,for-sale,3,177,1,No,150,100,177,450,None,None,To renovate,None
-14,flemalle,house,189000,for-sale,3,111,1,No,5,57,111,173,2,None,Good,None
-15,huy,mixed-use-building,439000,for-sale,3,205,1,No,None,6800,205,7159,4,No,Good,None
-16,dilbeek,exceptional-property,645000,for-sale,3,196,1,None,None,None,196,785,4,None,Good,None
-17,kampenhout,villa,995000,for-sale,4,275,1,No,30,1324,275,1538,4,No,Good,None
-18,kraainem,house,1100000,for-sale,5,230,1,No,45,400,230,485,4,No,As new,None
-19,liege,house,159000,for-sale,1,64,1,No,24,38,64,72,2,No,As new,None
-20,oudenaarde,house,214000,for-sale,3,135,1,No,None,660,135,740,3,No,To renovate,None
-21,zwevegem,new-real-estate-project-houses,214000,for-sale,3,None,1,None,None,None,180,None,None,None,None,None
-22,gent-sint-amandsberg,new-real-estate-project-houses,214000,for-sale,24,None,1,None,None,None,101185,None,None,None,None,None
-23,tielt-winge,exceptional-property,599000,for-sale,4,318,1,No,37,None,318,1103,4,None,As new,None
-24,beersel,house,378000,for-sale,3,145,1,No,None,None,145,945,3,None,To be done up,None
-25,liege,house,199000,for-sale,4,141,1,No,52,78,141,368,3,No,Just renovated,None
-26,gent,house,327000,for-sale,4,119,1,No,None,None,119,49,2,No,Good,None
-27,liege,exceptional-property,419000,for-sale,3,223,1,No,326,163,223,352,3,No,Good,None
-28,ruddervoorde,villa,539000,for-sale,4,311,1,No,None,730,311,1320,4,No,Good,None
-29,woluwe-saint-pierre,house,539000,for-sale,,None,1,None,None,None,,None,None,None,None,None
-30,libramont-chevigny,house,299000,for-sale,5,140,0,No,30,1000,140,1152,4,No,Good,None
-31,beveren,house,525000,for-sale,4,178,1,No,None,423,178,812,4,None,Good,None
-32,liege-bressoux,house,210000,for-sale,6,203,1,No,None,None,203,187,2,No,To be done up,None
-33,quaregnon,house,220000,for-sale,3,142,0,No,None,None,142,660,None,None,None,None
-34,kapellen,house,349000,for-sale,3,157,1,No,None,None,157,153,2,None,As new,None
-35,blaton,house,125000,for-sale,3,92,1,No,None,None,92,120,2,None,None,None
-36,peruwelz,house,125000,for-sale,1,128,1,No,None,None,128,140,2,None,None,None
-37,saint-leger,house,230000,for-sale,3,230,0,No,16,None,230,4700,2,None,To renovate,None
-38,ninove,house,599000,for-sale,4,246,1,No,None,None,246,468,3,No,As new,None
-39,jette,town-house,559000,for-sale,4,265,1,No,24,100,265,194,2,None,Good,None
-40,uccle,house,559000,for-sale,,None,1,None,None,None,,None,None,None,None,None
-41,sterrebeek,house,895000,for-sale,6,260,1,No,40,742,260,1330,4,No,Good,None
-42,brussels,house,980000,for-sale,6,360,1,No,50,350,360,541,2,No,As new,None
-43,gavere,house,980000,for-sale,,None,1,None,None,None,,None,None,None,None,None
-44,gavere,house,980000,for-sale,,None,1,None,None,None,,None,None,None,None,None
-45,gavere,house,980000,for-sale,,None,1,None,None,None,,None,None,None,None,None
-46,gavere,house,980000,for-sale,,None,1,None,None,None,,None,None,None,None,None
-47,waterloo,house,770000,for-sale,4,231,1,No,None,601,231,601,4,None,As new,None
-48,sint-pieters-leeuw,house,495000,for-sale,3,196,1,No,None,None,196,330,2,None,Good,None
-49,kraainem,house,2750000,for-sale,6,650,1,No,None,None,650,5127,4,Yes,To be done up,None
-0,forest,new-real-estate-project-houses,475000475000,for-sale,3,None,1,None,None,None,185,None,None,None,None,None
-1,averbode,new-real-estate-project-houses,475000475000,for-sale,34,None,1,None,None,None,165,None,None,None,None,None
-2,temse,house,365000,for-sale,4,168,1,No,15,800,168,902,4,None,To renovate,None
-3,forest,new-real-estate-project-houses,365000,for-sale,3,None,1,None,None,None,182,None,None,None,None,None
-4,saint-josse-ten-noode,house,370000,for-sale,6,230,1,No,18,None,230,80,2,No,To renovate,None
-5,affligem,new-real-estate-project-houses,370000,for-sale,3,None,1,None,None,None,212222,None,None,None,None,None
-6,saint-sauveur,new-real-estate-project-houses,370000,for-sale,4,None,1,None,None,None,254263,None,None,None,None,None
-7,nivelles,mansion,375000,for-sale,4,207,1,No,None,518,207,608,2,None,To be done up,None
-8,roosdaal-onze-lieve-vrouw-lombeek,new-real-estate-project-houses,375000,for-sale,3,None,1,None,None,None,172,None,None,None,None,None
-9,olen,new-real-estate-project-houses,375000,for-sale,3,None,1,None,None,None,140,None,None,None,None,None
-10,perwez,new-real-estate-project-houses,375000,for-sale,3,None,1,None,None,None,165186,None,None,None,None,None
-11,vilvoorde,house,389000,for-sale,3,156,1,No,45,224,156,280,3,No,Good,None
-12,anderlecht,house,389000,for-sale,,None,1,None,None,None,,None,None,None,None,None
-13,ganshoren,house,399000,for-sale,3,171,1,None,8,32,171,98,2,None,To renovate,None
-14,limal,house,399000,for-sale,4,215,1,No,40,None,215,3882,4,No,To renovate,None
-15,asse,house,399000,for-sale,3,179,1,None,None,216,179,216,3,None,As new,None
-16,oupeye,exceptional-property,399000,for-sale,3,223,1,No,200,416,223,644,3,Yes,As new,None
-17,oupeye,bungalow,399000,for-sale,4,191,1,No,120,330,191,1467,4,No,To be done up,None
-18,arlon,new-real-estate-project-houses,399000,for-sale,34,None,1,None,None,None,140170,None,None,None,None,None
-19,oreye,villa,400000,for-sale,4,190,1,No,None,600,190,1297,4,None,Good,None
-20,oudenaarde,new-real-estate-project-houses,400000,for-sale,45,None,1,None,None,None,235259,None,None,None,None,None
-21,zulte,new-real-estate-project-houses,400000,for-sale,4,None,1,None,None,None,193,None,None,None,None,None
-22,brakel,new-real-estate-project-houses,400000,for-sale,3,None,1,None,None,None,180182,None,None,None,None,None
-23,arlon,new-real-estate-project-houses,400000,for-sale,34,None,1,None,None,None,143220,None,None,None,None,None
-24,opwijk,new-real-estate-project-houses,400000,for-sale,3,None,1,None,None,None,152189,None,None,None,None,None
-25,ninove,new-real-estate-project-houses,400000,for-sale,3,None,1,None,None,None,221246,None,None,None,None,None
-26,nivelles,villa,425000,for-sale,3,161,1,No,31,517,161,630,4,No,Good,None
-27,tielt-winge,new-real-estate-project-houses,425000,for-sale,3,None,1,None,None,None,240263,None,None,None,None,None
-28,liedekerke,house,428000,for-sale,3,232,1,No,None,None,232,515,2,No,As new,None
-29,haasdonk,new-real-estate-project-houses,428000,for-sale,3,None,1,None,None,None,233260,None,None,None,None,None
-30,neder-over-heembeek,town-house,430000,for-sale,3,135,1,No,6,100,135,194,2,No,To be done up,None
-31,beveren,new-real-estate-project-houses,430000,for-sale,3,None,1,None,None,None,208262,None,None,None,None,None
-32,emblem,new-real-estate-project-houses,430000,for-sale,,None,1,None,None,None,,None,None,None,None,None
-33,ninove,villa,435000,for-sale,4,210,1,None,None,None,210,1945,4,No,Good,None
-34,molenbeek-saint-jean,house,449000,for-sale,4,137,1,None,16,None,137,68,2,None,As new,None
-35,grimbergen,house,449000,for-sale,5,192,1,No,None,None,192,169,2,No,As new,None
-36,sint-katelijne-waver,new-real-estate-project-houses,449000,for-sale,3,None,1,None,None,None,152184,None,None,None,None,None
-37,schepdaal,house,450000,for-sale,4,191,1,None,None,None,191,1002,4,None,To renovate,None
-38,marche-en-famenne,exceptional-property,450000,for-sale,4,236,1,No,None,399,236,399,3,No,As new,None
-39,forrieres,house,450000,for-sale,5,290,1,None,55,3067,290,3225,4,No,Good,None
-40,wemmel,house,459000,for-sale,5,178,1,None,8,79,178,128,2,None,As new,None
-41,merchtem,bungalow,459000,for-sale,3,133,1,None,None,522,133,600,4,No,Good,None
-42,gent,new-real-estate-project-houses,459000,for-sale,23,None,1,None,None,None,101132,None,None,None,None,None
-43,gent,new-real-estate-project-houses,459000,for-sale,23,None,1,None,None,None,119152,None,None,None,None,None
-44,bruxelles,house,465000,for-sale,4,229,1,No,48,None,229,110,2,No,As new,None
-45,laeken,house,465000,for-sale,4,229,1,No,48,None,229,110,2,No,As new,None
-46,waterloo,house,465000,for-sale,4,308,1,No,13,164,308,268,3,No,Good,None
-47,oosterzele,house,470000,for-sale,3,171,1,No,16,1396,171,1789,4,No,Good,None
-48,villers-la-ville,villa,475000,for-sale,3,230,1,No,None,2740,230,2907,4,No,Good,None
-49,olen,new-real-estate-project-houses,475000,for-sale,3,None,1,None,None,None,278,None,None,None,None,None
+0,deinze,27500002750000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,159,None,None,None,None,None
+1,courcelles,300000,house,for-sale,4,264,1,No,None,2900,264,2900,3,None,Good,1
+2,liege,299000,apartment-block,for-sale,4,239,0,No,None,None,239,108,2,No,Good,None
+3,woluwe-saint-pierre,299000,new-real-estate-project-houses,for-sale,4,None,1,None,None,None,380385,None,None,None,None,None
+4,genappe,335000,house,for-sale,4,120,1,No,10,654,120,790,3,No,Good,None
+5,liege,349000,house,for-sale,4,218,1,No,15,120,218,217,3,No,Good,None
+6,ampsin,189000,house,for-sale,3,125,1,No,20,360,125,515,2,None,Good,None
+7,oupeye,249000,house,for-sale,5,201,0,No,40,None,201,106,3,No,Just renovated,None
+8,ronse,349000,mansion,for-sale,4,220,1,No,30,65,220,170,2,No,As new,None
+9,genval,425000,villa,for-sale,4,162,1,No,14,350,162,722,4,No,To renovate,None
+10,molenbeek-saint-jean,379000,house,for-sale,4,250,1,No,None,None,250,100,2,No,To be done up,None
+11,liege-grivegnee,139000,house,for-sale,2,80,1,No,45,None,80,113,2,No,To renovate,None
+12,ans,189000,apartment-block,for-sale,3,177,1,No,150,100,177,450,None,None,To renovate,None
+13,ans,189000,house,for-sale,3,177,1,No,150,100,177,450,None,None,To renovate,None
+14,flemalle,189000,house,for-sale,3,111,1,No,5,57,111,173,2,None,Good,None
+15,huy,439000,mixed-use-building,for-sale,3,205,1,No,None,6800,205,7159,4,No,Good,None
+16,dilbeek,645000,exceptional-property,for-sale,3,196,1,None,None,None,196,785,4,None,Good,None
+17,kampenhout,995000,villa,for-sale,4,275,1,No,30,1324,275,1538,4,No,Good,None
+18,kraainem,1100000,house,for-sale,5,230,1,No,45,400,230,485,4,No,As new,None
+19,liege,159000,house,for-sale,1,64,1,No,24,38,64,72,2,No,As new,None
+20,oudenaarde,214000,house,for-sale,3,135,1,No,None,660,135,740,3,No,To renovate,None
+21,zwevegem,214000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,180,None,None,None,None,None
+22,gent-sint-amandsberg,214000,new-real-estate-project-houses,for-sale,24,None,1,None,None,None,101185,None,None,None,None,None
+23,tielt-winge,599000,exceptional-property,for-sale,4,318,1,No,37,None,318,1103,4,None,As new,None
+24,beersel,378000,house,for-sale,3,145,1,No,None,None,145,945,3,None,To be done up,None
+25,liege,199000,house,for-sale,4,141,1,No,52,78,141,368,3,No,Just renovated,None
+26,gent,327000,house,for-sale,4,119,1,No,None,None,119,49,2,No,Good,None
+27,liege,419000,exceptional-property,for-sale,3,223,1,No,326,163,223,352,3,No,Good,None
+28,ruddervoorde,539000,villa,for-sale,4,311,1,No,None,730,311,1320,4,No,Good,None
+29,woluwe-saint-pierre,539000,house,for-sale,,None,1,None,None,None,,None,None,None,None,None
+30,libramont-chevigny,299000,house,for-sale,5,140,0,No,30,1000,140,1152,4,No,Good,None
+31,beveren,525000,house,for-sale,4,178,1,No,None,423,178,812,4,None,Good,None
+32,liege-bressoux,210000,house,for-sale,6,203,1,No,None,None,203,187,2,No,To be done up,None
+33,quaregnon,220000,house,for-sale,3,142,0,No,None,None,142,660,None,None,None,None
+34,kapellen,349000,house,for-sale,3,157,1,No,None,None,157,153,2,None,As new,None
+35,blaton,125000,house,for-sale,3,92,1,No,None,None,92,120,2,None,None,None
+36,peruwelz,125000,house,for-sale,1,128,1,No,None,None,128,140,2,None,None,None
+37,saint-leger,230000,house,for-sale,3,230,0,No,16,None,230,4700,2,None,To renovate,None
+38,ninove,599000,house,for-sale,4,246,1,No,None,None,246,468,3,No,As new,None
+39,jette,559000,town-house,for-sale,4,265,1,No,24,100,265,194,2,None,Good,None
+40,uccle,559000,house,for-sale,,None,1,None,None,None,,None,None,None,None,None
+41,sterrebeek,895000,house,for-sale,6,260,1,No,40,742,260,1330,4,No,Good,None
+42,brussels,980000,house,for-sale,6,360,1,No,50,350,360,541,2,No,As new,None
+43,gavere,980000,house,for-sale,,None,1,None,None,None,,None,None,None,None,None
+44,gavere,980000,house,for-sale,,None,1,None,None,None,,None,None,None,None,None
+45,gavere,980000,house,for-sale,,None,1,None,None,None,,None,None,None,None,None
+46,gavere,980000,house,for-sale,,None,1,None,None,None,,None,None,None,None,None
+47,waterloo,770000,house,for-sale,4,231,1,No,None,601,231,601,4,None,As new,None
+48,sint-pieters-leeuw,495000,house,for-sale,3,196,1,No,None,None,196,330,2,None,Good,None
+49,kraainem,2750000,house,for-sale,6,650,1,No,None,None,650,5127,4,Yes,To be done up,None
+0,forest,475000475000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,185,None,None,None,None,None
+1,averbode,475000475000,new-real-estate-project-houses,for-sale,34,None,1,None,None,None,165,None,None,None,None,None
+2,temse,365000,house,for-sale,4,168,1,No,15,800,168,902,4,None,To renovate,None
+3,forest,365000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,182,None,None,None,None,None
+4,saint-josse-ten-noode,370000,house,for-sale,6,230,1,No,18,None,230,80,2,No,To renovate,None
+5,affligem,370000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,212222,None,None,None,None,None
+6,saint-sauveur,370000,new-real-estate-project-houses,for-sale,4,None,1,None,None,None,254263,None,None,None,None,None
+7,nivelles,375000,mansion,for-sale,4,207,1,No,None,518,207,608,2,None,To be done up,None
+8,roosdaal-onze-lieve-vrouw-lombeek,375000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,172,None,None,None,None,None
+9,olen,375000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,140,None,None,None,None,None
+10,perwez,375000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,165186,None,None,None,None,None
+11,vilvoorde,389000,house,for-sale,3,156,1,No,45,224,156,280,3,No,Good,None
+12,anderlecht,389000,house,for-sale,,None,1,None,None,None,,None,None,None,None,None
+13,ganshoren,399000,house,for-sale,3,171,1,None,8,32,171,98,2,None,To renovate,None
+14,limal,399000,house,for-sale,4,215,1,No,40,None,215,3882,4,No,To renovate,None
+15,asse,399000,house,for-sale,3,179,1,None,None,216,179,216,3,None,As new,None
+16,oupeye,399000,exceptional-property,for-sale,3,223,1,No,200,416,223,644,3,Yes,As new,None
+17,oupeye,399000,bungalow,for-sale,4,191,1,No,120,330,191,1467,4,No,To be done up,None
+18,arlon,399000,new-real-estate-project-houses,for-sale,34,None,1,None,None,None,140170,None,None,None,None,None
+19,oreye,400000,villa,for-sale,4,190,1,No,None,600,190,1297,4,None,Good,None
+20,oudenaarde,400000,new-real-estate-project-houses,for-sale,45,None,1,None,None,None,235259,None,None,None,None,None
+21,zulte,400000,new-real-estate-project-houses,for-sale,4,None,1,None,None,None,193,None,None,None,None,None
+22,brakel,400000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,180182,None,None,None,None,None
+23,arlon,400000,new-real-estate-project-houses,for-sale,34,None,1,None,None,None,143220,None,None,None,None,None
+24,opwijk,400000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,152189,None,None,None,None,None
+25,ninove,400000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,221246,None,None,None,None,None
+26,nivelles,425000,villa,for-sale,3,161,1,No,31,517,161,630,4,No,Good,None
+27,tielt-winge,425000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,240263,None,None,None,None,None
+28,liedekerke,428000,house,for-sale,3,232,1,No,None,None,232,515,2,No,As new,None
+29,haasdonk,428000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,233260,None,None,None,None,None
+30,neder-over-heembeek,430000,town-house,for-sale,3,135,1,No,6,100,135,194,2,No,To be done up,None
+31,beveren,430000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,208262,None,None,None,None,None
+32,emblem,430000,new-real-estate-project-houses,for-sale,,None,1,None,None,None,,None,None,None,None,None
+33,ninove,435000,villa,for-sale,4,210,1,None,None,None,210,1945,4,No,Good,None
+34,molenbeek-saint-jean,449000,house,for-sale,4,137,1,None,16,None,137,68,2,None,As new,None
+35,grimbergen,449000,house,for-sale,5,192,1,No,None,None,192,169,2,No,As new,None
+36,sint-katelijne-waver,449000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,152184,None,None,None,None,None
+37,schepdaal,450000,house,for-sale,4,191,1,None,None,None,191,1002,4,None,To renovate,None
+38,marche-en-famenne,450000,exceptional-property,for-sale,4,236,1,No,None,399,236,399,3,No,As new,None
+39,forrieres,450000,house,for-sale,5,290,1,None,55,3067,290,3225,4,No,Good,None
+40,wemmel,459000,house,for-sale,5,178,1,None,8,79,178,128,2,None,As new,None
+41,merchtem,459000,bungalow,for-sale,3,133,1,None,None,522,133,600,4,No,Good,None
+42,gent,459000,new-real-estate-project-houses,for-sale,23,None,1,None,None,None,101132,None,None,None,None,None
+43,gent,459000,new-real-estate-project-houses,for-sale,23,None,1,None,None,None,119152,None,None,None,None,None
+44,bruxelles,465000,house,for-sale,4,229,1,No,48,None,229,110,2,No,As new,None
+45,laeken,465000,house,for-sale,4,229,1,No,48,None,229,110,2,No,As new,None
+46,waterloo,465000,house,for-sale,4,308,1,No,13,164,308,268,3,No,Good,None
+47,oosterzele,470000,house,for-sale,3,171,1,No,16,1396,171,1789,4,No,Good,None
+48,villers-la-ville,475000,villa,for-sale,3,230,1,No,None,2740,230,2907,4,No,Good,None
+49,olen,475000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,278,None,None,None,None,None
