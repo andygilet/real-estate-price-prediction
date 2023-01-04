@@ -3,11 +3,13 @@ from data_aquisition.data_cleaning import reference_dic_needed, clean_escape_cha
 from data_aquisition.scrapper import get_urls
 import pandas as pd
 import csv
+
 def main() :
     ploted_frame = {}
     count = 0
     
-    #get_urls()
+    #urls = get_urls_from_scrapper()
+    #urls = get_urls_from_file()
     
     with open('links.csv', 'r') as links_file : 
         reader = csv.reader(links_file)

@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from webdriver_manager.firefox import GeckoDriverManager
 import numpy as np
+import csv
 
 def try_find_out_of_index(driver : webdriver.Firefox, page : int) -> bool:
     try:
@@ -47,7 +48,7 @@ def create_csv_file(urls : list):
     except:
         print("Unable to create the CSV file !")
     
-def get_urls():
+def get_urls_from_scrapper():
     continue_loop : bool = True
     page = 1
     urls = []
@@ -84,3 +85,8 @@ def get_urls():
             
     print(f"You have {len(urls)} properties !")
     create_csv_file(urls)
+    
+def get_urls_from_file():
+    with open('.\links.csv', 'r') as links_file : 
+        reader = csv.reader(links_file)
+        for row in reader : 
