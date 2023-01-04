@@ -21,7 +21,12 @@ def reference_dic_needed(the_frame):
     last_frame = {}
     only_number_cat = ['Living_area','surface_area_plot','surface_land','facades_number','garden','terrace','Price'] 
     for key,value in needed_data_dic.items() :
-        last_frame[key] = the_frame[value]
+        try : 
+            last_frame[key] = the_frame[value]
+        except : 
+            last_frame[key] = []
+            for _ in range(len(the_frame['locality'])) :
+                last_frame[key].append('None')
         #only number
         if key in only_number_cat : 
             for i,value in enumerate(last_frame[key]) :
