@@ -2,37 +2,25 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from webdriver_manager.firefox import GeckoDriverManager
 import numpy as np
-import time
+
+def try_find_out_of_index(driver : webdriver.Firefox, page : int) -> bool:
+    try:
+        if len(driver.find_elements(By.CLASS_NAME, "pagination__item")) == 0:
+            return True
+        else:
+            return False
+    except:
+        print("ERROR : Unable to check the page !")
+        return False
 
 def change_page(driver : webdriver.Firefox, page : int, buy_type : str, province : str) -> bool:
     try:
         driver.get(f"https://www.immoweb.be/en/search/house-and-apartment/{buy_type}/{province}/province?countries=BE&page={page}&orderBy=relevance")
-        if province == "antwerp" and driver.title != "House and apartment for sale - Antwerp (Province) - Immoweb":
-            raise Exception("Last page attain - Antwerp !")
-        elif province == "limburg" and driver.title != "House and apartment for sale - Limburg (Province) - Immoweb":
-            raise Exception("Last page attain - Limburg !")
-        elif province == "east-flanders" and driver.title != "House and apartment for sale - East Flanders (Province) - Immoweb":
-            raise Exception("Last page attain - East-Flanders !")
-        elif province == "flemish-brabant" and driver.title != "House and apartment for sale - Flemish Brabant (Province) - Immoweb":
-            raise Exception("Last page attain - Flemish-Brabant !")
-        elif province == "west-flanders" and driver.title != "House and apartment for sale - West Flanders (Province) - Immoweb":
-            raise Exception("Last page attain - West-Flanders !")
-        elif province == "walloon-brabant" and driver.title != "House and apartment for sale - Walloon Brabant (Province) - Immoweb":
-            raise Exception("Last page attain - Walloon-Brabant !")
-        elif province == "hainaut" and driver.title != "House and apartment for sale - Hainaut (Province) - Immoweb":
-            raise Exception("Last page attain - Hainaut !")
-        elif province == "liege" and driver.title != "House and apartment for sale - Liège (Province) - Immoweb":
-            raise Exception("Last page attain - Liège !")
-        elif province == "luxembourg" and driver.title != "House and apartment for sale - Luxembourg (Province) - Immoweb":
-            raise Exception("Last page attain - Luxembourg !")
-        elif province == "namur" and driver.title != "House and apartment for sale - Namur (Province) - Immoweb":
-            raise Exception("Last page attain - Namur !")
-        elif province == "brussels" and driver.title != "House and apartment for sale - Brussels (Province) - Immoweb":
-            raise Exception("Last page attain - Brussels !")
+        if try_find_out_of_index(driver, page):
+            raise Exception(f"Last page attain : {province} !")
     except Exception as e:
         print(e)
         return False
-    time.sleep(0.5)
     return True
     
 def try_cookie(driver : webdriver.Firefox):
@@ -77,6 +65,7 @@ def get_urls() -> list:
                  "namur",
                  "brussels"]
     driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
+    driver.implicitly_wait(0.5)
     
     for province in provinces:
         for buy_type in buy_types:
@@ -89,7 +78,9 @@ def get_urls() -> list:
                     page += 1
             page = 1
             driver.close()
-            driver = webdriver.Firefox()
+            driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
+            driver.implicitly_wait(0.5)
+            continue_loop = True
             
     print(f"You have {len(urls)} properties !")
     create_csv_file(urls)
