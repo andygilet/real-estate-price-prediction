@@ -4,11 +4,14 @@ import pandas as pd
 import csv
 import threading
 from threading import RLock
-import os 
+import os
+
 lock = RLock()
+
 def data_to_csv(pass_row) :
     count = 0
     ploted_frame = {}
+    
     with open('links.csv', 'r') as links_file : 
         reader = csv.reader(links_file)
         for i in range(pass_row) :
@@ -20,6 +23,7 @@ def data_to_csv(pass_row) :
             print(f"I'm at {count + pass_row} page done")
             if count == 50 : 
                 break
+                
     for key in ploted_frame:
         ploted_frame[key] = [clean_escape_characters(value) for value in ploted_frame[key]]
     ploted_frame = reference_dic_needed(ploted_frame)
@@ -41,5 +45,6 @@ def main() :
 
     thread.join()
     thread2.join()
+    
 if __name__ == '__main__' :
     main()
