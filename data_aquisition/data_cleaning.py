@@ -2,7 +2,7 @@ import re
 def reference_dic_needed(the_frame):
     needed_data_dic = {
     'locality' : 'locality',
-    'Price' : 'Price, ',
+    'Price' : 'Price',
     'Type_property' : 'property_type',
     'Sale_type' : 'sale_type',
     'Number_bedrooms' : "bedroom",
