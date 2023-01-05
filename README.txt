@@ -44,3 +44,4 @@ Real-Estate-Price-Prediction:
         Cyril Verwimp:
 
         Ibrahim Mettioui:
+           I struggle with the scrapping but thanks to Andy and Cyril for helping me to clarify and to contribute to the project
