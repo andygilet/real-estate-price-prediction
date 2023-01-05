@@ -1,5 +1,6 @@
 from data_aquisition.data_analyse_pandas import get_data_from_url, data_to_pandas
 from data_aquisition.data_cleaning import reference_dic_needed, clean_escape_characters
+from data_aquisition.scrapper import get_urls_from_scrapper
 import pandas as pd
 import csv
 import threading
@@ -40,6 +41,7 @@ def data_to_csv(pass_row) :
 
             
 def main() :
+    #get_urls_from_scrapper()
     threads_list = []
     with open('immo_data.csv', 'w') as data_file : 
         data_file.write('locality,Price,Type_property,Sale_type,Number_bedrooms,Living_area,fully_equipped_kitchen,Furnished,terrace,garden,surface_land,surface_area_plot,facades_number,Swimming_pool,building_state,fire_place\n')
