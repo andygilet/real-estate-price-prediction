@@ -11,6 +11,8 @@ def get_data_from_url(url) :
     #get the data from the url
     url_splited = url.split('/')
     bip_boup = url_splited[5:9]
+    if bip_boup[0] == "new-real-estate-project-houses" or bip_boup[0] == "new-real-estate-project-apartments" :
+        return 'empty'
     page = requests.get(url)
     soup = BeautifulSoup(page.content, 'html.parser')
     #get the data we need from the class 'classified-table_data' (wich are the data)

@@ -1,101 +1,601 @@
-,locality,Type_property,Price,Sale_type,Number_bedrooms,Living_area,fully_equipped_kitchen,Furnished,terrace,garden,surface_land,surface_area_plot,facades_number,Swimming_pool,building_state,fire_place
-0,deinze,27500002750000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,159,None,None,None,None,None
-1,courcelles,300000,house,for-sale,4,264,1,No,None,2900,264,2900,3,None,Good,1
-2,liege,299000,apartment-block,for-sale,4,239,0,No,None,None,239,108,2,No,Good,None
-3,woluwe-saint-pierre,299000,new-real-estate-project-houses,for-sale,4,None,1,None,None,None,380385,None,None,None,None,None
-4,genappe,335000,house,for-sale,4,120,1,No,10,654,120,790,3,No,Good,None
-5,liege,349000,house,for-sale,4,218,1,No,15,120,218,217,3,No,Good,None
-6,ampsin,189000,house,for-sale,3,125,1,No,20,360,125,515,2,None,Good,None
-7,oupeye,249000,house,for-sale,5,201,0,No,40,None,201,106,3,No,Just renovated,None
-8,ronse,349000,mansion,for-sale,4,220,1,No,30,65,220,170,2,No,As new,None
-9,genval,425000,villa,for-sale,4,162,1,No,14,350,162,722,4,No,To renovate,None
-10,molenbeek-saint-jean,379000,house,for-sale,4,250,1,No,None,None,250,100,2,No,To be done up,None
-11,liege-grivegnee,139000,house,for-sale,2,80,1,No,45,None,80,113,2,No,To renovate,None
-12,ans,189000,apartment-block,for-sale,3,177,1,No,150,100,177,450,None,None,To renovate,None
-13,ans,189000,house,for-sale,3,177,1,No,150,100,177,450,None,None,To renovate,None
-14,flemalle,189000,house,for-sale,3,111,1,No,5,57,111,173,2,None,Good,None
-15,huy,439000,mixed-use-building,for-sale,3,205,1,No,None,6800,205,7159,4,No,Good,None
-16,dilbeek,645000,exceptional-property,for-sale,3,196,1,None,None,None,196,785,4,None,Good,None
-17,kampenhout,995000,villa,for-sale,4,275,1,No,30,1324,275,1538,4,No,Good,None
-18,kraainem,1100000,house,for-sale,5,230,1,No,45,400,230,485,4,No,As new,None
-19,liege,159000,house,for-sale,1,64,1,No,24,38,64,72,2,No,As new,None
-20,oudenaarde,214000,house,for-sale,3,135,1,No,None,660,135,740,3,No,To renovate,None
-21,zwevegem,214000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,180,None,None,None,None,None
-22,gent-sint-amandsberg,214000,new-real-estate-project-houses,for-sale,24,None,1,None,None,None,101185,None,None,None,None,None
-23,tielt-winge,599000,exceptional-property,for-sale,4,318,1,No,37,None,318,1103,4,None,As new,None
-24,beersel,378000,house,for-sale,3,145,1,No,None,None,145,945,3,None,To be done up,None
-25,liege,199000,house,for-sale,4,141,1,No,52,78,141,368,3,No,Just renovated,None
-26,gent,327000,house,for-sale,4,119,1,No,None,None,119,49,2,No,Good,None
-27,liege,419000,exceptional-property,for-sale,3,223,1,No,326,163,223,352,3,No,Good,None
-28,ruddervoorde,539000,villa,for-sale,4,311,1,No,None,730,311,1320,4,No,Good,None
-29,woluwe-saint-pierre,539000,house,for-sale,,None,1,None,None,None,,None,None,None,None,None
-30,libramont-chevigny,299000,house,for-sale,5,140,0,No,30,1000,140,1152,4,No,Good,None
-31,beveren,525000,house,for-sale,4,178,1,No,None,423,178,812,4,None,Good,None
-32,liege-bressoux,210000,house,for-sale,6,203,1,No,None,None,203,187,2,No,To be done up,None
-33,quaregnon,220000,house,for-sale,3,142,0,No,None,None,142,660,None,None,None,None
-34,kapellen,349000,house,for-sale,3,157,1,No,None,None,157,153,2,None,As new,None
-35,blaton,125000,house,for-sale,3,92,1,No,None,None,92,120,2,None,None,None
-36,peruwelz,125000,house,for-sale,1,128,1,No,None,None,128,140,2,None,None,None
-37,saint-leger,230000,house,for-sale,3,230,0,No,16,None,230,4700,2,None,To renovate,None
-38,ninove,599000,house,for-sale,4,246,1,No,None,None,246,468,3,No,As new,None
-39,jette,559000,town-house,for-sale,4,265,1,No,24,100,265,194,2,None,Good,None
-40,uccle,559000,house,for-sale,,None,1,None,None,None,,None,None,None,None,None
-41,sterrebeek,895000,house,for-sale,6,260,1,No,40,742,260,1330,4,No,Good,None
-42,brussels,980000,house,for-sale,6,360,1,No,50,350,360,541,2,No,As new,None
-43,gavere,980000,house,for-sale,,None,1,None,None,None,,None,None,None,None,None
-44,gavere,980000,house,for-sale,,None,1,None,None,None,,None,None,None,None,None
-45,gavere,980000,house,for-sale,,None,1,None,None,None,,None,None,None,None,None
-46,gavere,980000,house,for-sale,,None,1,None,None,None,,None,None,None,None,None
-47,waterloo,770000,house,for-sale,4,231,1,No,None,601,231,601,4,None,As new,None
-48,sint-pieters-leeuw,495000,house,for-sale,3,196,1,No,None,None,196,330,2,None,Good,None
-49,kraainem,2750000,house,for-sale,6,650,1,No,None,None,650,5127,4,Yes,To be done up,None
-0,forest,475000475000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,185,None,None,None,None,None
-1,averbode,475000475000,new-real-estate-project-houses,for-sale,34,None,1,None,None,None,165,None,None,None,None,None
-2,temse,365000,house,for-sale,4,168,1,No,15,800,168,902,4,None,To renovate,None
-3,forest,365000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,182,None,None,None,None,None
-4,saint-josse-ten-noode,370000,house,for-sale,6,230,1,No,18,None,230,80,2,No,To renovate,None
-5,affligem,370000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,212222,None,None,None,None,None
-6,saint-sauveur,370000,new-real-estate-project-houses,for-sale,4,None,1,None,None,None,254263,None,None,None,None,None
-7,nivelles,375000,mansion,for-sale,4,207,1,No,None,518,207,608,2,None,To be done up,None
-8,roosdaal-onze-lieve-vrouw-lombeek,375000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,172,None,None,None,None,None
-9,olen,375000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,140,None,None,None,None,None
-10,perwez,375000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,165186,None,None,None,None,None
-11,vilvoorde,389000,house,for-sale,3,156,1,No,45,224,156,280,3,No,Good,None
-12,anderlecht,389000,house,for-sale,,None,1,None,None,None,,None,None,None,None,None
-13,ganshoren,399000,house,for-sale,3,171,1,None,8,32,171,98,2,None,To renovate,None
-14,limal,399000,house,for-sale,4,215,1,No,40,None,215,3882,4,No,To renovate,None
-15,asse,399000,house,for-sale,3,179,1,None,None,216,179,216,3,None,As new,None
-16,oupeye,399000,exceptional-property,for-sale,3,223,1,No,200,416,223,644,3,Yes,As new,None
-17,oupeye,399000,bungalow,for-sale,4,191,1,No,120,330,191,1467,4,No,To be done up,None
-18,arlon,399000,new-real-estate-project-houses,for-sale,34,None,1,None,None,None,140170,None,None,None,None,None
-19,oreye,400000,villa,for-sale,4,190,1,No,None,600,190,1297,4,None,Good,None
-20,oudenaarde,400000,new-real-estate-project-houses,for-sale,45,None,1,None,None,None,235259,None,None,None,None,None
-21,zulte,400000,new-real-estate-project-houses,for-sale,4,None,1,None,None,None,193,None,None,None,None,None
-22,brakel,400000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,180182,None,None,None,None,None
-23,arlon,400000,new-real-estate-project-houses,for-sale,34,None,1,None,None,None,143220,None,None,None,None,None
-24,opwijk,400000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,152189,None,None,None,None,None
-25,ninove,400000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,221246,None,None,None,None,None
-26,nivelles,425000,villa,for-sale,3,161,1,No,31,517,161,630,4,No,Good,None
-27,tielt-winge,425000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,240263,None,None,None,None,None
-28,liedekerke,428000,house,for-sale,3,232,1,No,None,None,232,515,2,No,As new,None
-29,haasdonk,428000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,233260,None,None,None,None,None
-30,neder-over-heembeek,430000,town-house,for-sale,3,135,1,No,6,100,135,194,2,No,To be done up,None
-31,beveren,430000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,208262,None,None,None,None,None
-32,emblem,430000,new-real-estate-project-houses,for-sale,,None,1,None,None,None,,None,None,None,None,None
-33,ninove,435000,villa,for-sale,4,210,1,None,None,None,210,1945,4,No,Good,None
-34,molenbeek-saint-jean,449000,house,for-sale,4,137,1,None,16,None,137,68,2,None,As new,None
-35,grimbergen,449000,house,for-sale,5,192,1,No,None,None,192,169,2,No,As new,None
-36,sint-katelijne-waver,449000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,152184,None,None,None,None,None
-37,schepdaal,450000,house,for-sale,4,191,1,None,None,None,191,1002,4,None,To renovate,None
-38,marche-en-famenne,450000,exceptional-property,for-sale,4,236,1,No,None,399,236,399,3,No,As new,None
-39,forrieres,450000,house,for-sale,5,290,1,None,55,3067,290,3225,4,No,Good,None
-40,wemmel,459000,house,for-sale,5,178,1,None,8,79,178,128,2,None,As new,None
-41,merchtem,459000,bungalow,for-sale,3,133,1,None,None,522,133,600,4,No,Good,None
-42,gent,459000,new-real-estate-project-houses,for-sale,23,None,1,None,None,None,101132,None,None,None,None,None
-43,gent,459000,new-real-estate-project-houses,for-sale,23,None,1,None,None,None,119152,None,None,None,None,None
-44,bruxelles,465000,house,for-sale,4,229,1,No,48,None,229,110,2,No,As new,None
-45,laeken,465000,house,for-sale,4,229,1,No,48,None,229,110,2,No,As new,None
-46,waterloo,465000,house,for-sale,4,308,1,No,13,164,308,268,3,No,Good,None
-47,oosterzele,470000,house,for-sale,3,171,1,No,16,1396,171,1789,4,No,Good,None
-48,villers-la-ville,475000,villa,for-sale,3,230,1,No,None,2740,230,2907,4,No,Good,None
-49,olen,475000,new-real-estate-project-houses,for-sale,3,None,1,None,None,None,278,None,None,None,None,None
+,locality,Price,Type_property,Sale_type,Number_bedrooms,Living_area,fully_equipped_kitchen,Furnished,terrace,garden,surface_land,surface_area_plot,facades_number,Swimming_pool,building_state,fire_place
+antwerp,299000,apartment,for-sale,3,103,1,0,8,None,103,None,2,None,As new,None
+willebroek,150000,apartment,for-sale,1,67,1,0,4,None,67,None,None,None,Just renovated,None
+willebroek,155000,apartment,for-sale,1,67,1,0,4,None,67,None,None,None,Just renovated,None
+antwerpen,390000,house,for-sale,3,180,1,None,None,120,180,207,2,0,Good,1
+berchem,229000,apartment,for-sale,3,85,None,0,None,None,85,None,2,None,Good,None
+willebroek,135000,flat-studio,for-sale,1,50,1,0,None,None,50,None,2,None,Good,None
+antwerp,179000,apartment,for-sale,2,79,1,0,5,None,79,None,2,None,Good,None
+hoboken,199000,apartment,for-sale,2,90,1,0,9,None,90,None,2,None,Good,None
+willebroek,219000,apartment,for-sale,2,93,1,0,10,None,93,None,2,None,Good,None
+willebroek,221000,apartment,for-sale,2,83,1,0,None,None,83,None,2,None,To be done up,None
+hoboken,225000,apartment,for-sale,2,82,1,0,6,None,82,None,None,None,As new,None
+bornem,234000,house,for-sale,3,123,1,0,30,None,123,190,3,None,To renovate,None
+neder-over-heembeek,575000,house,for-sale,4,165,1,0,19,42,165,None,2,None,As new,None
+ninove,475000,house,for-sale,3,212,1,0,None,None,212,1687,None,None,Good,None
+antwerpen-6,229000,duplex,for-sale,1,67,1,1,4,None,67,None,2,None,Just renovated,None
+sint-idesbald,375000,apartment,for-sale,2,67,1,1,3,None,67,None,2,0,Just renovated,None
+roeselare,185000,house,for-sale,3,209,1,1,None,None,209,259,4,None,Good,None
+waregem,290000,duplex,for-sale,2,115,1,0,6,None,115,None,4,0,As new,None
+herent,441000,apartment,for-sale,2,122,1,0,20,None,122,None,None,None,As new,None
+brugge,900000,house,for-sale,2,668,1,0,None,None,668,284,2,0,To be done up,None
+sint-amands,289000,apartment,for-sale,3,138,1,0,21,None,138,None,2,None,Good,None
+willebroek,295000,mixed-use-building,for-sale,4,80,1,0,None,None,80,350,2,None,To renovate,None
+sint-job-in-t-goor,335000,duplex,for-sale,2,128,1,0,22,None,128,None,3,None,As new,None
+mechelen,349000,apartment,for-sale,3,120,1,0,None,None,120,None,2,None,To be done up,None
+mechelen,595000,mixed-use-building,for-sale,4,232,1,0,None,None,232,89,2,0,Good,None
+brasschaat,3250000,villa,for-sale,5,577,1,1,396,8500,577,10431,4,1,Good,1
+willebroek,195000,ground-floor,for-sale,1,67,1,0,11,85,67,None,2,None,Just renovated,None
+hoboken,375000,house,for-sale,4,214,1,0,11,126,214,190,2,None,As new,None
+lippelo,444000,house,for-sale,5,371,1,0,30,None,371,460,3,None,Good,None
+putte,525000,house,for-sale,3,260,1,None,None,None,260,898,4,0,As new,None
+onze-lieve-vrouw-waver,199000,apartment,for-sale,1,59,1,0,None,None,59,None,2,None,Good,None
+antwerpen,249000,apartment,for-sale,3,121,1,None,6,None,121,None,2,0,Good,None
+beerzel,299500,apartment,for-sale,2,67,1,0,7,None,67,None,None,None,Good,None
+wilrijk,314000,apartment,for-sale,4,145,None,0,13,None,145,None,3,None,As new,None
+liezele,318000,apartment,for-sale,2,108,1,0,6,None,108,None,None,None,Good,None
+hemiksem,400000,apartment,for-sale,2,150,1,0,7,None,150,None,4,None,Good,None
+antwerpen,565000,penthouse,for-sale,2,133,1,0,25,None,133,None,3,None,As new,None
+antwerp,649000,triplex,for-sale,2,222,1,0,7,None,222,None,2,None,Good,None
+hoogstraten,995000,penthouse,for-sale,4,267,1,0,None,None,267,None,3,None,As new,1
+antwerpen,1235000,apartment,for-sale,3,197,1,0,130,None,197,None,2,1,Good,1
+antwerpen,840000,house,for-sale,5,445,1,None,12,None,445,445,1,0,To be done up,None
+bornem,194000,house,for-sale,3,100,1,0,None,150,100,283,3,None,To renovate,None
+duffel,395000,house,for-sale,4,165,1,0,63,360,165,689,3,None,To be done up,None
+hoboken,195000,apartment,for-sale,2,90,1,0,6,None,90,None,2,None,To be done up,None
+duffel,210000,apartment,for-sale,2,95,1,0,None,None,95,None,None,None,Good,None
+bornem,295000,apartment,for-sale,2,102,1,0,3,None,102,None,2,None,Good,None
+zwijndrecht-burcht,495000,penthouse,for-sale,2,135,1,0,65,None,135,None,3,0,As new,None
+oud-turnhout,575000,apartment,for-sale,3,230,1,0,30,None,230,None,4,None,As new,1
+oud-turnhout,585000,apartment,for-sale,3,222,1,0,30,None,222,None,4,None,As new,None
+berchem,395000,apartment,for-sale,2,132,1,None,None,None,132,None,2,0,Good,None
+sint-amands,289000,apartment,for-sale,3,138,1,0,21,None,138,None,2,None,Good,None
+willebroek,295000,mixed-use-building,for-sale,4,80,1,0,None,None,80,350,2,None,To renovate,None
+sint-job-in-t-goor,335000,duplex,for-sale,2,128,1,0,22,None,128,None,3,None,As new,None
+mechelen,349000,apartment,for-sale,3,120,1,0,None,None,120,None,2,None,To be done up,None
+mechelen,595000,mixed-use-building,for-sale,4,232,1,0,None,None,232,89,2,0,Good,None
+brasschaat,3250000,villa,for-sale,5,577,1,1,396,8500,577,10431,4,1,Good,1
+willebroek,195000,ground-floor,for-sale,1,67,1,0,11,85,67,None,2,None,Just renovated,None
+hoboken,375000,house,for-sale,4,214,1,0,11,126,214,190,2,None,As new,None
+lippelo,444000,house,for-sale,5,371,1,0,30,None,371,460,3,None,Good,None
+putte,525000,house,for-sale,3,260,1,None,None,None,260,898,4,0,As new,None
+onze-lieve-vrouw-waver,199000,apartment,for-sale,1,59,1,0,None,None,59,None,2,None,Good,None
+antwerpen,249000,apartment,for-sale,3,121,1,None,6,None,121,None,2,0,Good,None
+beerzel,299500,apartment,for-sale,2,67,1,0,7,None,67,None,None,None,Good,None
+wilrijk,314000,apartment,for-sale,4,145,None,0,13,None,145,None,3,None,As new,None
+liezele,318000,apartment,for-sale,2,108,1,0,6,None,108,None,None,None,Good,None
+hemiksem,400000,apartment,for-sale,2,150,1,0,7,None,150,None,4,None,Good,None
+antwerpen,565000,penthouse,for-sale,2,133,1,0,25,None,133,None,3,None,As new,None
+antwerp,649000,triplex,for-sale,2,222,1,0,7,None,222,None,2,None,Good,None
+hoogstraten,995000,penthouse,for-sale,4,267,1,0,None,None,267,None,3,None,As new,1
+antwerpen,1235000,apartment,for-sale,3,197,1,0,130,None,197,None,2,1,Good,1
+antwerpen,840000,house,for-sale,5,445,1,None,12,None,445,445,1,0,To be done up,None
+bornem,194000,house,for-sale,3,100,1,0,None,150,100,283,3,None,To renovate,None
+duffel,395000,house,for-sale,4,165,1,0,63,360,165,689,3,None,To be done up,None
+hoboken,195000,apartment,for-sale,2,90,1,0,6,None,90,None,2,None,To be done up,None
+duffel,210000,apartment,for-sale,2,95,1,0,None,None,95,None,None,None,Good,None
+bornem,295000,apartment,for-sale,2,102,1,0,3,None,102,None,2,None,Good,None
+zwijndrecht-burcht,495000,penthouse,for-sale,2,135,1,0,65,None,135,None,3,0,As new,None
+oud-turnhout,575000,apartment,for-sale,3,230,1,0,30,None,230,None,4,None,As new,1
+oud-turnhout,585000,apartment,for-sale,3,222,1,0,30,None,222,None,4,None,As new,None
+berchem,395000,apartment,for-sale,2,132,1,None,None,None,132,None,2,0,Good,None
+herselt,281750,apartment,for-sale,2,99,1,None,21,None,99,None,2,0,As new,None
+edegem,315000,apartment,for-sale,1,72,1,0,8,None,72,None,2,0,As new,None
+edegem,320000,apartment,for-sale,1,72,1,0,8,None,72,None,2,0,As new,None
+herselt,329000,apartment,for-sale,2,116,1,None,9,None,116,None,3,None,As new,None
+herselt,363250,apartment,for-sale,3,124,1,None,32,None,124,None,2,0,As new,None
+edegem,420000,apartment,for-sale,2,94,1,0,9,None,94,None,2,0,As new,None
+edegem,425000,apartment,for-sale,2,94,1,0,9,None,94,None,2,0,As new,None
+edegem,590000,apartment,for-sale,2,122,1,0,15,None,122,None,2,0,As new,None
+sint-katelijne-waver,698000,villa,for-sale,3,206,1,0,46,857,206,1028,4,None,None,None
+willebroek,139000,house,for-sale,2,94,1,0,None,67,94,151,2,0,To renovate,None
+wommelgem,579000,house,for-sale,3,210,1,0,100,490,210,744,4,None,Good,None
+antwerpen-6,579000,mansion,for-sale,4,255,1,None,None,27,255,125,2,None,Just renovated,None
+hoboken,229000,apartment,for-sale,2,102,None,0,9,None,102,None,2,None,As new,None
+wilrijk,189500,apartment,for-sale,1,75,1,0,None,None,75,None,None,None,Just renovated,None
+antwerp,1295000,penthouse,for-sale,2,175,1,None,30,None,175,None,4,0,As new,1
+schoten,2595000,exceptional-property,for-sale,5,811,1,0,None,None,811,9100,4,1,As new,None
+putte,448000,house,for-sale,3,175,1,0,37,200,175,503,3,None,Good,None
+sint-katelijne-waver,259000,house,for-sale,3,140,1,0,17,75,140,304,3,None,To renovate,None
+puurs,287000,house,for-sale,3,131,1,0,None,None,131,223,3,None,Good,None
+willebroek,297000,house,for-sale,3,150,1,0,6,None,150,80,2,None,Good,None
+brasschaat,3250000,villa,for-sale,5,577,1,1,396,8500,577,10431,4,1,Good,1
+willebroek,195000,ground-floor,for-sale,1,67,1,0,11,85,67,None,2,None,Just renovated,None
+hoboken,375000,house,for-sale,4,214,1,0,11,126,214,190,2,None,As new,None
+lippelo,444000,house,for-sale,5,371,1,0,30,None,371,460,3,None,Good,None
+putte,525000,house,for-sale,3,260,1,None,None,None,260,898,4,0,As new,None
+onze-lieve-vrouw-waver,199000,apartment,for-sale,1,59,1,0,None,None,59,None,2,None,Good,None
+antwerpen,249000,apartment,for-sale,3,121,1,None,6,None,121,None,2,0,Good,None
+beerzel,299500,apartment,for-sale,2,67,1,0,7,None,67,None,None,None,Good,None
+wilrijk,314000,apartment,for-sale,4,145,None,0,13,None,145,None,3,None,As new,None
+liezele,318000,apartment,for-sale,2,108,1,0,6,None,108,None,None,None,Good,None
+hemiksem,400000,apartment,for-sale,2,150,1,0,7,None,150,None,4,None,Good,None
+antwerpen,565000,penthouse,for-sale,2,133,1,0,25,None,133,None,3,None,As new,None
+antwerp,649000,triplex,for-sale,2,222,1,0,7,None,222,None,2,None,Good,None
+hoogstraten,995000,penthouse,for-sale,4,267,1,0,None,None,267,None,3,None,As new,1
+antwerpen,1235000,apartment,for-sale,3,197,1,0,130,None,197,None,2,1,Good,1
+antwerpen,840000,house,for-sale,5,445,1,None,12,None,445,445,1,0,To be done up,None
+bornem,194000,house,for-sale,3,100,1,0,None,150,100,283,3,None,To renovate,None
+duffel,395000,house,for-sale,4,165,1,0,63,360,165,689,3,None,To be done up,None
+hoboken,195000,apartment,for-sale,2,90,1,0,6,None,90,None,2,None,To be done up,None
+duffel,210000,apartment,for-sale,2,95,1,0,None,None,95,None,None,None,Good,None
+bornem,295000,apartment,for-sale,2,102,1,0,3,None,102,None,2,None,Good,None
+zwijndrecht-burcht,495000,penthouse,for-sale,2,135,1,0,65,None,135,None,3,0,As new,None
+oud-turnhout,575000,apartment,for-sale,3,230,1,0,30,None,230,None,4,None,As new,1
+oud-turnhout,585000,apartment,for-sale,3,222,1,0,30,None,222,None,4,None,As new,None
+berchem,395000,apartment,for-sale,2,132,1,None,None,None,132,None,2,0,Good,None
+herselt,281750,apartment,for-sale,2,99,1,None,21,None,99,None,2,0,As new,None
+edegem,315000,apartment,for-sale,1,72,1,0,8,None,72,None,2,0,As new,None
+edegem,320000,apartment,for-sale,1,72,1,0,8,None,72,None,2,0,As new,None
+herselt,329000,apartment,for-sale,2,116,1,None,9,None,116,None,3,None,As new,None
+herselt,363250,apartment,for-sale,3,124,1,None,32,None,124,None,2,0,As new,None
+edegem,420000,apartment,for-sale,2,94,1,0,9,None,94,None,2,0,As new,None
+edegem,425000,apartment,for-sale,2,94,1,0,9,None,94,None,2,0,As new,None
+edegem,590000,apartment,for-sale,2,122,1,0,15,None,122,None,2,0,As new,None
+sint-katelijne-waver,698000,villa,for-sale,3,206,1,0,46,857,206,1028,4,None,None,None
+willebroek,139000,house,for-sale,2,94,1,0,None,67,94,151,2,0,To renovate,None
+wommelgem,579000,house,for-sale,3,210,1,0,100,490,210,744,4,None,Good,None
+antwerpen-6,579000,mansion,for-sale,4,255,1,None,None,27,255,125,2,None,Just renovated,None
+hoboken,229000,apartment,for-sale,2,102,None,0,9,None,102,None,2,None,As new,None
+wilrijk,189500,apartment,for-sale,1,75,1,0,None,None,75,None,None,None,Just renovated,None
+antwerp,1295000,penthouse,for-sale,2,175,1,None,30,None,175,None,4,0,As new,1
+schoten,2595000,exceptional-property,for-sale,5,811,1,0,None,None,811,9100,4,1,As new,None
+putte,448000,house,for-sale,3,175,1,0,37,200,175,503,3,None,Good,None
+sint-katelijne-waver,259000,house,for-sale,3,140,1,0,17,75,140,304,3,None,To renovate,None
+puurs,287000,house,for-sale,3,131,1,0,None,None,131,223,3,None,Good,None
+willebroek,297000,house,for-sale,3,150,1,0,6,None,150,80,2,None,Good,None
+borsbeek,298000,house,for-sale,3,120,None,0,12,100,120,219,2,None,To be done up,None
+willebroek,329000,house,for-sale,3,145,1,0,30,None,145,100,2,None,Just renovated,None
+sint-katelijne-waver,349000,house,for-sale,3,167,1,0,None,70,167,368,3,None,To renovate,None
+sint-katelijne-waver,369000,house,for-sale,3,183,1,0,None,61,183,375,3,None,To renovate,None
+rumst,365000,house,for-sale,3,180,1,0,20,450,180,700,3,None,To renovate,None
+mechelen,689000,villa,for-sale,5,424,1,0,37,2577,424,3126,4,None,Good,None
+antwerp,950000,house,for-sale,5,285,1,0,None,1275,285,1590,4,1,As new,None
+antwerpen,1990000,apartment-block,for-sale,13,620,1,1,110,None,620,300,3,0,As new,None
+duffel,248000,house,for-sale,3,125,None,0,None,80,125,150,2,None,To be done up,None
+beerse,795000,villa,for-sale,4,451,1,0,None,None,451,2641,4,None,Good,1
+herselt,224750,apartment,for-sale,1,74,None,None,15,None,74,None,2,0,As new,None
+boom,225000,apartment,for-sale,2,90,1,0,None,None,90,None,2,None,Good,None
+hoboken,259000,ground-floor,for-sale,2,85,1,0,None,None,85,None,2,None,As new,None
+wilrijk,299900,duplex,for-sale,2,130,1,0,9,96,130,None,2,None,As new,None
+antwerp,950000,apartment,for-sale,2,180,1,0,48,None,180,None,4,0,As new,None
+antwerp,2895000,penthouse,for-sale,4,394,None,0,None,352,394,None,2,0,As new,None
+deurne,187000,apartment,for-sale,2,90,1,0,3,None,90,None,2,None,Good,None
+lier,244000,apartment,for-sale,2,90,1,0,10,None,90,None,2,None,None,None
+lier,244000,apartment,for-sale,2,90,1,0,10,None,90,None,2,None,None,None
+geel,339000,penthouse,for-sale,3,130,1,0,49,None,130,None,4,None,None,None
+lier,365000,penthouse,for-sale,2,126,1,0,34,None,126,None,2,None,None,None
+lier,365000,apartment,for-sale,2,126,1,0,34,None,126,None,2,None,None,None
+edegem,550000,ground-floor,for-sale,2,120,1,0,10,17,120,None,2,0,As new,None
+herselt,65000,chalet,for-sale,2,75,None,0,None,None,75,919,4,None,To be done up,None
+sint-amands,249000,house,for-sale,3,164,1,0,None,None,164,242,2,None,To be done up,None
+puurs,315000,house,for-sale,2,165,1,0,24,None,165,214,4,None,Good,None
+putte,329000,house,for-sale,4,215,None,0,None,None,215,212,3,None,Good,None
+heist-op-den-berg,364000,house,for-sale,2,206,1,0,None,685,206,1139,4,None,None,None
+putte,379000,house,for-sale,4,225,None,0,None,None,225,3613,4,None,To be done up,None
+hoboken,389500,house,for-sale,3,169,1,0,None,45,169,141,None,None,Good,None
+edegem,399000,town-house,for-sale,3,156,1,0,None,None,156,168,2,None,Good,None
+ekeren,410000,house,for-sale,5,250,1,None,52,90,250,270,None,None,To be done up,None
+sint-katelijne-waver,440000,house,for-sale,4,255,1,0,None,None,255,340,2,None,Good,None
+sint-katelijne-waver,450000,house,for-sale,3,150,1,0,None,None,150,1347,4,None,Good,None
+antwerpen-1,495000,house,for-sale,2,95,1,0,83,None,95,135,4,None,Just renovated,None
+lier,569000,house,for-sale,5,448,None,0,None,None,448,1801,4,None,To be done up,2
+zoersel,685000,house,for-sale,4,284,1,0,None,None,284,1260,4,1,Good,1
+ekeren,875000,villa,for-sale,4,329,1,0,None,None,329,2135,4,None,Good,None
+heist-op-den-berg,875000,house,for-sale,2,357,1,0,None,None,357,1455,4,None,Good,None
+willebroek,957000,apartment-block,for-sale,None,None,0,0,None,None,None,1140,4,None,To renovate,None
+sint-antonius,1380000,exceptional-property,for-sale,4,415,1,0,120,None,415,4140,4,1,Just renovated,1
+muizen,1475000,exceptional-property,for-sale,10,395,1,0,None,None,395,4827,4,None,Good,None
+zandhoven,1495000,villa,for-sale,7,577,1,0,None,None,577,3676,4,None,As new,1
+herentals,2100000,villa,for-sale,5,459,1,0,None,None,459,4496,4,1,As new,1
+mechelen,579000,house,for-sale,3,240,1,0,None,330,240,527,3,None,None,None
+heist-op-den-berg,645000,exceptional-property,for-sale,7,360,1,None,70,1400,360,1776,4,0,Just renovated,None
+herentals,345000,apartment,for-sale,2,85,1,0,18,None,85,None,2,None,Just renovated,None
+herentals,388500,penthouse,for-sale,2,114,1,0,12,None,114,None,2,None,Just renovated,None
+antwerp,490000,apartment,for-sale,2,100,1,None,18,None,100,None,2,None,As new,None
+antwerpen,695000,loft,for-sale,2,220,1,0,None,150,220,None,2,None,Just renovated,None
+antwerp,249500,house,for-sale,3,117,None,0,None,28,117,99,2,None,To be done up,None
+mechelen,297000,house,for-sale,2,126,1,0,None,None,126,60,2,None,None,None
+mortsel,298000,house,for-sale,3,213,1,0,None,None,213,150,2,None,To be done up,None
+sint-katelijne-waver,325000,house,for-sale,4,144,1,0,None,None,144,1970,3,None,To renovate,None
+hoboken,329900,house,for-sale,4,244,None,0,None,45,244,165,2,None,Good,None
+ranst,397000,house,for-sale,2,180,1,0,21,389,180,480,4,0,Good,None
+blaasveld,399000,house,for-sale,4,169,1,0,24,None,169,497,4,None,To renovate,None
+mol,409000,villa,for-sale,4,200,1,None,None,700,200,836,4,0,Just renovated,None
+brecht,419000,house,for-sale,2,135,1,0,30,977,135,1174,4,None,To renovate,1
+blaasveld,498000,house,for-sale,3,238,1,0,None,None,238,401,3,None,Good,1
+zoersel,499000,house,for-sale,3,195,1,0,None,None,195,1353,4,None,Good,1
+muizen,545000,house,for-sale,4,311,1,0,None,None,311,974,4,None,Good,None
+mechelen,595000,mansion,for-sale,None,None,1,0,None,None,None,89,2,0,Good,None
+malle,599900,villa,for-sale,4,240,1,0,None,1000,240,1400,4,None,Good,None
+herentals,785000,villa,for-sale,5,333,1,0,None,None,333,3302,4,None,Good,1
+duffel,880000,house,for-sale,5,447,1,0,None,None,447,900,4,None,To be done up,None
+sint-job-in-t-goor,899000,villa,for-sale,6,505,1,0,62,1460,505,1841,4,None,To be done up,None
+balen,1049000,villa,for-sale,3,455,1,0,None,4700,455,6565,4,None,As new,None
+borgerhout,184000,apartment,for-sale,2,90,1,None,17,None,90,None,None,0,Good,None
+lier,185000,apartment,for-sale,1,50,1,0,None,None,50,None,2,None,None,None
+wilrijk,199000,apartment,for-sale,3,88,None,0,3,None,88,None,2,None,To be done up,None
+duffel,235000,ground-floor,for-sale,2,88,1,0,15,None,88,None,2,None,Good,None
+willebroek,250000,apartment,for-sale,2,98,1,0,142,None,98,None,4,None,None,None
+lier,250000,apartment,for-sale,1,63,1,0,10,None,63,None,None,None,None,None
+wilrijk,269000,apartment,for-sale,2,89,1,0,16,None,89,None,None,None,Just renovated,None
+schoten,269000,apartment,for-sale,2,114,None,0,6,None,114,None,3,None,Good,None
+berchem,344000,apartment,for-sale,2,100,1,0,2,None,100,None,3,None,Just renovated,None
+antwerp,595000,apartment,for-sale,3,186,1,0,82,None,186,None,4,None,None,None
+antwerpen-1,625000,apartment,for-sale,2,190,1,0,None,None,190,None,2,None,Just renovated,None
+willebroek,625000,apartment,for-sale,6,264,1,0,None,None,264,None,2,None,To be done up,None
+broechem,399000,house,for-sale,3,160,1,0,None,None,160,952,3,None,Good,None
+lier,455000,house,for-sale,3,373,1,0,None,275,373,373,3,0,Just renovated,None
+zandhoven,291013,duplex,for-sale,2,116,1,0,12,None,116,None,2,None,None,None
+grobbendonk,205000,apartment,for-sale,1,73,1,0,4,None,73,None,2,None,Just renovated,None
+grobbendonk,315000,penthouse,for-sale,2,104,1,0,15,None,104,None,2,None,Just renovated,None
+grobbendonk,975000,house,for-sale,5,550,1,0,None,None,550,2283,None,None,Good,1
+antwerp,240000,apartment,for-sale,1,76,1,0,5,None,76,None,2,None,Just renovated,None
+bonheiden,850000,house,for-sale,5,230,1,0,12,None,230,445,3,1,None,None
+kapellen,985000,villa,for-sale,6,394,1,0,None,None,394,3215,4,None,As new,1
+hoboken,275000,apartment,for-sale,3,100,1,0,9,None,100,None,None,None,As new,None
+antwerp,225000,house,for-sale,2,110,1,0,None,18,110,90,None,None,As new,None
+wilrijk,465000,house,for-sale,4,200,1,0,None,175,200,359,3,None,None,1
+willebroek,395000,house,for-sale,5,182,1,0,None,None,182,518,3,None,Good,None
+sint-katelijne-waver,485000,house,for-sale,2,203,1,0,None,None,203,829,4,None,Good,None
+antwerp,990000,apartment,for-sale,3,184,1,0,15,None,184,None,2,0,Good,None
+rumst,225000,house,for-sale,3,165,1,0,None,None,165,298,2,None,To be done up,None
+bornem,227000,house,for-sale,3,184,1,0,None,None,184,228,2,None,To renovate,None
+schoten,229000,house,for-sale,3,165,1,0,None,50,165,150,2,None,To renovate,None
+bornem,245000,house,for-sale,3,141,1,0,None,None,141,130,2,None,Good,None
+sint-katelijne-waver,270000,house,for-sale,2,152,1,0,None,300,152,564,4,None,To renovate,None
+mechelen,279000,house,for-sale,3,127,1,0,21,None,127,94,2,None,To renovate,None
+willebroek,285000,house,for-sale,4,158,1,0,9,220,158,320,3,None,To renovate,None
+puurs,285000,house,for-sale,2,163,1,0,None,None,163,562,3,None,To renovate,None
+pulle,299000,house,for-sale,3,190,1,0,20,None,190,435,3,None,To renovate,None
+bornem,307000,house,for-sale,4,168,1,0,None,None,168,376,3,None,Good,None
+mechelen,309000,house,for-sale,2,112,1,0,None,None,112,148,3,None,Good,None
+puurs-sint-amands,324000,house,for-sale,4,189,1,0,None,None,189,659,3,None,To renovate,None
+hoboken,325000,house,for-sale,3,152,1,0,None,30,152,143,2,None,To be done up,None
+brasschaat,329000,house,for-sale,3,135,1,0,None,None,135,425,3,None,To renovate,None
+antwerp,329500,house,for-sale,3,138,1,0,20,10,138,75,2,None,As new,None
+hoboken,359000,town-house,for-sale,3,144,None,0,12,95,144,173,2,None,Good,None
+brecht,385000,house,for-sale,3,150,1,0,24,537,150,613,4,None,To be done up,1
+mechelen,429000,house,for-sale,3,138,1,0,13,26,138,153,3,None,Just renovated,None
+tisselt,439000,house,for-sale,3,140,1,0,27,None,140,310,3,None,Good,None
+niel,445000,house,for-sale,3,314,1,0,None,32,314,336,3,None,Good,None
+lier,455000,house,for-sale,3,204,1,0,None,None,204,219,3,None,Good,None
+brecht,475000,villa,for-sale,2,124,1,0,None,351,124,485,4,None,Good,1
+zoersel,485000,house,for-sale,4,150,1,0,45,683,150,794,4,None,To be done up,None
+rijmenam,495000,house,for-sale,6,412,1,0,None,1720,412,2991,4,None,To renovate,None
+sint-katelijne-waver,495000,villa,for-sale,4,145,1,0,None,1670,145,2337,4,None,To renovate,None
+beerse,520000,house,for-sale,3,162,1,0,None,None,162,1817,4,None,Good,1
+duffel,585000,house,for-sale,5,243,1,0,None,None,243,665,3,None,Good,None
+bouwel,599000,villa,for-sale,6,276,1,1,None,None,276,666,4,None,Good,1
+forest,615000,house,for-sale,4,299,1,0,None,None,299,850,4,1,As new,None
+merksplas,619000,house,for-sale,4,360,1,0,None,1650,360,2659,4,None,Good,None
+willebroek,625000,house,for-sale,6,264,1,0,None,None,264,125,2,None,To be done up,None
+heist-op-den-berg,649000,villa,for-sale,4,354,1,0,38,None,354,4770,4,1,Good,1
+puurs-sint-amands,745000,house,for-sale,6,344,0,0,None,None,344,8513,4,None,To renovate,None
+vorselaar,749000,villa,for-sale,4,353,1,0,2,None,353,1063,4,None,As new,1
+mechelen,749000,house,for-sale,5,275,1,0,40,None,275,405,2,None,Good,1
+onze-lieve-vrouw-waver,880000,house,for-sale,5,323,1,0,None,None,323,3876,4,None,Good,None
+brasschaat,949000,villa,for-sale,4,332,1,0,None,None,332,1253,4,None,Good,1
+lille,610000,apartment,for-sale,3,126,1,1,37,None,126,None,3,None,None,1
+borsbeek,165000,apartment,for-sale,2,86,1,0,None,None,86,None,3,None,Good,None
+antwerp,169000,flat-studio,for-sale,1,39,1,None,None,None,39,None,None,0,Just renovated,None
+hoboken,180000,ground-floor,for-sale,2,87,None,0,None,35,87,None,3,None,To renovate,None
+antwerp,199000,ground-floor,for-sale,1,85,1,0,None,None,85,None,2,None,Just renovated,None
+putte,210000,apartment,for-sale,2,89,None,0,None,None,89,None,2,None,None,None
+deurne,212000,apartment,for-sale,2,115,1,0,None,None,115,None,2,None,Good,None
+antwerp,215000,house,for-sale,2,100,None,0,None,16,100,72,2,None,To renovate,None
+merksem,225000,apartment,for-sale,3,100,1,0,7,None,100,None,4,0,Good,None
+mechelen,225000,apartment,for-sale,,None,None,None,None,None,,None,None,None,None,None
+tisselt,330000,apartment,for-sale,2,83,1,0,16,None,83,None,2,None,None,None
+tisselt,335000,apartment,for-sale,2,84,1,0,16,None,84,None,3,None,None,None
+tisselt,365000,loft,for-sale,2,89,1,0,18,None,89,None,3,None,None,None
+kontich,430000,apartment,for-sale,2,105,1,0,None,50,105,None,None,None,Good,None
+mechelen,519000,house,for-sale,5,255,1,0,43,None,255,140,2,None,None,None
+antwerpen,895000,apartment,for-sale,3,200,1,0,None,None,200,None,2,None,As new,None
+antwerpen,1225000,penthouse,for-sale,2,201,1,0,18,None,201,None,2,1,Good,1
+willebroek,277000,house,for-sale,4,130,0,0,None,229,130,363,2,None,To renovate,None
+hoboken,349000,house,for-sale,4,96,1,0,None,None,96,62,2,None,Just renovated,None
+schelle,379000,house,for-sale,4,165,1,None,None,52,165,200,None,0,As new,None
+berchem,399000,house,for-sale,3,119,1,0,None,160,119,202,2,None,Just renovated,None
+hoboken,399000,house,for-sale,3,150,1,0,None,200,150,390,3,None,Good,None
+mol,679000,villa,for-sale,4,218,1,0,None,2382,218,4480,4,None,Good,None
+antwerpen,695000,loft,for-sale,2,220,1,0,None,150,220,None,2,None,Just renovated,None
+antwerp,249500,house,for-sale,3,117,None,0,None,28,117,99,2,None,To be done up,None
+mechelen,297000,house,for-sale,2,126,1,0,None,None,126,60,2,None,None,None
+mortsel,298000,house,for-sale,3,213,1,0,None,None,213,150,2,None,To be done up,None
+sint-katelijne-waver,325000,house,for-sale,4,144,1,0,None,None,144,1970,3,None,To renovate,None
+hoboken,329900,house,for-sale,4,244,None,0,None,45,244,165,2,None,Good,None
+hoboken,389000,town-house,for-sale,3,156,1,0,25,70,156,148,2,None,As new,None
+schoten,390000,house,for-sale,3,185,1,0,38,160,185,260,3,None,Good,None
+deurne,399000,house,for-sale,4,175,1,0,None,None,175,100,2,None,Good,None
+rumst,435000,town-house,for-sale,3,163,1,0,None,None,163,245,2,None,None,None
+willebroek,460000,mixed-use-building,for-sale,3,145,1,0,44,50,145,243,2,None,None,None
+willebroek,460000,mansion,for-sale,3,145,1,0,44,50,145,243,2,None,None,None
+sint-katelijne-waver,498000,house,for-sale,3,157,1,0,12,380,157,570,3,None,Just renovated,None
+kasterlee,539000,house,for-sale,4,197,1,0,None,None,197,537,4,None,Good,None
+sint-job-in-t-goor,549000,house,for-sale,3,115,1,0,25,1745,115,1889,4,None,Good,1
+puurs,619000,house,for-sale,4,213,1,None,80,600,213,970,4,0,Good,1
+zoersel,669000,house,for-sale,4,270,1,1,None,None,270,2339,4,None,Good,1
+herentals,698000,villa,for-sale,3,332,1,0,None,None,332,1090,4,None,Good,1
+dessel,788000,house,for-sale,4,234,1,0,None,None,234,3216,4,1,Good,1
+gierle,845000,house,for-sale,8,375,1,0,None,None,375,1186,4,None,As new,None
+zwijndrecht,879000,mixed-use-building,for-sale,4,188,1,0,None,None,188,940,4,1,Good,1
+antwerpen,879000,house,for-sale,4,285,1,0,17,40,285,107,2,None,Just renovated,2
+schilde,1650000,villa,for-sale,5,367,1,0,None,None,367,3992,4,None,Good,1
+bonheiden,770000,house,for-sale,5,303,1,0,None,None,303,1995,4,None,As new,None
+olen,350000,house,for-sale,3,176,1,0,14,None,176,269,2,None,None,None
+puurs-sint-amands,498000,house,for-sale,5,257,1,0,70,70,257,330,3,0,As new,1
+forest,165000,apartment,for-sale,1,83,1,0,None,None,83,None,None,None,None,None
+duffel,210000,duplex,for-sale,1,90,None,0,18,None,90,None,3,None,None,None
+antwerp,215000,apartment,for-sale,None,None,1,0,None,None,None,None,2,None,Just renovated,None
+wommelgem,215000,apartment,for-sale,2,90,1,0,4,None,90,None,None,None,Good,None
+zwijndrecht,239000,apartment,for-sale,1,80,1,0,None,None,80,None,None,None,Good,None
+hoboken,239000,penthouse,for-sale,,None,None,None,None,None,,None,None,None,None,None
+linkeroever,245000,apartment,for-sale,2,100,1,0,None,None,100,None,None,0,Good,None
+zwijndrecht,275000,apartment,for-sale,2,91,1,0,None,None,91,None,None,None,Good,None
+antwerp,285000,duplex,for-sale,2,90,1,0,15,None,90,None,None,None,As new,None
+wilrijk,289500,apartment,for-sale,3,140,1,0,None,None,140,None,3,None,As new,None
+antwerp,299500,apartment,for-sale,2,89,1,0,None,None,89,None,2,None,None,None
+wommelgem,319000,penthouse,for-sale,2,101,1,0,43,None,101,None,2,None,None,None
+berchem,319000,apartment,for-sale,4,155,1,0,None,None,155,None,None,0,Good,None
+koningshooikt,325000,apartment,for-sale,2,93,1,0,None,None,93,None,None,None,None,None
+antwerp,329500,apartment,for-sale,2,89,1,0,8,None,89,None,2,None,None,None
+boechout,434000,apartment,for-sale,3,146,1,0,20,None,146,None,None,None,As new,None
+mechelen,474000,duplex,for-sale,2,230,1,0,32,None,230,None,3,None,As new,1
+antwerp,564000,apartment,for-sale,2,97,1,None,36,None,97,None,2,0,Good,None
+duffel,598000,apartment,for-sale,5,247,None,0,None,None,247,None,2,None,Good,None
+lint,400000,house,for-sale,4,350,0,0,None,None,350,772,2,None,To renovate,None
+niel,375000,town-house,for-sale,3,181,1,0,17,167,181,244,2,None,Good,None
+merksem,385000,house,for-sale,4,416,1,0,None,None,416,266,2,None,Good,None
+hoboken,394500,house,for-sale,4,184,None,0,None,50,184,130,None,None,As new,None
+zoersel,485000,house,for-sale,3,244,1,0,19,1128,244,1406,4,None,To be done up,None
+breendonk,399000,apartment,for-sale,3,157,1,0,24,None,157,None,None,None,None,None
+kontich,839475,apartment,for-sale,3,186,1,0,40,None,186,None,4,None,None,None
+hulshout,295000,duplex,for-sale,3,147,1,None,5,None,147,None,4,0,Good,None
+lier,435000,house,for-sale,3,150,1,None,1,63,150,126,3,0,As new,None
+mechelen,293000,apartment,for-sale,2,91,None,0,12,None,91,None,None,None,None,None
+antwerp,369000,apartment,for-sale,2,116,1,0,None,None,116,None,3,None,Good,None
+antwerp,379000,house,for-sale,2,270,1,0,None,None,270,73,None,None,Good,None
+deurne,219000,apartment,for-sale,2,84,1,0,None,None,84,None,None,0,As new,None
+antwerp,1106500,penthouse,for-sale,3,196,1,None,56,None,196,None,4,None,As new,None
+duffel,188000,apartment,for-sale,2,100,None,0,6,None,100,None,2,None,None,None
+antwerp,189000,apartment,for-sale,1,45,1,None,None,None,45,None,2,0,Good,None
+onze-lieve-vrouw-waver,225000,apartment,for-sale,1,62,1,0,None,None,62,None,2,None,None,None
+antwerp,285000,apartment,for-sale,1,56,1,None,5,None,56,None,2,0,As new,None
+antwerp,285000,apartment,for-sale,3,131,1,0,None,None,131,None,3,None,None,None
+turnhout,319000,apartment,for-sale,3,145,1,0,17,None,145,None,2,None,Good,None
+antwerpen,475000,duplex,for-sale,1,100,1,0,30,None,100,None,2,None,Just renovated,None
+antwerp,849000,apartment,for-sale,3,160,1,0,20,None,160,None,None,0,As new,None
+antwerp,1300000,apartment,for-sale,3,155,1,0,9,None,155,None,2,0,As new,None
+berchem-antwerpen,2499000,penthouse,for-sale,3,352,1,None,10,None,352,None,2,None,As new,None
+berchem,2500000,apartment,for-sale,3,411,1,0,None,None,411,None,2,None,As new,None
+hoboken,289000,house,for-sale,3,135,1,0,None,None,135,45,2,None,Good,None
+hoboken,325000,house,for-sale,3,201,1,0,10,210,201,350,2,None,As new,None
+hoboken,335000,house,for-sale,4,185,1,0,None,250,185,315,2,None,Good,None
+sint-katelijne-waver,339000,house,for-sale,4,143,None,0,None,260,143,580,3,None,To renovate,None
+hoboken,349000,house,for-sale,4,200,1,0,None,70,200,150,2,None,Good,None
+massenhoven,799500,house,for-sale,3,216,1,0,37,None,216,1160,4,None,As new,None
+westmeerbeek,1250000,villa,for-sale,4,267,1,0,None,None,267,1336,4,None,None,None
+berchem,1275000,house,for-sale,4,352,1,None,None,94,352,205,2,None,As new,2
+oud-turnhout,1595000,house,for-sale,4,460,1,0,None,None,460,2602,4,0,Good,None
+lier,259000,apartment,for-sale,2,107,1,0,12,None,107,None,2,None,Good,None
+herentals,350000,house,for-sale,3,165,1,0,17,78,165,242,3,None,None,None
+herentals,907500,villa,for-sale,3,222,1,0,None,None,222,2613,4,None,None,None
+antwerp,368000,apartment,for-sale,1,93,1,None,10,None,93,None,2,0,As new,None
+antwerp,956000,penthouse,for-sale,3,181,1,None,35,None,181,None,None,None,As new,None
+antwerp,359000,penthouse,for-sale,3,125,1,0,12,None,125,None,2,None,As new,None
+schriek,365000,house,for-sale,3,240,1,None,None,None,240,850,None,None,As new,None
+rumst,395000,house,for-sale,5,198,1,0,None,None,198,241,2,None,Good,None
+olen,384000,house,for-sale,3,140,1,0,None,None,140,374,3,None,None,None
+borgerhout,185000,house,for-sale,4,130,1,0,None,None,130,60,2,None,To renovate,None
+wilrijk,345000,apartment,for-sale,3,109,1,None,7,None,109,None,2,None,Good,None
+duffel,90000,apartment,for-sale,1,47,1,0,None,None,47,None,2,None,Good,None
+kontich,199000,apartment,for-sale,1,64,1,0,18,None,64,None,2,None,None,None
+kontich,199000,service-flat,for-sale,1,64,1,0,18,None,64,None,2,None,None,None
+duffel,229000,apartment,for-sale,3,100,1,0,None,None,100,None,2,None,Good,None
+duffel,279000,apartment,for-sale,3,129,1,0,None,None,129,None,2,None,Good,None
+ranst,319000,house,for-sale,2,82,1,0,25,None,82,260,2,None,Just renovated,None
+boom,335000,house,for-sale,3,157,1,0,17,64,157,None,2,None,Good,None
+antwerp,335000,mixed-use-building,for-sale,,None,None,None,None,None,,None,None,None,None,None
+wilrijk,365000,house,for-sale,3,170,1,0,None,21,170,106,None,None,Just renovated,None
+heindonk,430000,house,for-sale,3,191,1,0,None,None,191,None,3,None,Good,None
+zoersel,485000,house,for-sale,3,244,1,0,19,1128,244,1406,4,None,To be done up,None
+vosselaar,1090000,house,for-sale,3,575,1,0,None,None,575,3171,4,1,As new,None
+antwerp,1100000,mansion,for-sale,4,528,1,None,14,70,528,237,None,0,To renovate,3
+mechelen,1299000,apartment-block,for-sale,12,739,1,0,None,None,739,710,None,None,Good,None
+antwerpen,2950000,exceptional-property,for-sale,7,696,1,0,45,200,696,696,2,None,As new,6
+olen,285000,apartment,for-sale,2,96,1,0,6,None,96,None,None,None,None,None
+blaasveld,340697,penthouse,for-sale,2,141,1,0,17,None,141,None,4,None,None,None
+blaasveld,344179,penthouse,for-sale,2,142,1,0,17,None,142,None,4,None,None,None
+antwerp,767000,apartment,for-sale,3,201,1,0,11,None,201,None,2,None,None,None
+grobbendonk,294500,ground-floor,for-sale,2,107,1,0,14,85,107,None,2,None,Just renovated,None
+herentals,145000,house,for-sale,1,80,1,None,None,None,80,115,None,None,To renovate,None
+antwerpen,295000,house,for-sale,4,200,1,None,None,105,200,222,2,None,To renovate,None
+boechout,529000,house,for-sale,4,170,1,None,17,300,170,470,4,0,As new,1
+berlaar,199000,apartment,for-sale,1,63,1,0,19,65,63,None,2,None,None,None
+antwerp,245000,apartment,for-sale,1,61,1,0,3,None,61,None,2,0,As new,None
+antwerpen,309500,apartment,for-sale,3,105,1,None,3,None,105,None,2,0,As new,1
+zwijndrecht,749000,house,for-sale,5,440,1,0,50,976,440,1133,2,0,As new,None
+antwerp,245000,house,for-sale,3,180,None,0,None,None,180,103,2,None,To be done up,None
+hoboken,249000,house,for-sale,3,120,None,0,None,100,120,182,2,None,Good,None
+hoboken,260000,house,for-sale,3,70,1,0,None,50,70,100,2,None,To be done up,None
+bornem,279000,house,for-sale,2,85,1,0,10,40,85,None,3,None,Good,None
+burcht,299000,house,for-sale,4,195,None,0,None,112,195,180,2,None,To renovate,None
+tisselt,310000,house,for-sale,3,180,0,0,None,None,180,None,4,None,To renovate,None
+boom,339000,house,for-sale,3,132,1,0,16,100,132,253,2,None,Good,None
+bornem,339000,house,for-sale,3,159,None,0,None,None,159,178,2,None,Good,None
+brecht,339000,house,for-sale,2,107,None,0,23,572,107,680,4,None,To renovate,None
+sint-katelijne-waver,360000,house,for-sale,2,155,None,0,None,None,155,287,4,None,Good,None
+heist-op-den-berg,398000,house,for-sale,2,197,1,0,20,None,197,235,2,None,None,None
+wilrijk,428000,house,for-sale,3,189,1,0,None,None,189,189,2,None,Good,None
+reet,475000,house,for-sale,4,166,1,0,None,None,166,None,2,None,Good,None
+kontich,495000,house,for-sale,None,None,1,0,None,None,None,278,2,None,Good,None
+tielen,525000,house,for-sale,4,289,1,0,None,None,289,None,3,1,As new,1
+willebroek,539000,villa,for-sale,None,None,1,0,344,12,None,750,4,None,Good,1
+mechelen,555000,exceptional-property,for-sale,3,200,1,0,20,75,200,140,2,None,Just renovated,None
+hoogstraten,575000,house,for-sale,5,224,None,0,None,None,224,561,4,None,Just renovated,None
+duffel,598000,apartment-block,for-sale,5,247,None,0,None,None,247,400,2,None,Good,None
+putte,598000,house,for-sale,4,444,1,0,None,None,444,1783,4,None,None,None
+oud-turnhout,695000,villa,for-sale,3,327,1,0,None,None,327,1982,4,None,Good,None
+herenthout,699000,villa,for-sale,4,440,1,0,None,None,440,1671,4,1,Good,None
+kontich,735000,house,for-sale,4,300,1,0,None,None,300,935,4,None,To renovate,None
+rijkevorsel,825000,house,for-sale,5,307,None,0,None,None,307,2475,4,None,Good,None
+antwerpen,220000,apartment,for-sale,2,85,1,None,6,26,85,None,2,0,Good,None
+schoten,995000,penthouse,for-sale,4,187,1,None,33,None,187,None,None,0,As new,1
+arendonk,175000,apartment,for-sale,1,67,1,0,7,None,67,None,4,None,None,None
+lier,276000,apartment,for-sale,3,101,1,0,8,None,101,None,4,None,None,None
+lier,277000,apartment,for-sale,3,101,1,0,8,None,101,None,4,None,None,None
+lier,280000,apartment,for-sale,3,103,1,0,8,None,103,None,4,None,None,None
+lier,280000,apartment,for-sale,3,103,1,0,8,None,103,None,4,None,None,None
+heist-op-den-berg,299279,apartment,for-sale,2,95,1,0,20,None,95,None,2,None,None,None
+willebroek,354000,apartment,for-sale,2,105,1,0,67,None,105,None,4,None,None,None
+hombeek,549000,house,for-sale,3,217,1,0,None,None,217,255,2,None,Good,None
+westerlo,565000,house,for-sale,2,306,1,0,None,None,306,237,3,None,None,None
+willebroek,760000,mixed-use-building,for-sale,None,None,1,0,12,None,None,262,2,None,To renovate,None
+pulderbos,920000,house,for-sale,3,285,None,0,None,None,285,1658,4,None,As new,None
+brasschaat,975000,villa,for-sale,6,795,1,0,None,None,795,1575,4,None,To renovate,None
+mechelen,529000,house,for-sale,4,142,1,0,21,104,142,251,2,None,None,None
+lier,325000,apartment,for-sale,2,89,1,0,8,None,89,None,2,None,None,None
+niel,325000,house,for-sale,,None,None,None,None,None,,None,None,None,None,None
+antwerp,399000,ground-floor,for-sale,3,124,1,None,14,181,124,None,3,0,As new,None
+olen,391000,house,for-sale,3,140,1,0,None,None,140,489,3,None,None,None
+emblem,435000,house,for-sale,3,174,1,0,13,124,174,257,2,None,None,None
+emblem,455000,house,for-sale,3,179,1,0,15,218,179,391,3,None,None,None
+emblem,459000,house,for-sale,3,179,1,0,15,334,179,502,3,None,None,None
+antwerpen,249000,apartment,for-sale,3,90,1,None,4,None,90,None,2,0,As new,None
+antwerpen,265000,ground-floor,for-sale,2,90,1,None,None,20,90,None,3,None,As new,None
+antwerp,429000,apartment,for-sale,2,108,None,0,None,None,108,None,2,None,None,None
+duffel,188000,apartment,for-sale,2,85,1,0,None,None,85,None,2,None,None,None
+lier,208086,apartment,for-sale,1,66,1,0,9,None,66,None,2,None,None,None
+balen,219500,apartment,for-sale,1,84,1,0,14,None,84,None,3,None,None,None
+lier,231513,apartment,for-sale,1,73,1,0,15,None,73,None,2,None,None,None
+lier,240000,apartment,for-sale,1,59,1,0,26,None,59,None,2,None,None,None
+lier,240474,apartment,for-sale,1,77,1,0,9,None,77,None,2,None,None,None
+lier,246787,apartment,for-sale,2,88,1,0,6,None,88,None,2,None,None,None
+duffel,249000,apartment,for-sale,3,94,1,0,None,None,94,None,2,None,Good,None
+turnhout,304250,apartment,for-sale,3,126,1,0,14,None,126,None,2,None,None,None
+lier,305000,apartment,for-sale,2,92,1,0,13,None,92,None,2,None,None,None
+herentals,344900,apartment,for-sale,3,121,1,0,18,None,121,None,2,None,None,None
+balen,359000,penthouse,for-sale,3,138,1,0,44,None,138,None,3,None,None,None
+balen,359000,penthouse,for-sale,3,138,1,0,44,None,138,None,3,None,None,None
+kasterlee,369000,apartment,for-sale,1,134,1,0,13,None,134,None,None,None,None,None
+lier,404442,apartment,for-sale,3,138,1,0,37,None,138,None,2,None,None,None
+antwerp,490000,apartment,for-sale,2,100,1,None,18,None,100,None,2,None,None,None
+antwerpen,495000,apartment,for-sale,None,None,1,None,8,None,None,None,3,None,As new,None
+antwerp,499000,apartment,for-sale,2,118,1,0,17,35,118,None,2,None,Just renovated,None
+antwerp,750000,apartment,for-sale,1,73,1,None,19,None,73,None,None,None,As new,None
+antwerpen,849000,apartment,for-sale,3,160,1,0,20,None,160,None,3,None,As new,None
+antwerpen-1,1250000,apartment,for-sale,2,167,1,0,26,None,167,None,3,None,As new,None
+mechelen,230000,house,for-sale,None,None,1,0,None,None,None,181,2,None,To renovate,None
+mechelen,260000,house,for-sale,3,145,1,None,None,49,145,108,2,None,To renovate,None
+hemiksem,295000,house,for-sale,5,215,1,0,None,20,215,166,3,None,To renovate,None
+herentals,309000,house,for-sale,4,218,1,0,10,None,218,250,2,None,Good,None
+merksem,365000,town-house,for-sale,2,180,1,None,20,50,180,168,2,None,Just renovated,None
+heist-op-den-berg,367000,other-property,for-sale,None,303,1,0,None,None,None,None,3,None,Good,None
+olen,369000,house,for-sale,3,209,1,None,None,624,209,724,4,None,Good,None
+willebroek,377000,town-house,for-sale,None,None,1,0,None,None,None,585,3,None,Good,None
+onze-lieve-vrouw-waver,399000,house,for-sale,3,207,1,0,None,None,207,305,2,None,To renovate,1
+antwerp,425000,house,for-sale,2,150,1,0,22,None,150,55,2,None,As new,None
+deurne,425000,town-house,for-sale,3,208,1,0,11,70,208,174,2,None,As new,1
+mortsel,425000,mansion,for-sale,4,140,1,None,7,None,140,64,2,0,As new,None
+westerlo,424000,mixed-use-building,for-sale,3,248,1,None,None,750,248,934,4,None,As new,None
+turnhout,485000,house,for-sale,4,342,1,None,None,None,342,270,2,None,To be done up,None
+antwerp,485000,house,for-sale,,None,None,None,None,None,,None,None,None,None,None
+brecht,515000,house,for-sale,4,182,1,0,None,None,182,400,3,None,As new,None
+berchem,595000,house,for-sale,7,270,1,0,None,15,270,110,2,None,To renovate,None
+edegem,648000,mixed-use-building,for-sale,5,229,1,None,42,120,229,370,3,0,As new,None
+antwerp,799000,apartment-block,for-sale,8,519,1,0,38,None,519,206,3,None,To be done up,None
+kapellen,1600000,house,for-sale,5,453,1,0,None,None,453,3371,4,1,As new,None
+antwerp,2350000,house,for-sale,4,390,1,0,18,None,390,127,2,0,As new,None
+kapellen,5850000,house,for-sale,5,1130,1,0,None,9000,1130,9312,4,1,As new,None
+sint-katelijne-waver,325000,apartment,for-sale,3,132,None,0,None,None,132,None,4,None,None,None
+rumst,440000,house,for-sale,3,180,1,None,None,None,180,996,4,1,As new,None
+berchem,259000,apartment,for-sale,2,75,1,0,32,None,75,None,2,0,As new,None
+meerhout,301000,house,for-sale,3,133,1,0,15,None,133,162,2,None,None,None
+meerhout,301000,house,for-sale,3,133,1,0,15,None,133,162,2,None,None,None
+meerhout,324000,house,for-sale,3,152,1,0,15,None,152,270,3,None,None,None
+meerhout,333000,house,for-sale,3,155,1,0,15,None,155,387,3,None,None,None
+willebroek,479000,house,for-sale,3,177,1,None,None,None,177,326,3,0,As new,None
+mortsel,454000,town-house,for-sale,4,164,1,None,None,60,164,150,2,None,As new,None
+putte,245000,house,for-sale,3,165,1,None,None,None,165,110,None,None,To renovate,None
+putte,305000,house,for-sale,3,130,1,0,15,None,130,378,3,None,As new,None
+mortsel,449000,house,for-sale,4,190,1,None,12,90,190,333,3,0,None,1
+antwerp,330000,apartment,for-sale,2,90,1,0,None,None,90,None,None,0,Good,None
+bonheiden,380000,house,for-sale,2,167,0,0,21,400,167,645,3,None,None,None
+antwerpen,439000,apartment,for-sale,2,114,None,None,8,None,114,None,2,0,Good,None
+hoboken,189900,house,for-sale,4,140,1,0,None,98,140,192,None,None,To renovate,None
+hoboken,279000,house,for-sale,4,177,None,0,None,738,177,833,None,None,To renovate,None
+mol,314000,house,for-sale,5,211,1,0,None,None,211,500,None,None,Good,None
+herentals,335000,house,for-sale,3,165,1,0,17,47,165,161,2,None,None,None
+dessel,339000,house,for-sale,3,180,1,0,None,None,180,1190,None,1,Good,None
+antwerp,349000,house,for-sale,2,125,1,0,None,None,125,32,None,None,Good,None
+willebroek,349000,mixed-use-building,for-sale,3,141,1,0,18,None,141,111,2,None,None,None
+willebroek,349000,house,for-sale,3,141,1,0,18,None,141,111,2,None,None,None
+merksem,359000,house,for-sale,5,140,1,0,None,40,140,75,None,0,As new,None
+lier,375000,house,for-sale,4,196,1,0,None,None,196,68,None,None,As new,None
+antwerp,425000,house,for-sale,7,250,1,0,None,54,250,175,2,None,To be done up,None
+olen,495000,house,for-sale,5,240,1,0,None,None,240,714,None,None,Good,None
+antwerp,499000,house,for-sale,2,118,1,0,17,35,118,None,2,None,Just renovated,None
+hoboken,575000,house,for-sale,3,246,1,0,14,94,246,224,2,None,As new,None
+sint-katelijne-waver,750000,apartment-block,for-sale,None,None,1,0,None,None,None,730,None,None,Good,None
+antwerp,1560000,apartment-block,for-sale,4,310,1,0,None,None,310,100,2,None,Good,None
+wilrijk,1850000,house,for-sale,6,542,1,0,None,None,542,None,4,1,Good,1
+zoersel,595000,house,for-sale,5,198,1,None,None,2600,198,3367,None,0,As new,1
+antwerp,126000,kot,for-sale,1,25,1,None,None,None,25,None,2,0,Good,None
+antwerp,130000,kot,for-sale,1,30,1,None,None,None,30,None,3,0,As new,None
+antwerp,132000,kot,for-sale,1,30,1,None,2,None,30,None,2,0,Good,None
+kapellen,135000,service-flat,for-sale,1,47,1,None,6,None,47,None,None,0,As new,None
+antwerp,139000,kot,for-sale,1,32,1,None,None,None,32,None,3,0,As new,None
+hoboken,175000,penthouse,for-sale,2,80,1,None,4,None,80,None,2,None,To renovate,None
+antwerp,175000,apartment,for-sale,,None,None,None,None,None,,None,None,None,None,None
+geel,199000,duplex,for-sale,2,92,1,None,8,None,92,None,4,None,Just renovated,None
+geel,199000,duplex,for-sale,2,92,1,None,8,None,92,None,4,None,Just renovated,None
+antwerpen,215000,apartment,for-sale,2,90,1,None,4,100,90,None,2,0,To be done up,1
+beerse,219000,apartment,for-sale,1,62,1,0,None,None,62,None,2,None,As new,None
+antwerp,220000,apartment,for-sale,1,66,1,0,None,None,66,None,2,None,Good,None
+antwerp,220000,apartment,for-sale,None,None,1,0,None,None,None,None,None,None,Good,None
+lier,230000,apartment,for-sale,2,96,1,None,None,None,96,None,None,0,As new,None
+turnhout,235000,triplex,for-sale,2,103,1,None,8,None,103,None,1,0,As new,None
+deurne,239000,apartment,for-sale,2,80,1,None,7,None,80,None,2,None,As new,None
+antwerpen,245000,apartment,for-sale,2,95,1,None,23,None,95,None,None,0,As new,None
+borgerhout,249000,apartment,for-sale,3,105,1,0,2,None,105,None,2,0,Good,None
+merksem,249000,apartment,for-sale,2,116,1,0,2,None,116,None,2,None,As new,None
+deurne,255000,apartment,for-sale,2,125,1,0,None,None,125,None,4,None,Good,None
+antwerpen,257000,apartment,for-sale,2,87,1,None,1,None,87,None,2,0,As new,None
+schelle,265000,apartment,for-sale,2,105,1,0,15,None,105,None,3,None,Good,None
+herentals,274000,apartment,for-sale,2,89,1,None,7,None,89,None,2,0,As new,None
+berchem,295000,apartment,for-sale,2,108,1,None,None,None,108,None,None,0,As new,None
+schoten,295000,apartment,for-sale,1,83,1,None,36,None,83,None,None,None,As new,None
+heist-op-den-berg,298000,ground-floor,for-sale,2,86,1,0,18,24,86,None,2,None,None,None
+antwerpen,320000,apartment,for-sale,2,71,None,0,10,None,71,None,None,None,As new,None
+antwerp,347500,apartment,for-sale,2,115,1,0,24,None,115,None,2,1,To be done up,None
+antwerp,347500,apartment,for-sale,,None,None,None,None,None,,None,None,None,None,None
+antwerp,365000,apartment,for-sale,2,106,1,None,40,None,106,None,2,0,As new,None
+antwerp,399500,apartment,for-sale,2,134,1,0,4,None,134,None,2,None,Good,None
+boechout,409000,apartment,for-sale,2,124,1,0,25,85,124,None,None,None,As new,None
+berchem,449000,apartment,for-sale,3,157,1,None,65,65,157,None,None,0,Good,None
+antwerpen,450000,apartment,for-sale,2,120,1,None,2,None,120,None,None,0,As new,None
+anvers-1,495000,apartment,for-sale,3,165,1,None,None,None,165,None,2,None,Good,1
+antwerpen,539000,apartment,for-sale,3,170,1,None,10,None,170,None,2,0,As new,None
+hoogstraten,549000,apartment,for-sale,None,None,1,0,None,None,None,None,4,None,Just renovated,1
+antwerp,675000,penthouse,for-sale,4,200,1,0,4,None,200,None,None,0,As new,None
+antwerp,675000,penthouse,for-sale,4,200,1,0,4,None,200,None,None,0,As new,None
+antwerp,745000,loft,for-sale,2,200,1,0,10,150,200,None,None,0,As new,None
+brasschaat,750000,penthouse,for-sale,2,220,1,0,None,None,220,None,3,0,Good,None
+antwerp,890000,apartment,for-sale,2,184,1,0,20,None,184,None,2,1,As new,None
+antwerp,895000,loft,for-sale,3,203,1,None,12,None,203,None,None,0,As new,None
+antwerp,3200000,penthouse,for-sale,2,242,1,0,100,None,242,None,3,0,As new,None
+antwerpen,259000,ground-floor,for-sale,2,100,None,None,None,100,100,None,3,None,None,None
+olen,350000,house,for-sale,3,201,1,0,14,170,201,None,None,None,None,None
+breendonk,468000,house,for-sale,3,210,1,0,None,None,210,294,3,None,None,None
+rijmenam,486000,house,for-sale,3,163,1,0,9,203,163,304,3,None,None,None
+antwerp,319000,apartment,for-sale,2,80,1,0,5,None,80,None,2,None,Good,None
+onze-lieve-vrouw-waver,160000,service-flat,for-sale,1,62,1,0,None,None,62,None,2,None,None,None
+olen,295000,ground-floor,for-sale,2,102,1,0,20,None,102,None,None,None,None,None
+olen,305000,ground-floor,for-sale,2,102,1,0,20,None,102,None,None,None,None,None
+olen,320000,ground-floor,for-sale,2,107,1,0,20,None,107,None,None,None,None,None
+olen,320000,ground-floor,for-sale,2,106,1,0,20,None,106,None,None,None,None,None
+olen,320000,ground-floor,for-sale,2,106,1,0,20,None,106,None,None,None,None,None
+antwerpen,259000,house,for-sale,2,70,1,None,17,None,70,65,1,0,As new,None
+dessel,230000,apartment,for-sale,2,108,1,0,8,None,108,None,2,None,As new,None
+lier,202500,house,for-sale,3,122,None,0,18,None,122,105,2,None,To renovate,None
