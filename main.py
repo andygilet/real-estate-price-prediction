@@ -42,7 +42,7 @@ def data_to_csv(pass_row) :
 def main() :
     threads_list = []
     with open('immo_data.csv', 'w') as data_file : 
-        data_file.write(',locality,Price,Type_property,Sale_type,Number_bedrooms,Living_area,fully_equipped_kitchen,Furnished,terrace,garden,surface_land,surface_area_plot,facades_number,Swimming_pool,building_state,fire_place\n')
+        data_file.write('locality,Price,Type_property,Sale_type,Number_bedrooms,Living_area,fully_equipped_kitchen,Furnished,terrace,garden,surface_land,surface_area_plot,facades_number,Swimming_pool,building_state,fire_place\n')
     len_file = 600
     x = 0 
     while x < len_file : 
