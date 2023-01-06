@@ -1,6 +1,6 @@
 from data_aquisition.data_analyse_pandas import get_data_from_url, data_to_pandas
 from data_aquisition.data_cleaning import reference_dic_needed, clean_escape_characters
-from data_aquisition.scrapper import get_urls_from_scrapper
+#from data_aquisition.scrapper import get_urls_from_scrapper
 import pandas as pd
 import csv
 import threading

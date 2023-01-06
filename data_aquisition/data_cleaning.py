@@ -2,7 +2,7 @@ import re
 def reference_dic_needed(the_frame):
     needed_data_dic = {
     'locality' : 'locality',
-    'Price' : 'Price',
+    'Price' : 'Price, ',
     'Type_property' : 'property_type',
     'Sale_type' : 'sale_type',
     'Number_bedrooms' : "bedroom",
@@ -19,7 +19,7 @@ def reference_dic_needed(the_frame):
     'fire_place' : 'How many fireplaces?, '
     }
     last_frame = {}
-    only_number_cat = ['Living_area','surface_area_plot','surface_land','facades_number','garden','terrace','Price'] 
+    only_number_cat = ['Living_area','surface_area_plot','surface_land','facades_number','garden','terrace'] 
     for key,value in needed_data_dic.items() :
         try : 
             last_frame[key] = the_frame[value]

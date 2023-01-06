@@ -31,7 +31,6 @@ def get_data_from_url(url) :
     new_result = []
     bedroom = ""
     size_of_house = ""
-
     for elem in soup.find_all("p", attrs={"class": "classified__information--property"}):
         temp = elem.text
         temp = temp.replace("\n", '')
@@ -50,7 +49,7 @@ def get_data_from_url(url) :
         'sale_type' : bip_boup[1],
        'locality' : bip_boup[2],
        'bedroom' : bedroom,
-       'size_of_house' : size_of_house
+       'size_of_house' : size_of_house,
     }
     
     #Clean the data
