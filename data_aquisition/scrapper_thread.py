@@ -1,8 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from webdriver_manager.firefox import GeckoDriverManager
 from threading import RLock
-import csv
 
 def try_find_out_of_index(driver : webdriver.Firefox, rlock_printer : RLock) -> bool:
     """_summary_
@@ -29,13 +27,12 @@ def try_find_out_of_index(driver : webdriver.Firefox, rlock_printer : RLock) -> 
             print("ERROR : Unable to check the page !")
         return False
 
-def change_page(driver : webdriver.Firefox, page : int, buy_type : str, province : str, rlock_printer : RLock) -> bool:
+def change_page(driver : webdriver.Firefox, page : int, province : str, rlock_printer : RLock) -> bool:
     """_summary_
 
     Args:
         driver (webdriver.Firefox): _description_
         page (int): _description_
-        buy_type (str): _description_
         province (str): _description_
         rlock_printer (RLock): _description_
 
@@ -51,7 +48,7 @@ def change_page(driver : webdriver.Firefox, page : int, buy_type : str, province
         else, return True after the change
     """
     try:
-        driver.get(f"https://www.immoweb.be/en/search/house-and-apartment/{buy_type}/{province}/province?countries=BE&page={page}&orderBy=relevance")
+        driver.get(f"https://www.immoweb.be/en/search/house-and-apartment/for-sale/{province}/province?countries=BE&page={page}&orderBy=relevance")
         #Test if the page the driver is currently in is a immoweb search page. Raise a exception when out of the search pages
         if try_find_out_of_index(driver, rlock_printer):
             raise Exception(f"Last page attain : {province} !")
@@ -90,8 +87,27 @@ def get_property_urls(driver : webdriver.Firefox, urls : list):
         url = article.get_attribute("href")
         if url not in urls:
             urls.append(url)
+            
+def print_urls(urls : list, lock : RLock):
+    """_summary_
 
-def link_scrapper(province : str, rlock_csv : RLock, rlock_printer : RLock):
+    Args:
+        urls (list): _description_
+        lock (RLock): _description_
+        
+    Description :
+        Check if the url is in the file link.csv and add it to it if it's not.
+    """
+    found = False
+    with lock:
+        with open('.\links.csv', 'r') as file:
+            lines = file.readlines()
+        with open('.\links.csv', 'a') as file:
+            for url in urls:
+                if url not in lines:
+                    file.write(url + "\n")
+
+def link_scrapper(province : str, rlock_csv : RLock, rlock_printer : RLock, excutable_path):
     """_summary_
     Args:
         province (str): _description_
@@ -104,30 +120,23 @@ def link_scrapper(province : str, rlock_csv : RLock, rlock_printer : RLock):
     """
     continue_loop : bool = True
     page = 1
-    buy_types = ["for-sale",
-                 "for-rent"]
     urls = []
-    for buy_type in buy_types:
-        #Create a new driver for each buy_type to prevent memory overload
-        driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
-        driver.implicitly_wait(0.5)
-        while continue_loop:
-            #change the page, if you're not in a search result page of immoweb, return false and get out of the loop
-            continue_loop = change_page(driver, page, buy_type, province, rlock_printer)
-            if continue_loop:
-                #Test if there is a cookie request on the page. If there is a cookies request, click on it to remove it
-                try_cookie(driver)
-                #Get all the urls in the research page and append them to the urls list
-                get_property_urls(driver, urls)
-                with rlock_printer:
-                    print(f"link scrapper {province} : {buy_type} : page {page}")
-                with rlock_csv:
-                    #Write all the urls collected in the links.csv file
-                    with open('.\links.csv', 'a') as links:
-                        writer = csv.writer(links)
-                        for url in urls:
-                            writer.writerow(url)
-                page += 1
-        page = 1
-        driver.close()
-        continue_loop = True
+
+    #Create a new driver for each buy_type to prevent memory overload
+    driver = webdriver.Firefox(executable_path=excutable_path)
+    driver.implicitly_wait(0.5)
+    while continue_loop:
+        #change the page, if you're not in a search result page of immoweb, return false and get out of the loop
+        continue_loop = change_page(driver, page, province, rlock_printer)
+        if continue_loop:
+            #Test if there is a cookie request on the page. If there is a cookies request, click on it to remove it
+            try_cookie(driver)
+            #Get all the urls in the research page and append them to the urls list
+            get_property_urls(driver, urls)
+            with rlock_printer:
+                print(f"link scrapper {province} : page {page}")
+            page += 1
+    driver.close()
+    print_urls(urls, rlock_csv)
+    with rlock_printer:
+        print(f"{province} has printed on the csv file !")
