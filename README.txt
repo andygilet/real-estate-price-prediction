@@ -39,9 +39,11 @@ Real-Estate-Price-Prediction:
 
     Personnal situation:
         Andy Gilet:
-            None
+            I did not encounter any problems
 
         Cyril Verwimp:
+            I made the data_analyse and cleaning part ! Ibrahim helped me with the cleaning !
+            The project was really intersting and challenging ! And I liked it a lot
 
         Ibrahim Mettioui:
            I struggle with the scrapping but thanks to Andy and Cyril for helping me to clarify and to contribute to the project
