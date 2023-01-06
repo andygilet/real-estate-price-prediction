@@ -19,7 +19,7 @@ def reference_dic_needed(the_frame):
     'fire_place' : 'How many fireplaces?, '
     }
     last_frame = {}
-    only_number_cat = ['Living_area','surface_area_plot','surface_land','facades_number','garden','terrace'] 
+    only_number_cat = ['Living_area','surface_area_plot','surface_land','facades_number','garden','terrace','Price] 
     for key,value in needed_data_dic.items() :
         try : 
             last_frame[key] = the_frame[value]
