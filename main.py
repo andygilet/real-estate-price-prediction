@@ -6,13 +6,15 @@ import csv
 import threading
 from threading import RLock
 import time
-
+import random
 lock = RLock()
 
 def data_to_csv(pass_row) :
     count = 0
     ploted_frame = {}
-    
+    random_num = random.randint(0,50000)
+    if random_num == random.randint(0,50000) : 
+        time.sleep(0.1)
     with open('links.csv', 'r') as links_file : 
         reader = csv.reader(links_file)
         #Skip the line already in use by other threads
