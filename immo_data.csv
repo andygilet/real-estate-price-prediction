@@ -8,11 +8,11 @@ libramont-chevigny,299000,house,for-sale,5,140,0,0,30,1000,140,1152,4,0,Good,Non
 libin,299000,house,for-sale,4,174,1,0,85,725,174,1187,3,0,To renovate,None
 bouillon,349500,house,for-sale,4,180,1,0,20,372,180,530,4,0,To be done up,None
 marche-en-famenne,450000,exceptional-property,for-sale,4,236,1,0,None,399,236,399,3,0,As new,None
-forrieres,Make an,house,for-sale,5,290,1,None,55,3067,290,3225,4,0,Good,None
+forrieres,450000,house,for-sale,5,290,1,None,55,3067,290,3225,4,0,Good,None
 marche-en-famenne,1250000,house,for-sale,17,680,1,0,165,None,680,1500,2,None,As new,None
 libramont-chevigny,150000,apartment,for-sale,1,48,0,0,None,None,48,None,4,0,As new,None
 aalst,370000,duplex,for-sale,3,175,None,None,7,None,175,None,2,None,As new,None
-dampremy,Make an,house,for-sale,2,163,1,0,7,100,163,204,3,0,To be done up,None
+dampremy,130000,house,for-sale,2,163,1,0,7,100,163,204,3,0,To be done up,None
 auvelais,189000,house,for-sale,4,168,1,None,None,1050,168,1145,4,None,To be done up,None
 namur,119000,flat-studio,for-sale,None,32,0,0,None,None,None,None,None,0,Good,None
 charleroi,190000,house,for-sale,5,145,0,0,None,None,145,None,2,None,To be done up,None
@@ -49,213 +49,13 @@ aubange,320000,apartment,for-sale,2,111,1,0,17,400,111,None,3,0,Good,None
 bouillon,150000,country-cottage,for-sale,4,229,0,0,None,None,229,1345,3,None,To renovate,None
 ortho-la-roche-en-ardenne,160000,house,for-sale,3,196,0,0,None,None,196,682,3,None,To renovate,None
 halanzy,350000,house,for-sale,3,107,None,0,None,None,107,990,4,None,To be done up,None
-signeulx,215000,house,for-sale,7,552,1,0,None,None,552,850,4,None,To renovate,None
-libin-ochamps,219900,house,for-sale,4,210,0,0,50,300,210,511,4,None,To renovate,None
-wellin-chanly,285000,house,for-sale,5,200,1,0,52,None,200,1330,4,None,Good,None
-signeulx,315000,house,for-sale,7,552,1,0,None,None,552,2392,4,None,To renovate,None
-tintigny-rossignol,389000,house,for-sale,4,290,0,0,None,450,290,870,2,None,Good,None
-nassogne-mormont,399000,house,for-sale,4,344,1,0,None,None,344,3661,4,None,As new,None
-marche-en-famenne,259000,house,for-sale,3,116,1,0,13,1574,116,1665,4,None,Good,None
-neufchateau-longlier,312000,house,for-sale,3,128,0,0,20,453,128,453,3,None,As new,None
-vaux-sur-sure,229000,house,for-sale,4,138,1,0,40,None,138,676,4,0,To be done up,None
-bertrix,140000,house,for-sale,2,145,0,0,None,None,145,220,3,None,To be done up,None
-arlon,143000,apartment,for-sale,1,44,1,0,None,None,44,None,4,None,To be done up,None
-messancy,420000,house,for-sale,2,216,1,0,15,260,216,375,4,None,As new,None
-bastogne,Make an,apartment,for-sale,None,90,None,0,None,None,None,None,2,0,As new,None
-virton,269000,apartment,for-sale,3,114,1,0,32,None,114,None,3,0,As new,None
-etalle-sainte-marie-sur-semois,345000,duplex,for-sale,4,155,1,0,14,None,155,None,None,0,As new,None
-bastogne,355000,apartment,for-sale,None,119,None,0,None,None,None,None,2,0,None,None
-vaux-sur-sure,379000,penthouse,for-sale,3,159,1,0,53,None,159,None,4,None,None,None
-transinne,Make an,house,for-sale,2,142,1,0,None,None,142,252,3,None,To renovate,None
-longlier-neufchateau,195000,house,for-sale,4,177,0,0,None,None,177,1117,3,None,To renovate,None
-noirefontaine,Make an,house,for-sale,3,258,None,0,None,None,258,5000,4,None,To renovate,None
-virton,258000,house,for-sale,3,173,1,0,None,None,173,None,3,None,As new,None
-rachecourt,289000,house,for-sale,3,123,None,0,15,None,123,379,3,None,To renovate,10
-arlon,295000,mixed-use-building,for-sale,4,231,0,0,None,None,231,400,3,None,To renovate,None
-marche-en-famenne-hargimont,295000,house,for-sale,3,170,1,0,None,None,170,1278,4,0,Good,None
-erezee,299000,house,for-sale,3,130,None,1,None,None,130,975,4,None,None,None
-arlon,Make an,house,for-sale,3,145,0,0,None,None,145,1579,3,None,None,None
-tontelange,375000,country-cottage,for-sale,3,268,None,0,None,600,268,1010,4,None,Just renovated,None
-fouches,480000,house,for-sale,5,514,None,0,None,None,514,1455,4,None,None,1
-musson,650000,house,for-sale,4,270,1,0,35,None,270,2519,4,1,Good,None
-marche-en-famenne,990000,house,for-sale,2,560,1,1,None,None,560,14515,4,None,Good,None
-bastogne,198000,apartment,for-sale,2,93,None,0,None,None,93,None,4,None,None,None
-neuvillers,207000,apartment,for-sale,2,79,None,0,None,None,79,None,4,0,None,None
-arlon,245000,apartment,for-sale,2,84,None,0,None,None,84,None,4,None,None,None
-bastogne,319000,apartment,for-sale,2,95,None,0,9,None,95,None,4,0,None,None
-arlon,320000,apartment,for-sale,2,91,1,0,10,None,91,None,4,None,Good,None
-saint-hubert,125000,town-house,for-sale,3,120,1,0,4,None,120,None,3,0,Good,None
-tellin-resteigne,130000,chalet,for-sale,1,45,1,0,16,None,45,315,4,None,Good,None
-paliseul-maissin,Make an,mixed-use-building,for-sale,6,450,0,0,10,100,450,659,3,0,To renovate,None
-athus,185000,house,for-sale,3,121,1,0,None,None,121,240,2,None,To be done up,None
-arlon,190000,house,for-sale,4,206,0,0,None,None,206,266,2,None,To renovate,None
-virton,199000,house,for-sale,5,144,1,0,None,200,144,543,4,0,To renovate,None
-arlon,205000,house,for-sale,3,115,0,0,None,None,115,111,2,None,To renovate,None
-heinsch,210000,house,for-sale,None,None,1,0,None,310,None,576,2,None,To renovate,None
-libramont-chevigny,Make an,house,for-sale,3,130,1,0,None,None,130,7880,3,None,To renovate,None
-paliseul,Make an,house,for-sale,4,87,1,0,None,None,87,1015,4,None,Good,None
-transinne,Make an,house,for-sale,5,215,1,0,None,None,215,480,4,None,To be done up,None
-arlon,315000,house,for-sale,3,160,1,0,None,None,160,270,2,None,Good,None
-arlon,319000,house,for-sale,4,172,1,None,21,200,172,399,2,None,To be done up,None
-athus,320000,mixed-use-building,for-sale,5,174,1,0,None,None,174,175,2,None,Good,None
-fauvillers,335000,house,for-sale,3,264,1,0,None,None,264,640,4,None,Good,None
-libramont-chevigny-presseux,214900,apartment,for-sale,2,83,None,0,8,None,83,None,None,None,As new,None
-tenneville,285000,house,for-sale,3,130,1,0,None,None,130,1040,4,0,Good,None
-hotton,98000,house,for-sale,2,90,0,0,None,237,90,237,3,0,To restore,None
-hotton,105000,house,for-sale,2,102,0,0,None,501,102,501,3,0,To restore,None
-barvaux-sur-ourthe,129000,house,for-sale,2,74,1,None,21,None,74,330,4,0,To be done up,None
-habay,190000,house,for-sale,4,256,0,None,None,348,256,568,3,None,To renovate,None
-hotton,199000,house,for-sale,4,225,0,0,None,754,225,753,4,0,To restore,None
-arlon,270000,apartment,for-sale,3,110,1,0,None,None,110,None,2,None,Good,None
-bastogne,245000,apartment,for-sale,2,77,None,0,5,None,77,None,2,0,As new,None
-bastogne,250000,apartment,for-sale,2,77,None,0,5,None,77,None,2,0,As new,None
-bastogne,255000,apartment,for-sale,2,77,None,0,5,None,77,None,2,0,As new,None
-bastogne,275000,apartment,for-sale,2,97,None,0,9,None,97,None,2,0,Good,None
-bastogne,300000,apartment,for-sale,3,101,None,0,12,None,101,None,2,0,As new,None
-bastogne,310000,apartment,for-sale,3,101,None,0,12,None,101,None,2,0,As new,None
-bastogne,325000,apartment,for-sale,2,94,None,0,9,None,94,None,2,0,Good,None
-aubange,320000,apartment,for-sale,2,111,1,0,17,400,111,None,3,0,Good,None
-bouillon,150000,country-cottage,for-sale,4,229,0,0,None,None,229,1345,3,None,To renovate,None
-ortho-la-roche-en-ardenne,160000,house,for-sale,3,196,0,0,None,None,196,682,3,None,To renovate,None
-halanzy,350000,house,for-sale,3,107,None,0,None,None,107,990,4,None,To be done up,None
-marche-en-famenne,639000,mixed-use-building,for-sale,5,247,1,0,20,None,247,40100,4,0,Good,None
-bertrix,950000,exceptional-property,for-sale,9,600,1,0,100,42500,600,43442,4,1,To be done up,None
-marche-en-famenne,990000,apartment,for-sale,2,560,1,1,None,None,560,None,4,None,Good,None
-bure,Make an,house,for-sale,4,130,1,0,None,None,130,831,4,None,Good,None
-vance,230000,house,for-sale,3,387,1,0,None,None,387,427,3,None,To renovate,None
-nassogne,249000,house,for-sale,3,269,1,0,14,2091,269,2361,4,0,To be done up,None
-libramont-chevigny,249500,house,for-sale,None,None,0,0,40,820,None,929,4,0,To renovate,None
-tenneville,260000,house,for-sale,3,139,1,0,None,None,139,2600,4,0,Good,None
-bouillon-bellevaux,295000,house,for-sale,5,221,1,0,50,1500,221,2339,3,0,Good,None
-athus,299000,house,for-sale,2,150,None,0,35,83,150,166,None,None,Good,None
-neufchateau,325000,house,for-sale,3,208,1,0,None,None,208,916,4,0,As new,None
-saint-hubert,360000,house,for-sale,5,188,1,0,None,None,188,817,4,0,Just renovated,None
-messancy,465000,house,for-sale,5,261,1,0,None,None,261,1522,4,None,Good,None
-habay,495000,apartment-block,for-sale,3,168,1,0,77,1365,168,1831,4,None,Good,None
-libin-redu,499000,house,for-sale,6,178,0,0,50,950,178,1145,4,None,To renovate,None
-vielsalm,599000,villa,for-sale,6,503,1,0,150,603,503,1326,4,None,Good,None
-vielsalm,599000,apartment-block,for-sale,6,503,1,0,150,603,503,1326,4,None,Good,None
-libin-anloy,599000,exceptional-property,for-sale,6,465,1,0,50,3800,465,4089,3,1,As new,None
-libin-anloy,599000,house,for-sale,6,465,1,0,50,3800,465,4089,3,1,As new,None
-libin,314900,house,for-sale,3,115,0,0,8,131,115,345,3,0,As new,None
-ucimont,Make an,duplex,for-sale,2,100,1,0,None,None,100,None,2,None,Good,None
-bertrix,149000,apartment,for-sale,2,90,1,0,None,None,90,None,None,None,Just renovated,None
-athus,215000,apartment,for-sale,2,97,1,0,None,None,97,None,2,None,Good,None
-leglise,220000,apartment,for-sale,3,112,1,0,None,None,112,None,None,0,As new,None
-arlon,225000,apartment,for-sale,2,80,1,0,4,None,80,None,None,None,Good,None
-arlon,230000,apartment,for-sale,2,95,1,0,None,None,95,None,2,None,Good,None
-aubange,325000,apartment,for-sale,3,124,1,0,15,160,124,None,None,None,As new,None
-paliseul-opont,Make an,house,for-sale,6,350,None,0,12,20,350,684,4,0,Good,None
-neufchateau-longlier,216500,apartment,for-sale,2,86,0,0,10,None,86,None,None,None,As new,None
-bertrix,269500,apartment,for-sale,3,103,None,0,37,None,103,None,None,0,As new,None
-houffalize,Make an,house,for-sale,3,202,None,0,None,None,202,717,4,None,To renovate,None
-houffalize,145000,house,for-sale,3,196,None,0,None,None,196,484,4,None,To renovate,None
-saint-hubert,169000,house,for-sale,2,77,None,0,None,None,77,48,2,None,Just renovated,None
-vaux-sur-sure,315000,house,for-sale,4,253,None,0,None,None,253,1200,4,None,To be done up,None
-bastogne,360000,house,for-sale,3,166,None,0,9,None,166,85,2,None,Just renovated,None
-arlon,769000,house,for-sale,5,190,1,None,25,400,190,490,1,0,As new,1
-bertrix,195800,apartment,for-sale,1,87,1,0,28,None,87,None,None,0,As new,None
-viville,180000,apartment,for-sale,2,56,None,0,None,None,56,None,3,None,Good,None
-halanzy-aubange,209000,duplex,for-sale,2,84,None,0,None,None,84,None,2,None,Just renovated,None
-autelbas,580000,house,for-sale,5,270,1,0,None,None,270,590,2,None,Good,None
-villers-ste-gertrude,208000,house,for-sale,3,145,None,0,15,None,145,435,3,None,To renovate,None
-arlon,475000,house,for-sale,4,205,1,0,None,140,205,225,2,None,Good,None
-libramont-chevigny-presseux,176900,apartment,for-sale,1,58,None,0,8,None,58,None,None,None,As new,None
-villers-devant-orval,145000,house,for-sale,3,173,1,0,None,None,173,410,2,None,Good,None
-manhay,228000,house,for-sale,4,290,0,0,None,300,290,500,4,None,To renovate,None
-vielsalm,230000,house,for-sale,3,150,None,None,None,147,150,211,4,None,Good,None
-habay-la-neuve,Make an,house,for-sale,3,112,1,0,None,None,112,550,4,None,To be done up,None
-athus,280000,house,for-sale,3,155,None,0,180,300,155,289,4,None,To restore,1
-durbuy,300000,house,for-sale,3,122,1,0,None,None,122,1800,4,None,None,1
-transinne,Make an,house,for-sale,3,115,1,0,None,None,115,594,4,None,As new,None
-virton,329000,house,for-sale,4,256,1,0,None,None,256,2685,4,None,Good,None
-arlon,340000,house,for-sale,5,216,1,0,None,None,216,550,4,None,To restore,None
-arlon,360000,apartment-block,for-sale,7,339,0,0,25,200,339,289,2,None,To renovate,None
-arlon,360000,mixed-use-building,for-sale,7,339,0,0,25,200,339,289,2,None,To renovate,None
-marche-en-famenne,399000,apartment-block,for-sale,4,325,1,0,47,None,325,310,2,None,To renovate,1
-messancy,430000,apartment-block,for-sale,5,408,1,0,None,None,408,510,2,None,Good,None
-battincourt,450000,house,for-sale,4,333,None,0,90,None,333,880,2,None,None,None
-nobressart,480000,house,for-sale,3,148,1,0,None,None,148,990,4,None,Good,None
-aix-sur-cloie,490000,villa,for-sale,4,170,1,0,None,None,170,1465,4,None,Good,1
-aix-sur-cloie,490000,house,for-sale,4,170,1,0,None,None,170,1465,4,None,Good,1
-petitvoir,Make an,house,for-sale,2,290,1,0,None,None,290,18662,3,None,Good,None
-arlon,500000,house,for-sale,5,159,1,0,None,None,159,611,3,None,Good,None
-arlon,520000,house,for-sale,4,230,1,0,None,None,230,1873,4,None,As new,1
-leglise-assenois,690000,exceptional-property,for-sale,9,671,1,0,None,None,671,2803,4,0,As new,None
-messancy,910000,house,for-sale,5,270,1,0,None,None,270,2405,4,None,Good,None
-habay-marbehan,149000,apartment,for-sale,2,78,1,0,None,None,78,None,None,None,To be done up,None
-arlon,235000,apartment,for-sale,2,91,1,0,None,None,91,None,None,None,Good,None
-aubange,239000,apartment,for-sale,2,78,None,0,None,None,78,None,None,None,None,None
-houffalize,249000,apartment,for-sale,2,79,1,0,None,None,79,None,None,None,None,None
-arlon,250000,apartment,for-sale,1,71,1,0,None,None,71,None,3,None,None,None
-etalle,269500,duplex,for-sale,3,120,1,None,7,None,120,None,4,0,Good,None
-etalle,275000,apartment,for-sale,2,133,1,0,None,None,133,None,3,None,Good,None
-etalle,275000,apartment,for-sale,2,148,1,0,None,None,148,None,3,None,Good,None
-arlon,280000,apartment,for-sale,3,125,1,0,None,None,125,None,None,None,Good,None
-arlon,320000,apartment,for-sale,2,89,1,0,None,None,89,None,None,None,Good,None
-libramont-chevigny,238900,apartment,for-sale,2,77,1,0,4,None,77,None,None,None,As new,None
-libin,244900,apartment,for-sale,2,82,None,0,6,None,82,None,None,0,As new,None
-bastogne,280000,apartment,for-sale,2,97,None,0,9,None,97,None,2,0,Good,None
-florenville,299000,duplex,for-sale,2,108,1,0,30,None,108,None,3,0,As new,None
-bertrix,109000,house,for-sale,3,171,1,0,6,32,171,145,3,0,To renovate,None
-halanzy-aubange,209000,house,for-sale,2,84,None,0,None,None,84,45,2,None,Just renovated,None
-athus,185000,house,for-sale,3,121,1,0,None,None,121,240,2,None,To be done up,None
-arlon,190000,house,for-sale,4,206,0,0,None,None,206,266,2,None,To renovate,None
-virton,199000,house,for-sale,5,144,1,0,None,200,144,543,4,0,To renovate,None
-arlon,205000,house,for-sale,3,115,0,0,None,None,115,111,2,None,To renovate,None
-heinsch,210000,house,for-sale,None,None,1,0,None,310,None,576,2,None,To renovate,None
-libramont-chevigny,Make an,house,for-sale,3,130,1,0,None,None,130,7880,3,None,To renovate,None
-paliseul,Make an,house,for-sale,4,87,1,0,None,None,87,1015,4,None,Good,None
-transinne,Make an,house,for-sale,5,215,1,0,None,None,215,480,4,None,To be done up,None
-arlon,315000,house,for-sale,3,160,1,0,None,None,160,270,2,None,Good,None
-arlon,319000,house,for-sale,4,172,1,None,21,200,172,399,2,None,To be done up,None
-athus,320000,mixed-use-building,for-sale,5,174,1,0,None,None,174,175,2,None,Good,None
-fauvillers,335000,house,for-sale,3,264,1,0,None,None,264,640,4,None,Good,None
-athus,335000,house,for-sale,3,102,1,0,25,None,102,877,4,None,None,None
-arlon,350000,house,for-sale,5,257,1,0,None,None,257,416,3,None,Good,None
-aye,429000,house,for-sale,7,350,1,0,80,1616,350,2649,4,None,Good,None
-messancy,450000,house,for-sale,5,193,1,0,None,None,193,1250,4,None,To be done up,None
-leglise,490000,house,for-sale,3,172,1,0,51,None,172,1905,4,None,Good,None
-wolkrange,495000,house,for-sale,6,293,1,0,None,None,293,347,3,None,Good,None
-messancy,570000,villa,for-sale,3,264,1,0,None,None,264,4417,4,None,Good,None
-messancy,570000,house,for-sale,3,264,1,0,None,None,264,4417,4,None,Good,None
-aix-sur-cloie,580000,villa,for-sale,3,294,1,0,None,None,294,10373,4,None,Good,1
-messancy,699000,house,for-sale,6,405,1,0,111,None,405,1110,4,0,Good,None
-arlon,820000,house,for-sale,5,235,1,0,None,None,235,759,4,None,Good,None
-marche-en-famenne,Make,villa,for-sale,5,680,1,0,125,14500,680,14884,4,None,As new,None
-arlon,430000,house,for-sale,4,278,None,0,None,None,278,None,3,None,Good,1
-attert,560000,house,for-sale,4,252,None,0,None,None,252,641,3,None,None,None
-aubange,185000,apartment,for-sale,2,69,None,0,None,None,69,None,None,None,None,None
-bertrix,205800,apartment,for-sale,2,84,1,0,None,None,84,None,None,0,As new,None
-bertrix,206800,apartment,for-sale,2,84,1,0,None,None,84,None,None,None,As new,None
-bertrix,222300,apartment,for-sale,2,83,1,0,15,None,83,None,None,0,As new,None
-bertrix,226800,apartment,for-sale,2,86,1,0,85,None,86,None,None,0,As new,None
-aubange,298000,apartment,for-sale,4,139,None,0,None,None,139,None,2,None,None,None
-habay,495000,apartment,for-sale,3,168,1,0,77,1365,168,None,4,None,Good,None
-sainte-ode,245000,mixed-use-building,for-sale,None,570,None,None,None,None,None,5,4,0,Good,None
-marche-en-famenne,245000,mixed-use-building,for-sale,None,570,None,None,None,None,None,5,4,0,Good,None
-tellin-grupont,Make an,house,for-sale,4,192,None,0,None,None,192,1334,4,None,To be done up,None
-marche-en-famenne,285000,apartment-block,for-sale,3,222,1,0,20,125,222,469,None,None,Good,None
-aubange,320000,house,for-sale,2,148,None,0,20,400,148,659,3,0,None,None
-bastogne,380000,house,for-sale,5,296,None,0,None,None,296,2334,4,0,None,None
-rachecourt,499000,house,for-sale,4,176,None,0,45,None,176,1230,4,None,None,None
-houffalize,610000,apartment-block,for-sale,None,490,None,0,None,None,None,187,2,None,None,None
-ucimont,1385000,house,for-sale,14,471,None,1,None,None,471,2680,3,None,None,None
-bastogne,695000,villa,for-sale,8,444,1,0,80,2427,444,2647,4,1,Good,None
-bertrix,97000,house,for-sale,2,46,1,0,61,None,46,60,2,0,To be done up,None
-marche-en-famenne,1395000,exceptional-property,for-sale,11,500,1,None,None,None,500,1855,4,None,As new,None
-bertrix,149000,house,for-sale,4,172,1,0,None,None,172,85,2,None,To be done up,None
-bertrix,149000,apartment-block,for-sale,4,172,1,0,None,None,172,85,2,None,To be done up,None
-bastogne,118000,apartment,for-sale,1,34,None,0,None,None,34,None,3,None,None,None
-arlon,225000,apartment,for-sale,2,84,None,0,None,None,84,None,2,None,To be done up,None
-arlon,228000,apartment,for-sale,2,88,None,0,None,None,88,None,2,0,Just renovated,None
 arlon,228000,apartment,for-sale,2,88,None,0,None,None,88,None,2,0,Just renovated,None
 herbeumont,170000,house,for-sale,4,286,None,0,None,70,286,344,2,None,To renovate,None
-bertrix,Make an,house,for-sale,3,160,1,0,None,None,160,175,3,None,Good,None
+bertrix,188000,house,for-sale,3,160,1,0,None,None,160,175,3,None,Good,None
 neufchateau,280000,house,for-sale,5,636,0,0,None,503,636,994,4,None,To renovate,None
 arlon,290000,house,for-sale,2,110,1,0,None,None,110,165,2,None,Good,None
 habergy,295000,house,for-sale,2,108,None,0,28,None,108,142,3,None,None,None
-paliseul,Make an,house,for-sale,8,458,1,0,50,1700,458,2341,4,0,To renovate,None
+paliseul,299000,house,for-sale,8,458,1,0,50,1700,458,2341,4,0,To renovate,None
 messancy,320000,house,for-sale,1,65,1,0,20,None,65,198,3,None,None,None
 wellin-halma,320000,house,for-sale,3,250,1,0,29,None,250,2152,4,None,To be done up,None
 haut-fays,325000,house,for-sale,4,197,None,0,None,None,197,661,4,None,Just renovated,None
@@ -299,6 +99,156 @@ sainte-marie-sur-semois,350000,house,for-sale,3,277,1,None,None,None,277,1554,4,
 arlon,220000,apartment,for-sale,2,86,None,0,None,None,86,None,2,None,To be done up,None
 bastogne,249000,apartment,for-sale,2,90,1,0,12,None,90,None,3,None,None,None
 tintigny,160000,house,for-sale,2,111,1,0,None,None,111,70,3,None,Good,None
+libramont-chevigny-presseux,214900,apartment,for-sale,2,83,None,0,8,None,83,None,None,None,As new,None
+tenneville,285000,house,for-sale,3,130,1,0,None,None,130,1040,4,0,Good,None
+hotton,98000,house,for-sale,2,90,0,0,None,237,90,237,3,0,To restore,None
+hotton,105000,house,for-sale,2,102,0,0,None,501,102,501,3,0,To restore,None
+barvaux-sur-ourthe,129000,house,for-sale,2,74,1,None,21,None,74,330,4,0,To be done up,None
+habay,190000,house,for-sale,4,256,0,None,None,348,256,568,3,None,To renovate,None
+hotton,199000,house,for-sale,4,225,0,0,None,754,225,753,4,0,To restore,None
+arlon,270000,apartment,for-sale,3,110,1,0,None,None,110,None,2,None,Good,None
+bastogne,245000,apartment,for-sale,2,77,None,0,5,None,77,None,2,0,As new,None
+bastogne,250000,apartment,for-sale,2,77,None,0,5,None,77,None,2,0,As new,None
+bastogne,255000,apartment,for-sale,2,77,None,0,5,None,77,None,2,0,As new,None
+bastogne,275000,apartment,for-sale,2,97,None,0,9,None,97,None,2,0,Good,None
+bastogne,300000,apartment,for-sale,3,101,None,0,12,None,101,None,2,0,As new,None
+bastogne,310000,apartment,for-sale,3,101,None,0,12,None,101,None,2,0,As new,None
+bastogne,325000,apartment,for-sale,2,94,None,0,9,None,94,None,2,0,Good,None
+aubange,320000,apartment,for-sale,2,111,1,0,17,400,111,None,3,0,Good,None
+bouillon,150000,country-cottage,for-sale,4,229,0,0,None,None,229,1345,3,None,To renovate,None
+ortho-la-roche-en-ardenne,160000,house,for-sale,3,196,0,0,None,None,196,682,3,None,To renovate,None
+halanzy,350000,house,for-sale,3,107,None,0,None,None,107,990,4,None,To be done up,None
+marche-en-famenne,639000,mixed-use-building,for-sale,5,247,1,0,20,None,247,40100,4,0,Good,None
+bertrix,950000,exceptional-property,for-sale,9,600,1,0,100,42500,600,43442,4,1,To be done up,None
+marche-en-famenne,990000,apartment,for-sale,2,560,1,1,None,None,560,None,4,None,Good,None
+bure,269900,house,for-sale,4,130,1,0,None,None,130,831,4,None,Good,None
+vance,230000,house,for-sale,3,387,1,0,None,None,387,427,3,None,To renovate,None
+nassogne,249000,house,for-sale,3,269,1,0,14,2091,269,2361,4,0,To be done up,None
+libramont-chevigny,249500,house,for-sale,None,None,0,0,40,820,None,929,4,0,To renovate,None
+tenneville,260000,house,for-sale,3,139,1,0,None,None,139,2600,4,0,Good,None
+bouillon-bellevaux,295000,house,for-sale,5,221,1,0,50,1500,221,2339,3,0,Good,None
+athus,299000,house,for-sale,2,150,None,0,35,83,150,166,None,None,Good,None
+neufchateau,325000,house,for-sale,3,208,1,0,None,None,208,916,4,0,As new,None
+saint-hubert,360000,house,for-sale,5,188,1,0,None,None,188,817,4,0,Just renovated,None
+messancy,465000,house,for-sale,5,261,1,0,None,None,261,1522,4,None,Good,None
+habay,495000,apartment-block,for-sale,3,168,1,0,77,1365,168,1831,4,None,Good,None
+libin-redu,499000,house,for-sale,6,178,0,0,50,950,178,1145,4,None,To renovate,None
+vielsalm,599000,villa,for-sale,6,503,1,0,150,603,503,1326,4,None,Good,None
+vielsalm,599000,apartment-block,for-sale,6,503,1,0,150,603,503,1326,4,None,Good,None
+libin-anloy,599000,exceptional-property,for-sale,6,465,1,0,50,3800,465,4089,3,1,As new,None
+libin-anloy,599000,house,for-sale,6,465,1,0,50,3800,465,4089,3,1,As new,None
+libin,314900,house,for-sale,3,115,0,0,8,131,115,345,3,0,As new,None
+ucimont,99000,duplex,for-sale,2,100,1,0,None,None,100,None,2,None,Good,None
+bertrix,149000,apartment,for-sale,2,90,1,0,None,None,90,None,None,None,Just renovated,None
+athus,215000,apartment,for-sale,2,97,1,0,None,None,97,None,2,None,Good,None
+leglise,220000,apartment,for-sale,3,112,1,0,None,None,112,None,None,0,As new,None
+arlon,225000,apartment,for-sale,2,80,1,0,4,None,80,None,None,None,Good,None
+arlon,230000,apartment,for-sale,2,95,1,0,None,None,95,None,2,None,Good,None
+aubange,325000,apartment,for-sale,3,124,1,0,15,160,124,None,None,None,As new,None
+paliseul-opont,330000,house,for-sale,6,350,None,0,12,20,350,684,4,0,Good,None
+neufchateau-longlier,216500,apartment,for-sale,2,86,0,0,10,None,86,None,None,None,As new,None
+bertrix,269500,apartment,for-sale,3,103,None,0,37,None,103,None,None,0,As new,None
+houffalize,120000,house,for-sale,3,202,None,0,None,None,202,717,4,None,To renovate,None
+athus,185000,house,for-sale,3,121,1,0,None,None,121,240,2,None,To be done up,None
+arlon,190000,house,for-sale,4,206,0,0,None,None,206,266,2,None,To renovate,None
+virton,199000,house,for-sale,5,144,1,0,None,200,144,543,4,0,To renovate,None
+arlon,205000,house,for-sale,3,115,0,0,None,None,115,111,2,None,To renovate,None
+heinsch,210000,house,for-sale,None,None,1,0,None,310,None,576,2,None,To renovate,None
+libramont-chevigny,210000,house,for-sale,3,130,1,0,None,None,130,7880,3,None,To renovate,None
+paliseul,257000,house,for-sale,4,87,1,0,None,None,87,1015,4,None,Good,None
+transinne,305000,house,for-sale,5,215,1,0,None,None,215,480,4,None,To be done up,None
+arlon,315000,house,for-sale,3,160,1,0,None,None,160,270,2,None,Good,None
+arlon,319000,house,for-sale,4,172,1,None,21,200,172,399,2,None,To be done up,None
+athus,320000,mixed-use-building,for-sale,5,174,1,0,None,None,174,175,2,None,Good,None
+fauvillers,335000,house,for-sale,3,264,1,0,None,None,264,640,4,None,Good,None
+athus,335000,house,for-sale,3,102,1,0,25,None,102,877,4,None,None,None
+arlon,350000,house,for-sale,5,257,1,0,None,None,257,416,3,None,Good,None
+aye,429000,house,for-sale,7,350,1,0,80,1616,350,2649,4,None,Good,None
+messancy,450000,house,for-sale,5,193,1,0,None,None,193,1250,4,None,To be done up,None
+leglise,490000,house,for-sale,3,172,1,0,51,None,172,1905,4,None,Good,None
+wolkrange,495000,house,for-sale,6,293,1,0,None,None,293,347,3,None,Good,None
+messancy,570000,villa,for-sale,3,264,1,0,None,None,264,4417,4,None,Good,None
+messancy,570000,house,for-sale,3,264,1,0,None,None,264,4417,4,None,Good,None
+aix-sur-cloie,580000,villa,for-sale,3,294,1,0,None,None,294,10373,4,None,Good,1
+messancy,699000,house,for-sale,6,405,1,0,111,None,405,1110,4,0,Good,None
+arlon,820000,house,for-sale,5,235,1,0,None,None,235,759,4,None,Good,None
+marche-en-famenne,1250000,villa,for-sale,5,680,1,0,125,14500,680,14884,4,None,As new,None
+arlon,430000,house,for-sale,4,278,None,0,None,None,278,None,3,None,Good,1
+attert,560000,house,for-sale,4,252,None,0,None,None,252,641,3,None,None,None
+aubange,185000,apartment,for-sale,2,69,None,0,None,None,69,None,None,None,None,None
+bertrix,205800,apartment,for-sale,2,84,1,0,None,None,84,None,None,0,As new,None
+bertrix,206800,apartment,for-sale,2,84,1,0,None,None,84,None,None,None,As new,None
+bertrix,222300,apartment,for-sale,2,83,1,0,15,None,83,None,None,0,As new,None
+bertrix,226800,apartment,for-sale,2,86,1,0,85,None,86,None,None,0,As new,None
+aubange,298000,apartment,for-sale,4,139,None,0,None,None,139,None,2,None,None,None
+habay,495000,apartment,for-sale,3,168,1,0,77,1365,168,None,4,None,Good,None
+sainte-ode,245000,mixed-use-building,for-sale,None,570,None,None,None,None,None,5,4,0,Good,None
+marche-en-famenne,245000,mixed-use-building,for-sale,None,570,None,None,None,None,None,5,4,0,Good,None
+tellin-grupont,260000,house,for-sale,4,192,None,0,None,None,192,1334,4,None,To be done up,None
+marche-en-famenne,285000,apartment-block,for-sale,3,222,1,0,20,125,222,469,None,None,Good,None
+aubange,320000,house,for-sale,2,148,None,0,20,400,148,659,3,0,None,None
+bastogne,380000,house,for-sale,5,296,None,0,None,None,296,2334,4,0,None,None
+rachecourt,499000,house,for-sale,4,176,None,0,45,None,176,1230,4,None,None,None
+houffalize,610000,apartment-block,for-sale,None,490,None,0,None,None,None,187,2,None,None,None
+ucimont,1385000,house,for-sale,14,471,None,1,None,None,471,2680,3,None,None,None
+bastogne,695000,villa,for-sale,8,444,1,0,80,2427,444,2647,4,1,Good,None
+bertrix,97000,house,for-sale,2,46,1,0,61,None,46,60,2,0,To be done up,None
+marche-en-famenne,1395000,exceptional-property,for-sale,11,500,1,None,None,None,500,1855,4,None,As new,None
+bertrix,149000,house,for-sale,4,172,1,0,None,None,172,85,2,None,To be done up,None
+bertrix,149000,apartment-block,for-sale,4,172,1,0,None,None,172,85,2,None,To be done up,None
+bastogne,118000,apartment,for-sale,1,34,None,0,None,None,34,None,3,None,None,None
+arlon,225000,apartment,for-sale,2,84,None,0,None,None,84,None,2,None,To be done up,None
+arlon,228000,apartment,for-sale,2,88,None,0,None,None,88,None,2,0,Just renovated,None
+houffalize,145000,house,for-sale,3,196,None,0,None,None,196,484,4,None,To renovate,None
+saint-hubert,169000,house,for-sale,2,77,None,0,None,None,77,48,2,None,Just renovated,None
+vaux-sur-sure,315000,house,for-sale,4,253,None,0,None,None,253,1200,4,None,To be done up,None
+bastogne,360000,house,for-sale,3,166,None,0,9,None,166,85,2,None,Just renovated,None
+arlon,769000,house,for-sale,5,190,1,None,25,400,190,490,1,0,As new,1
+bertrix,195800,apartment,for-sale,1,87,1,0,28,None,87,None,None,0,As new,None
+viville,180000,apartment,for-sale,2,56,None,0,None,None,56,None,3,None,Good,None
+halanzy-aubange,209000,duplex,for-sale,2,84,None,0,None,None,84,None,2,None,Just renovated,None
+autelbas,580000,house,for-sale,5,270,1,0,None,None,270,590,2,None,Good,None
+villers-ste-gertrude,208000,house,for-sale,3,145,None,0,15,None,145,435,3,None,To renovate,None
+arlon,475000,house,for-sale,4,205,1,0,None,140,205,225,2,None,Good,None
+libramont-chevigny-presseux,176900,apartment,for-sale,1,58,None,0,8,None,58,None,None,None,As new,None
+villers-devant-orval,145000,house,for-sale,3,173,1,0,None,None,173,410,2,None,Good,None
+manhay,228000,house,for-sale,4,290,0,0,None,300,290,500,4,None,To renovate,None
+vielsalm,230000,house,for-sale,3,150,None,None,None,147,150,211,4,None,Good,None
+habay-la-neuve,260000,house,for-sale,3,112,1,0,None,None,112,550,4,None,To be done up,None
+athus,280000,house,for-sale,3,155,None,0,180,300,155,289,4,None,To restore,1
+durbuy,300000,house,for-sale,3,122,1,0,None,None,122,1800,4,None,None,1
+transinne,305000,house,for-sale,3,115,1,0,None,None,115,594,4,None,As new,None
+virton,329000,house,for-sale,4,256,1,0,None,None,256,2685,4,None,Good,None
+arlon,340000,house,for-sale,5,216,1,0,None,None,216,550,4,None,To restore,None
+arlon,360000,apartment-block,for-sale,7,339,0,0,25,200,339,289,2,None,To renovate,None
+arlon,360000,mixed-use-building,for-sale,7,339,0,0,25,200,339,289,2,None,To renovate,None
+marche-en-famenne,399000,apartment-block,for-sale,4,325,1,0,47,None,325,310,2,None,To renovate,1
+messancy,430000,apartment-block,for-sale,5,408,1,0,None,None,408,510,2,None,Good,None
+battincourt,450000,house,for-sale,4,333,None,0,90,None,333,880,2,None,None,None
+nobressart,480000,house,for-sale,3,148,1,0,None,None,148,990,4,None,Good,None
+aix-sur-cloie,490000,villa,for-sale,4,170,1,0,None,None,170,1465,4,None,Good,1
+aix-sur-cloie,490000,house,for-sale,4,170,1,0,None,None,170,1465,4,None,Good,1
+petitvoir,491000,house,for-sale,2,290,1,0,None,None,290,18662,3,None,Good,None
+arlon,500000,house,for-sale,5,159,1,0,None,None,159,611,3,None,Good,None
+arlon,520000,house,for-sale,4,230,1,0,None,None,230,1873,4,None,As new,1
+leglise-assenois,690000,exceptional-property,for-sale,9,671,1,0,None,None,671,2803,4,0,As new,None
+messancy,910000,house,for-sale,5,270,1,0,None,None,270,2405,4,None,Good,None
+habay-marbehan,149000,apartment,for-sale,2,78,1,0,None,None,78,None,None,None,To be done up,None
+arlon,235000,apartment,for-sale,2,91,1,0,None,None,91,None,None,None,Good,None
+aubange,239000,apartment,for-sale,2,78,None,0,None,None,78,None,None,None,None,None
+houffalize,249000,apartment,for-sale,2,79,1,0,None,None,79,None,None,None,None,None
+arlon,250000,apartment,for-sale,1,71,1,0,None,None,71,None,3,None,None,None
+etalle,269500,duplex,for-sale,3,120,1,None,7,None,120,None,4,0,Good,None
+etalle,275000,apartment,for-sale,2,133,1,0,None,None,133,None,3,None,Good,None
+etalle,275000,apartment,for-sale,2,148,1,0,None,None,148,None,3,None,Good,None
+arlon,280000,apartment,for-sale,3,125,1,0,None,None,125,None,None,None,Good,None
+arlon,320000,apartment,for-sale,2,89,1,0,None,None,89,None,None,None,Good,None
+libramont-chevigny,238900,apartment,for-sale,2,77,1,0,4,None,77,None,None,None,As new,None
+libin,244900,apartment,for-sale,2,82,None,0,6,None,82,None,None,0,As new,None
+bastogne,280000,apartment,for-sale,2,97,None,0,9,None,97,None,2,0,Good,None
+florenville,299000,duplex,for-sale,2,108,1,0,30,None,108,None,3,0,As new,None
+bertrix,109000,house,for-sale,3,171,1,0,6,32,171,145,3,0,To renovate,None
+halanzy-aubange,209000,house,for-sale,2,84,None,0,None,None,84,45,2,None,Just renovated,None
 steinbach,249000,house,for-sale,4,201,None,0,None,None,201,2200,4,None,To be done up,None
 messancy,320000,house,for-sale,3,189,0,0,None,None,189,880,3,None,To renovate,None
 tellin,320000,house,for-sale,8,400,1,0,None,None,400,780,2,None,To be done up,None
@@ -313,7 +263,7 @@ paliseul-maissin,179000,house,for-sale,7,197,1,0,None,None,197,114,3,0,To be don
 musson,310000,house,for-sale,4,169,1,0,None,200,169,350,4,None,Good,None
 bleid,189000,apartment,for-sale,2,95,1,0,5,None,95,None,None,None,As new,None
 bastogne,275000,apartment,for-sale,2,89,None,0,None,None,89,None,2,0,None,None
-paliseul,Make an,house,for-sale,3,111,1,0,None,None,111,364,3,None,To renovate,None
+paliseul,149000,house,for-sale,3,111,1,0,None,None,111,364,3,None,To renovate,None
 virton,179000,house,for-sale,3,130,1,0,None,300,130,502,3,None,To be done up,None
 fronville,179000,house,for-sale,2,114,1,0,None,None,114,329,4,0,Good,None
 leglise,220000,house,for-sale,3,174,0,0,None,None,174,767,4,None,To renovate,None
@@ -349,6 +299,156 @@ baranzy-musson,425000,house,for-sale,4,159,None,0,18,None,159,430,3,None,None,No
 arlon-stockem,235000,apartment,for-sale,2,91,None,0,None,None,91,None,None,None,Good,None
 arlon,297500,apartment,for-sale,2,120,1,0,None,None,120,None,4,None,Good,None
 tournay,295000,house,for-sale,3,151,1,0,21,1300,151,1375,4,None,As new,None
+signeulx,215000,house,for-sale,7,552,1,0,None,None,552,850,4,None,To renovate,None
+libin-ochamps,219900,house,for-sale,4,210,0,0,50,300,210,511,4,None,To renovate,None
+wellin-chanly,285000,house,for-sale,5,200,1,0,52,None,200,1330,4,None,Good,None
+signeulx,315000,house,for-sale,7,552,1,0,None,None,552,2392,4,None,To renovate,None
+tintigny-rossignol,389000,house,for-sale,4,290,0,0,None,450,290,870,2,None,Good,None
+nassogne-mormont,399000,house,for-sale,4,344,1,0,None,None,344,3661,4,None,As new,None
+marche-en-famenne,259000,house,for-sale,3,116,1,0,13,1574,116,1665,4,None,Good,None
+neufchateau-longlier,312000,house,for-sale,3,128,0,0,20,453,128,453,3,None,As new,None
+vaux-sur-sure,229000,house,for-sale,4,138,1,0,40,None,138,676,4,0,To be done up,None
+bertrix,140000,house,for-sale,2,145,0,0,None,None,145,220,3,None,To be done up,None
+arlon,143000,apartment,for-sale,1,44,1,0,None,None,44,None,4,None,To be done up,None
+messancy,420000,house,for-sale,2,216,1,0,15,260,216,375,4,None,As new,None
+bastogne,245000,apartment,for-sale,None,90,None,0,None,None,None,None,2,0,As new,None
+virton,269000,apartment,for-sale,3,114,1,0,32,None,114,None,3,0,As new,None
+etalle-sainte-marie-sur-semois,345000,duplex,for-sale,4,155,1,0,14,None,155,None,None,0,As new,None
+bastogne,355000,apartment,for-sale,None,119,None,0,None,None,None,None,2,0,None,None
+vaux-sur-sure,379000,penthouse,for-sale,3,159,1,0,53,None,159,None,4,None,None,None
+transinne,126000,house,for-sale,2,142,1,0,None,None,142,252,3,None,To renovate,None
+longlier-neufchateau,195000,house,for-sale,4,177,0,0,None,None,177,1117,3,None,To renovate,None
+noirefontaine,215000,house,for-sale,3,258,None,0,None,None,258,5000,4,None,To renovate,None
+virton,258000,house,for-sale,3,173,1,0,None,None,173,None,3,None,As new,None
+rachecourt,289000,house,for-sale,3,123,None,0,15,None,123,379,3,None,To renovate,10
+arlon,295000,mixed-use-building,for-sale,4,231,0,0,None,None,231,400,3,None,To renovate,None
+marche-en-famenne-hargimont,295000,house,for-sale,3,170,1,0,None,None,170,1278,4,0,Good,None
+erezee,299000,house,for-sale,3,130,None,1,None,None,130,975,4,None,None,None
+arlon,300000,house,for-sale,3,145,0,0,None,None,145,1579,3,None,None,None
+tontelange,375000,country-cottage,for-sale,3,268,None,0,None,600,268,1010,4,None,Just renovated,None
+fouches,480000,house,for-sale,5,514,None,0,None,None,514,1455,4,None,None,1
+musson,650000,house,for-sale,4,270,1,0,35,None,270,2519,4,1,Good,None
+marche-en-famenne,990000,house,for-sale,2,560,1,1,None,None,560,14515,4,None,Good,None
+bastogne,198000,apartment,for-sale,2,93,None,0,None,None,93,None,4,None,None,None
+neuvillers,207000,apartment,for-sale,2,79,None,0,None,None,79,None,4,0,None,None
+arlon,245000,apartment,for-sale,2,84,None,0,None,None,84,None,4,None,None,None
+bastogne,319000,apartment,for-sale,2,95,None,0,9,None,95,None,4,0,None,None
+arlon,320000,apartment,for-sale,2,91,1,0,10,None,91,None,4,None,Good,None
+saint-hubert,125000,town-house,for-sale,3,120,1,0,4,None,120,None,3,0,Good,None
+tellin-resteigne,130000,chalet,for-sale,1,45,1,0,16,None,45,315,4,None,Good,None
+paliseul-maissin,159900,mixed-use-building,for-sale,6,450,0,0,10,100,450,659,3,0,To renovate,None
+athus,185000,house,for-sale,3,121,1,0,None,None,121,240,2,None,To be done up,None
+arlon,190000,house,for-sale,4,206,0,0,None,None,206,266,2,None,To renovate,None
+virton,199000,house,for-sale,5,144,1,0,None,200,144,543,4,0,To renovate,None
+arlon,205000,house,for-sale,3,115,0,0,None,None,115,111,2,None,To renovate,None
+heinsch,210000,house,for-sale,None,None,1,0,None,310,None,576,2,None,To renovate,None
+libramont-chevigny,210000,house,for-sale,3,130,1,0,None,None,130,7880,3,None,To renovate,None
+paliseul,257000,house,for-sale,4,87,1,0,None,None,87,1015,4,None,Good,None
+transinne,305000,house,for-sale,5,215,1,0,None,None,215,480,4,None,To be done up,None
+arlon,315000,house,for-sale,3,160,1,0,None,None,160,270,2,None,Good,None
+arlon,319000,house,for-sale,4,172,1,None,21,200,172,399,2,None,To be done up,None
+athus,320000,mixed-use-building,for-sale,5,174,1,0,None,None,174,175,2,None,Good,None
+fauvillers,335000,house,for-sale,3,264,1,0,None,None,264,640,4,None,Good,None
+neufchateau,119000,country-cottage,for-sale,None,172,None,0,None,None,None,367,3,None,To renovate,None
+juseret,149000,house,for-sale,3,190,1,0,None,None,190,147,2,None,To be done up,None
+juseret,149000,manor-house,for-sale,3,190,1,0,None,None,190,147,2,None,To be done up,None
+virton-saint-mard,165000,house,for-sale,4,143,1,0,None,None,143,155,2,None,Good,None
+libramont-chevigny,165000,house,for-sale,4,161,1,None,None,None,161,1128,4,None,Good,None
+nassogne,325000,farmhouse,for-sale,4,146,None,0,None,1710,146,1710,1,None,To renovate,None
+saint-leger,450000,house,for-sale,5,210,None,0,40,None,210,763,4,None,None,None
+hives,599000,house,for-sale,6,431,None,None,None,3795,431,3900,4,1,As new,None
+marche-en-famenne,995000,house,for-sale,None,None,1,0,None,None,None,580,4,None,Just renovated,None
+martelange,115000,house,for-sale,None,None,0,0,None,None,None,700,4,None,To renovate,None
+gouvy,215000,house,for-sale,None,None,1,0,None,None,None,1040,3,None,Good,None
+gouvy,235000,house,for-sale,None,None,1,0,None,None,None,699,3,None,Good,None
+sainte-ode,275000,house,for-sale,None,None,1,0,None,None,None,975,4,None,Good,None
+gouvy,280000,house,for-sale,None,None,1,0,None,None,None,949,4,None,None,None
+libramont-chevigny,280000,house,for-sale,None,None,1,None,None,None,None,1010,4,None,Good,1
+waha,495000,house,for-sale,4,224,None,0,49,2019,224,2125,4,1,Good,None
+wellin-lomprez,99000,house,for-sale,2,102,1,0,None,219,102,219,2,0,To renovate,None
+hargimont,115000,house,for-sale,1,120,None,0,None,443,120,520,4,None,To be done up,None
+la-roche-en-ardenne,119000,house,for-sale,4,155,None,0,9,None,155,70,3,0,To be done up,None
+saint-hubert,129000,house,for-sale,2,104,None,None,None,None,104,72,2,None,Good,None
+hargimont,179000,house,for-sale,4,126,None,0,8,163,126,240,2,None,Good,None
+biron,179000,chalet,for-sale,2,73,None,0,16,1260,73,1370,4,None,To be done up,None
+marche-en-famenne,199000,house,for-sale,3,95,None,0,None,420,95,520,3,None,Good,None
+bastogne,209000,house,for-sale,2,140,1,0,57,1114,140,1250,3,0,To renovate,None
+marche-en-famenne,219000,house,for-sale,3,147,None,0,None,910,147,994,3,None,Good,None
+bertrix,225000,house,for-sale,7,225,None,None,None,1037,225,1170,3,None,Good,None
+signeulx,230000,house,for-sale,5,180,1,0,None,2135,180,2235,2,None,Good,None
+saint-mard,230000,house,for-sale,3,179,1,0,None,None,179,1002,3,None,None,None
+soy,230000,house,for-sale,3,118,None,0,19,207,118,265,3,None,Good,None
+daverdisse,240000,country-cottage,for-sale,3,145,1,0,25,3694,145,3694,4,0,Good,None
+neufchateau-grapfontaine,249000,house,for-sale,3,146,0,0,10,550,146,1010,4,None,To be done up,None
+mussy-la-ville,270000,house,for-sale,3,130,1,0,None,4328,130,4328,3,None,Good,None
+forrieres,295000,house,for-sale,3,106,1,0,None,None,106,1522,4,None,Good,None
+habay,299000,house,for-sale,3,150,1,0,None,None,150,336,None,None,Good,None
+libin-transinne,350000,house,for-sale,3,114,1,1,None,1051,114,1051,3,None,Good,None
+tellin,360000,house,for-sale,5,245,None,0,47,931,245,1070,4,None,Good,None
+marche-en-famenne,365000,villa,for-sale,4,223,1,0,60,900,223,900,4,0,As new,None
+nadrin,375000,house,for-sale,4,226,1,0,None,None,226,1530,4,None,None,None
+erezee,395000,house,for-sale,3,171,1,0,None,None,171,1498,4,None,As new,1
+sainte-ode,400000,villa,for-sale,None,None,1,0,None,1824,None,1824,None,None,None,None
+bastogne,435000,apartment-block,for-sale,None,None,1,0,None,None,None,550,None,None,Good,None
+saint-leger,470000,house,for-sale,4,2721,1,0,None,None,2721,2721,4,None,None,None
+hodister,750000,house,for-sale,10,415,None,0,85,4631,415,5420,3,None,Good,None
+hotton,750000,mixed-use-building,for-sale,8,450,None,0,None,None,450,219,3,None,Good,None
+attert-thiaumont,1300000,exceptional-property,for-sale,4,1000,0,0,None,None,1000,5843,4,None,Good,None
+jamoigne,250000,apartment,for-sale,3,116,1,None,None,None,116,None,4,None,As new,None
+barvaux,196450,apartment,for-sale,None,None,None,0,None,None,None,None,None,None,None,None
+houffalize,180000,house,for-sale,None,None,0,0,None,334,None,334,4,None,To be done up,None
+marche-en-famenne,225000,house,for-sale,1,182,None,None,None,None,182,295,2,None,Good,None
+arlon,260000,house,for-sale,5,400,0,0,None,None,400,521,3,None,To renovate,None
+messancy,350000,apartment-block,for-sale,6,308,None,None,1,1,308,581,2,None,To renovate,None
+vielsalm,399000,country-cottage,for-sale,3,240,None,0,None,None,240,4246,4,0,To be done up,None
+virton,399000,house,for-sale,5,260,1,None,None,2800,260,3620,4,None,To be done up,None
+paliseul,555000,house,for-sale,3,162,1,None,None,None,162,41994,4,None,To renovate,None
+messancy,749000,house,for-sale,4,263,1,0,None,None,263,None,3,None,As new,None
+jamoigne,190000,apartment,for-sale,2,82,1,None,None,None,82,None,4,None,As new,None
+jamoigne,200000,apartment,for-sale,2,82,1,None,None,None,82,None,None,None,As new,None
+bastogne,350000,house,for-sale,None,None,1,0,None,None,None,428,2,None,None,None
+marche-en-famenne,229000,apartment,for-sale,2,105,1,0,78,None,105,None,2,0,Good,None
+athus,240000,duplex,for-sale,2,107,1,0,None,None,107,None,None,0,None,None
+marche-en-famenne,243000,duplex,for-sale,3,98,None,0,None,None,98,None,None,None,None,None
+tellin,119000,bungalow,for-sale,3,45,1,0,10,308,45,308,4,None,Just renovated,None
+barvaux-sur-ourthe,180000,house,for-sale,3,130,1,0,None,None,130,433,3,None,To be done up,None
+gerouville,208000,house,for-sale,5,300,1,0,None,None,300,149,2,None,None,None
+saint-leger,230000,house,for-sale,3,106,1,0,40,324,106,400,3,None,To be done up,None
+bende,249000,house,for-sale,4,142,1,0,None,None,142,294,3,None,Good,1
+on,250000,house,for-sale,4,134,None,0,8,169,134,1182,4,None,Good,None
+villers-sainte-gertrude,259000,house,for-sale,4,183,1,0,None,None,183,240,4,None,Good,None
+villers-sainte-gertrude,285000,house,for-sale,5,163,0,0,None,None,163,1125,4,None,To renovate,None
+athus,298000,house,for-sale,3,130,None,0,None,None,130,270,3,None,None,None
+barvaux-sur-ourthe,319000,house,for-sale,7,270,1,0,None,None,270,516,3,None,Good,None
+barvaux-sur-ourthe,375000,house,for-sale,6,330,1,0,None,None,330,1220,2,None,To renovate,None
+virton,435000,house,for-sale,5,243,1,0,38,380,243,485,3,None,As new,None
+arlon,440000,mixed-use-building,for-sale,4,200,1,0,32,80,200,230,2,None,Good,None
+etalle,450000,house,for-sale,3,185,1,0,13,None,185,999,4,0,To be done up,None
+musson,480000,house,for-sale,5,303,None,0,None,750,303,1000,3,1,Good,None
+halconreux,595000,villa,for-sale,None,None,1,0,None,1379,None,None,4,None,None,None
+longchamps,185000,apartment,for-sale,2,81,1,None,None,None,81,None,4,None,As new,None
+marche-en-famenne,365000,apartment,for-sale,3,125,None,0,15,None,125,None,None,None,As new,None
+wellin,199000,house,for-sale,None,None,1,0,18,1737,None,1737,3,0,To be done up,None
+saint-hubert,199000,house,for-sale,None,None,None,None,None,None,None,1793,3,None,To restore,None
+la-roche-en-ardenne,225000,apartment,for-sale,1,125,1,None,None,None,125,None,None,0,Just renovated,None
+arlon,229000,apartment,for-sale,2,126,None,0,None,None,126,None,2,0,None,None
+durbuy,30000,chalet,for-sale,1,40,1,1,None,None,40,280,4,0,Good,None
+saint-hubert,120000,house,for-sale,3,161,None,0,None,None,161,67,2,None,None,None
+saint-hubert,149000,house,for-sale,3,130,None,0,16,140,130,179,4,None,To renovate,None
+marche-en-famenne,159000,house,for-sale,2,123,None,0,None,None,123,65,2,None,Good,None
+biron,179000,chalet,for-sale,2,79,None,0,40,849,79,940,4,None,Good,None
+etalle,199000,house,for-sale,2,116,1,0,None,None,116,105,None,None,None,None
+manhay,245000,house,for-sale,5,250,None,None,None,None,250,1174,4,None,To restore,None
+musson,279000,house,for-sale,6,239,1,0,None,None,239,510,None,None,None,None
+musson,285000,house,for-sale,3,157,1,0,None,None,157,352,None,None,None,None
+aubange,329000,house,for-sale,3,240,1,0,None,None,240,427,None,0,None,None
+aubange,349000,house,for-sale,6,291,1,0,None,None,291,408,None,None,None,None
+marche-en-famenne,375000,exceptional-property,for-sale,5,450,1,0,40,676,450,676,3,1,Good,None
+septon,395000,house,for-sale,5,200,1,0,None,None,200,941,4,0,Good,1
+arlon,399000,house,for-sale,5,210,1,0,None,None,210,408,None,0,None,None
+arlon,399000,apartment-block,for-sale,5,210,1,0,None,None,210,408,None,0,None,None
+virton,439000,town-house,for-sale,3,342,1,0,None,None,342,580,3,None,None,None
+jamoigne,210000,apartment,for-sale,2,82,1,None,None,None,82,None,4,None,As new,None
 saint-mard,210000,house,for-sale,4,150,0,0,20,None,150,220,2,None,To renovate,None
 paliseul-fays-les-veneurs,129900,house,for-sale,None,None,1,0,20,None,None,123,3,0,To renovate,None
 on,179000,house,for-sale,3,118,None,0,54,None,118,378,3,None,Good,None
@@ -358,7 +458,7 @@ messancy-wolkrange,270000,country-cottage,for-sale,4,170,1,0,None,None,170,890,3
 houffalize,279000,house,for-sale,5,160,1,0,None,1916,160,1916,4,None,Good,None
 mont,279000,house,for-sale,5,160,1,0,None,1916,160,1916,4,None,Good,None
 marche-en-famenne,290000,house,for-sale,4,207,None,0,None,1145,207,900,4,None,Good,None
-marche-en-famenne,Make an,house,for-sale,4,195,None,0,None,316,195,640,4,None,Good,None
+marche-en-famenne,339000,house,for-sale,4,195,None,0,None,316,195,640,4,None,Good,None
 bande,350000,house,for-sale,4,244,None,0,None,4498,244,4498,4,0,Good,None
 durbuy,399000,house,for-sale,None,None,1,0,None,None,None,1670,4,None,None,None
 saint-leger,430000,house,for-sale,5,193,1,0,None,300,193,417,3,None,Good,None
@@ -368,18 +468,18 @@ harsin,465000,house,for-sale,4,521,None,0,None,1276,521,1838,4,1,Good,None
 arlon,495000,house,for-sale,3,163,1,None,32,457,163,520,3,0,As new,None
 arlon,635000,house,for-sale,4,224,1,0,25,100,224,188,2,None,As new,None
 arlon,635000,house,for-sale,None,None,None,None,None,None,None,352,2,None,To renovate,None
-arlon,Make an,apartment,for-sale,2,130,None,0,None,None,130,None,2,0,None,None
+arlon,335000,apartment,for-sale,2,130,None,0,None,None,130,None,2,0,None,None
 aubange,465000,house,for-sale,3,185,1,0,None,250,185,372,3,None,As new,None
 marche-en-famenne,225000,town-house,for-sale,4,132,None,0,None,None,132,56,1,None,Good,None
 habay,650000,house,for-sale,4,260,1,0,None,None,260,1089,4,None,As new,None
 vaux-sur-sure,125000,house,for-sale,None,111,None,0,None,None,None,1003,4,None,To renovate,None
-goronne-vielsalm,Make an,country-cottage,for-sale,4,151,None,0,None,None,151,1919,4,None,To renovate,None
+goronne-vielsalm,135000,country-cottage,for-sale,4,151,None,0,None,None,151,1919,4,None,To renovate,None
 la-roche-en-ardenne,139000,house,for-sale,2,82,1,0,None,None,82,152,2,None,To renovate,None
 neufchateau,143000,house,for-sale,2,97,None,0,None,None,97,145,3,0,None,None
 jamoigne,155000,house,for-sale,5,320,0,0,None,300,320,470,3,None,To renovate,None
 fauvillers,195000,house,for-sale,6,264,None,0,None,None,264,1632,4,None,To restore,None
 bertogne,240000,house,for-sale,4,177,None,0,None,None,177,590,4,None,None,None
-fauvillers,Make an,chalet,for-sale,2,118,None,0,17,None,118,1650,4,None,None,None
+fauvillers,265000,chalet,for-sale,2,118,None,0,17,None,118,1650,4,None,None,None
 houffalize,315000,house,for-sale,2,250,None,0,None,None,250,500,4,None,None,None
 amberloup,370000,house,for-sale,5,359,1,0,None,None,359,2720,3,None,Good,None
 bastogne,385000,house,for-sale,4,278,1,0,None,1682,278,1904,4,0,Good,None
@@ -390,7 +490,7 @@ marloie,166000,apartment,for-sale,2,89,None,0,15,None,89,None,None,None,None,Non
 la-roche-en-ardenne,215000,apartment,for-sale,1,70,1,0,60,None,70,None,4,0,Just renovated,None
 hargimont,225000,house,for-sale,2,90,None,0,None,42,90,165,2,None,Good,None
 libramont-chevigny,180000,apartment,for-sale,None,None,1,0,4,None,None,None,None,None,Good,None
-vaux-sur-sure,Make an,apartment,for-sale,None,None,1,0,None,None,None,None,None,None,Good,None
+vaux-sur-sure,210000,apartment,for-sale,None,None,1,0,None,None,None,None,None,None,Good,None
 musson,345000,house,for-sale,3,214,1,0,50,190,214,406,2,None,Just renovated,None
 arlon,355000,apartment,for-sale,2,78,1,0,28,None,78,None,3,0,As new,None
 vielsalm,380000,house,for-sale,4,348,1,None,None,None,348,427,4,None,Good,None
@@ -399,64 +499,64 @@ saint-hubert,49000,house,for-sale,4,128,0,0,None,None,128,310,2,None,To restore,
 arlon,190000,house,for-sale,3,135,0,0,None,None,135,None,2,None,To renovate,None
 virton,290000,apartment-block,for-sale,None,247,1,0,None,None,None,110,2,None,Good,None
 aye,300000,house,for-sale,6,251,None,0,None,444,251,600,4,None,Good,None
-erezee,310000,house,for-sale,None,None,None,0,None,None,None,3441,4,1,None,1
-arlon,315000,house,for-sale,3,153,1,0,None,None,153,None,2,None,Good,None
-libramont-chevigny,319900,house,for-sale,None,None,1,0,20,200,None,None,4,0,As new,None
-durbuy,420000,house,for-sale,6,300,1,1,130,650,300,1320,4,0,As new,None
-bastogne,430000,house,for-sale,None,None,None,0,None,None,None,3278,4,None,None,1
-bertogne,430000,house,for-sale,None,None,None,0,None,None,None,3278,4,None,None,1
-etalle,550000,house,for-sale,4,180,1,None,36,1000,180,1000,4,0,Good,None
-arlon,900000,apartment-block,for-sale,8,400,1,0,None,None,400,None,2,None,Good,None
-les-hayons,420000,house,for-sale,3,150,1,0,None,None,150,650,4,None,None,None
-arlon,124900,apartment,for-sale,1,51,None,0,None,None,51,None,None,None,None,None
-aubange,129000,apartment,for-sale,1,53,None,0,None,None,53,None,4,None,None,None
-musson,185000,apartment,for-sale,2,87,1,0,18,None,87,None,None,None,Good,None
-sainte-ode,Make an,chalet,for-sale,None,None,1,0,None,None,None,892,4,None,To be done up,None
-bertogne,Make an,house,for-sale,None,None,0,0,None,None,None,2185,4,None,To be done up,None
-bastogne,200000,house,for-sale,None,None,1,0,None,None,None,194,2,None,Good,None
-bertogne,200000,house,for-sale,None,None,0,0,None,None,None,2440,4,None,To restore,None
-houffalize,Make an,house,for-sale,None,None,1,0,None,None,None,5820,4,None,Good,None
-bastogne,Make an,house,for-sale,None,None,1,0,None,None,None,1453,4,None,Good,None
-vaux-sur-sure,270000,house,for-sale,None,None,1,0,None,None,None,1452,4,None,Good,None
-bastogne,Make an,apartment-block,for-sale,None,None,1,0,None,None,None,414,3,None,Good,None
-wellin,119000,house,for-sale,1,59,1,0,None,1240,59,1240,3,0,To be done up,None
-marche-en-famenne,150000,house,for-sale,2,80,1,0,None,None,80,90,2,None,Good,None
-saint-leger,160000,house,for-sale,4,198,0,0,22,460,198,576,2,None,To renovate,None
-durbuy,160000,country-cottage,for-sale,2,116,1,None,None,None,116,340,4,0,To restore,None
-grupont,169000,house,for-sale,4,199,0,0,None,None,199,405,4,None,To renovate,None
-durbuy,Make an,house,for-sale,2,79,None,0,None,607,79,680,4,None,Good,None
-durbuy,Make an,house,for-sale,3,153,1,0,20,489,153,559,4,None,Good,None
-dampicourt,220000,house,for-sale,4,150,1,0,None,None,150,818,3,None,To renovate,None
-wellin,Make an,house,for-sale,3,140,1,0,20,822,140,822,4,0,Good,None
-barvaux--sur-ourthe,Make an,house,for-sale,5,134,1,0,36,928,134,928,3,0,To be done up,None
-wellin-chanly,245000,house,for-sale,3,157,1,0,15,571,157,571,4,None,To be done up,None
-marche-en-famenne,255000,house,for-sale,4,155,1,0,15,1192,155,1192,4,0,Good,None
-hargimont,259000,house,for-sale,4,180,1,0,None,208,180,316,4,None,Good,None
-tellin-bure,265000,house,for-sale,5,210,1,0,None,926,210,926,4,0,To be done up,None
-on,269000,house,for-sale,5,231,None,0,35,1372,231,1552,4,None,Good,None
-arlon,270000,house,for-sale,3,290,0,0,None,None,290,620,3,None,To renovate,None
-aye,Make an,house,for-sale,5,216,None,0,17,1582,216,1742,4,None,Good,None
-erezee,325000,house,for-sale,3,123,1,0,None,1553,123,1580,4,0,Good,None
-ethe,340000,house,for-sale,4,280,1,0,None,350,280,500,3,None,As new,None
-ethe,349000,house,for-sale,5,165,1,0,None,None,165,450,3,None,None,None
-messancy,429000,house,for-sale,3,172,1,0,10,None,172,500,2,None,Good,None
-etalle,430000,house,for-sale,6,318,1,0,None,1600,318,1772,4,None,Good,None
-marche-en-famenne,549000,house,for-sale,7,395,1,0,71,859,395,1594,4,1,Good,None
-athus,575000,house,for-sale,4,240,1,0,None,None,240,808,4,None,As new,1
-vielsalm,745000,mixed-use-building,for-sale,8,396,1,1,None,None,396,7040,4,0,Just renovated,None
-nassogne-ambly,149000,apartment,for-sale,4,80,1,0,15,None,80,None,2,None,Good,None
-bastogne,Make an,house,for-sale,None,None,1,0,None,None,None,222,None,None,Good,None
-bastogne,Make an,house,for-sale,None,None,1,0,25,25,None,90,None,None,Good,None
-aubange-halanzy,295000,house,for-sale,4,130,1,0,30,150,130,297,2,None,Good,None
-marche-en-famenne-waha,199990,house,for-sale,4,274,0,None,None,None,274,915,3,None,None,None
+hotton,215000,apartment,for-sale,2,84,1,None,None,None,84,None,4,None,As new,None
+hotton,225000,apartment,for-sale,2,84,1,None,None,None,84,None,4,None,As new,None
+wellin,235000,apartment,for-sale,3,117,1,None,None,None,117,None,4,None,As new,None
+bouillon,155000,apartment,for-sale,2,97,1,None,None,None,97,None,None,None,Good,None
+bouillon,155000,apartment,for-sale,2,93,1,None,None,None,93,None,None,None,Good,None
+on,150000,house,for-sale,None,None,1,None,None,None,None,190,3,None,Good,None
+barvaux-sur-ourthe,157000,bungalow,for-sale,None,None,1,0,None,None,None,2130,4,None,To renovate,None
+rendeux,195000,house,for-sale,None,None,0,None,40,None,None,2050,3,None,To be done up,None
+dochamps,317999,house,for-sale,None,None,0,0,None,None,None,None,4,None,None,None
+dochamps,317999,house,for-sale,None,None,0,0,None,None,None,None,4,None,None,None
+wellin,240000,apartment,for-sale,3,149,1,None,None,None,149,None,None,None,As new,None
+arlon,390000,ground-floor,for-sale,3,115,1,0,58,128,115,None,2,None,As new,None
+hompre,390000,house,for-sale,3,165,1,None,None,None,165,934,4,None,As new,None
+hompre,390000,house,for-sale,3,165,1,None,None,None,165,1000,4,None,As new,None
+morhet,390000,house,for-sale,2,175,1,None,None,None,175,856,3,None,As new,None
+hompre,390000,house,for-sale,3,175,1,None,None,None,175,792,3,None,As new,None
+torgny,25000,house,for-sale,2,505,None,0,None,320,505,None,None,None,To renovate,None
+la-roche-en-ardenne,200000,country-cottage,for-sale,2,448,0,None,None,None,448,1513,4,None,To renovate,None
+wellin,200000,house,for-sale,None,None,1,None,None,None,None,None,3,None,None,None
+beho,590000,villa,for-sale,None,None,1,1,None,None,None,2560,4,None,Good,1
+wellin,180000,apartment,for-sale,2,79,1,None,None,None,79,None,4,None,As new,None
+wellin,190000,apartment,for-sale,2,76,1,None,None,None,76,None,4,None,As new,None
+st-hubert,190000,house,for-sale,None,None,1,None,None,None,None,None,4,None,None,None
+musson,199000,apartment,for-sale,2,81,1,0,None,None,81,None,None,None,None,None
+marche-en-famenne,700000,apartment,for-sale,None,None,None,0,None,None,None,None,None,None,None,None
+orgeo,195000,house,for-sale,None,None,None,None,None,None,None,1282,4,None,None,None
+musson,289900,house,for-sale,2,160,None,0,None,280,160,None,None,None,Good,1
+rulles,290000,house,for-sale,4,155,None,None,21,300,155,360,3,1,None,1
+erezee,650000,house,for-sale,3,350,None,None,None,None,350,8000,4,None,None,None
+wellin,199000,apartment,for-sale,2,94,1,None,None,None,94,None,4,None,As new,None
+herbeumont,425000,mansion,for-sale,None,None,None,0,None,None,None,590,None,None,To renovate,None
+bouillon,449000,house,for-sale,7,462,None,0,None,None,462,2500,None,None,None,None
+hotton,1500000,house,for-sale,12,1305,1,None,None,None,1305,7871,4,None,None,None
+ste-marie-sur-semois,1500000,house,for-sale,3,155,1,None,None,None,155,None,3,None,As new,None
+ste-marie-sur-semois,1500000,house,for-sale,3,155,1,None,None,None,155,None,3,None,As new,None
+marche-en-famenne,1500000,house,for-sale,None,None,1,None,None,None,None,527,4,None,As new,None
+bertogne,35000,house,for-sale,None,None,None,0,None,None,None,370,None,None,To renovate,None
+wellin,165000,apartment,for-sale,1,67,1,None,None,None,67,None,None,None,As new,None
+wellin,190000,apartment,for-sale,2,95,1,None,None,None,95,None,4,None,As new,None
+wellin,190000,apartment,for-sale,2,93,1,None,None,None,93,None,4,None,As new,None
+wellin,199000,apartment,for-sale,2,82,1,None,None,None,82,None,4,None,As new,None
+amonines,199000,chalet,for-sale,None,None,1,None,None,None,None,None,4,None,None,None
+leglise,130000,country-cottage,for-sale,3,112,0,None,None,None,112,547,4,None,To renovate,None
+florenville,135000,house,for-sale,None,None,1,0,None,None,None,194,None,None,None,None
+vielsalm,450000,apartment-block,for-sale,4,788,None,1,None,None,788,None,3,None,None,None
+virton,35000,house,for-sale,None,50,0,0,None,None,None,27,3,None,None,None
+etalle,35000,house,for-sale,None,None,1,None,None,None,None,500,3,None,None,None
+saint-hubert,189000,house,for-sale,1,116,None,0,None,None,116,None,3,None,Good,None
+saint-mard,255500,house,for-sale,3,165,0,0,None,None,165,1014,3,None,None,None
+libin,300000,house,for-sale,4,250,0,None,15,315,250,627,4,None,None,None
 la-fosse,390000,house,for-sale,None,None,None,1,None,None,None,1517,4,None,None,1
 hollange,590000,mansion,for-sale,4,242,None,0,None,None,242,5590,4,0,None,None
 arlon,565000,house,for-sale,4,211,1,0,105,178,211,235,3,0,Good,None
 wellin,455000,house,for-sale,3,120,1,0,20,3137,120,3137,4,0,Good,None
 arlon,325000,apartment,for-sale,2,95,1,0,23,78,95,None,None,0,Good,None
 arlon,375000,duplex,for-sale,3,136,1,0,28,43,136,None,None,None,As new,None
-sibret,Make an,house,for-sale,None,None,1,0,None,None,None,1164,4,None,To be done up,None
-bastogne,Make an,house,for-sale,None,None,1,0,None,None,None,520,3,None,Good,None
+sibret,175000,house,for-sale,None,None,1,0,None,None,None,1164,4,None,To be done up,None
+bastogne,195000,house,for-sale,None,None,1,0,None,None,None,520,3,None,Good,None
 libramont-chevigny,165000,apartment,for-sale,2,80,None,0,None,None,80,None,3,None,None,None
 vielsalm,179000,house,for-sale,4,136,1,0,None,933,136,933,4,None,None,None
 virton,179000,house,for-sale,2,79,1,0,None,None,79,150,2,None,Good,None
@@ -484,7 +584,7 @@ marloie,155000,apartment,for-sale,2,84,None,0,None,None,84,None,3,None,None,None
 durbuy,87000,bungalow,for-sale,3,74,1,1,None,None,74,None,4,None,None,None
 jamoigne,200000,apartment,for-sale,2,82,1,None,None,None,82,None,4,None,As new,None
 wilwerwiltz-bastogne,1350000,apartment,for-sale,7,259,None,0,45,None,259,None,4,None,None,None
-saint-hubert,Make an,house,for-sale,None,116,None,0,None,None,None,102,2,None,To restore,None
+saint-hubert,40000,house,for-sale,None,116,None,0,None,None,None,102,2,None,To restore,None
 marche-en-famenne,125000,house,for-sale,2,73,0,0,None,550,73,550,3,0,To be done up,None
 herbeumont,199000,house,for-sale,3,161,1,None,9,314,161,400,4,None,Good,None
 virton,232000,mixed-use-building,for-sale,2,126,1,None,None,None,126,None,2,None,Good,None
@@ -492,113 +592,63 @@ gouvy,279000,house,for-sale,4,249,1,0,None,None,249,114,None,None,To renovate,No
 grand-halleux,320000,house,for-sale,2,140,1,0,None,None,140,1153,4,0,As new,None
 lesterny,369000,house,for-sale,3,186,1,0,90,8080,186,8080,4,None,Good,None
 engreux-houffalize,439000,house,for-sale,3,193,None,0,None,None,193,1100,4,None,None,None
-bastogne,Make an,apartment,for-sale,1,60,1,0,None,None,60,None,None,None,None,None
-habay-la-neuve,Make an,apartment,for-sale,None,None,1,None,None,None,None,None,None,None,Good,None
+bastogne,175000,apartment,for-sale,1,60,1,0,None,None,60,None,None,None,None,None
+habay-la-neuve,175000,apartment,for-sale,None,None,1,None,None,None,None,None,None,None,Good,None
 marche-en-famenne,220000,duplex,for-sale,3,120,None,0,None,None,120,None,2,None,None,None
 marche-en-famenne,285000,penthouse,for-sale,1,73,None,0,70,None,73,None,None,None,As new,None
 virton,285000,house,for-sale,None,None,1,None,None,None,None,793,4,None,To be done up,1
 durbuy,109000,country-cottage,for-sale,1,54,1,0,10,None,54,None,None,None,To be done up,None
-neufchateau,Make an,country-cottage,for-sale,None,172,None,0,None,None,None,367,3,None,To renovate,None
-neufchateau,Make an,country-cottage,for-sale,None,172,None,0,None,None,None,367,3,None,To renovate,None
-juseret,149000,house,for-sale,3,190,1,0,None,None,190,147,2,None,To be done up,None
-juseret,149000,manor-house,for-sale,3,190,1,0,None,None,190,147,2,None,To be done up,None
-virton-saint-mard,165000,house,for-sale,4,143,1,0,None,None,143,155,2,None,Good,None
-libramont-chevigny,165000,house,for-sale,4,161,1,None,None,None,161,1128,4,None,Good,None
-nassogne,325000,farmhouse,for-sale,4,146,None,0,None,1710,146,1710,1,None,To renovate,None
-saint-leger,450000,house,for-sale,5,210,None,0,40,None,210,763,4,None,None,None
-hives,599000,house,for-sale,6,431,None,None,None,3795,431,3900,4,1,As new,None
-marche-en-famenne,995000,house,for-sale,None,None,1,0,None,None,None,580,4,None,Just renovated,None
-martelange,Make an,house,for-sale,None,None,0,0,None,None,None,700,4,None,To renovate,None
-gouvy,Make an,house,for-sale,None,None,1,0,None,None,None,1040,3,None,Good,None
-gouvy,Make an,house,for-sale,None,None,1,0,None,None,None,699,3,None,Good,None
-sainte-ode,275000,house,for-sale,None,None,1,0,None,None,None,975,4,None,Good,None
-gouvy,Make an,house,for-sale,None,None,1,0,None,None,None,949,4,None,None,None
-libramont-chevigny,Make an,house,for-sale,None,None,1,None,None,None,None,1010,4,None,Good,1
-waha,495000,house,for-sale,4,224,None,0,49,2019,224,2125,4,1,Good,None
-wellin-lomprez,99000,house,for-sale,2,102,1,0,None,219,102,219,2,0,To renovate,None
-hargimont,115000,house,for-sale,1,120,None,0,None,443,120,520,4,None,To be done up,None
-la-roche-en-ardenne,119000,house,for-sale,4,155,None,0,9,None,155,70,3,0,To be done up,None
-saint-hubert,129000,house,for-sale,2,104,None,None,None,None,104,72,2,None,Good,None
-hargimont,Make an,house,for-sale,4,126,None,0,8,163,126,240,2,None,Good,None
-biron,179000,chalet,for-sale,2,73,None,0,16,1260,73,1370,4,None,To be done up,None
-marche-en-famenne,199000,house,for-sale,3,95,None,0,None,420,95,520,3,None,Good,None
-bastogne,209000,house,for-sale,2,140,1,0,57,1114,140,1250,3,0,To renovate,None
-marche-en-famenne,219000,house,for-sale,3,147,None,0,None,910,147,994,3,None,Good,None
-bertrix,225000,house,for-sale,7,225,None,None,None,1037,225,1170,3,None,Good,None
-signeulx,230000,house,for-sale,5,180,1,0,None,2135,180,2235,2,None,Good,None
-saint-mard,230000,house,for-sale,3,179,1,0,None,None,179,1002,3,None,None,None
-soy,230000,house,for-sale,3,118,None,0,19,207,118,265,3,None,Good,None
-daverdisse,Make an,country-cottage,for-sale,3,145,1,0,25,3694,145,3694,4,0,Good,None
-neufchateau-grapfontaine,Make an,house,for-sale,3,146,0,0,10,550,146,1010,4,None,To be done up,None
-mussy-la-ville,270000,house,for-sale,3,130,1,0,None,4328,130,4328,3,None,Good,None
-forrieres,295000,house,for-sale,3,106,1,0,None,None,106,1522,4,None,Good,None
-habay,299000,house,for-sale,3,150,1,0,None,None,150,336,None,None,Good,None
-libin-transinne,350000,house,for-sale,3,114,1,1,None,1051,114,1051,3,None,Good,None
-tellin,360000,house,for-sale,5,245,None,0,47,931,245,1070,4,None,Good,None
-marche-en-famenne,365000,villa,for-sale,4,223,1,0,60,900,223,900,4,0,As new,None
-nadrin,375000,house,for-sale,4,226,1,0,None,None,226,1530,4,None,None,None
-erezee,395000,house,for-sale,3,171,1,0,None,None,171,1498,4,None,As new,1
-sainte-ode,Make an,villa,for-sale,None,None,1,0,None,1824,None,1824,None,None,None,None
-bastogne,Make an,apartment-block,for-sale,None,None,1,0,None,None,None,550,None,None,Good,None
-saint-leger,470000,house,for-sale,4,2721,1,0,None,None,2721,2721,4,None,None,None
-hodister,750000,house,for-sale,10,415,None,0,85,4631,415,5420,3,None,Good,None
-hotton,750000,mixed-use-building,for-sale,8,450,None,0,None,None,450,219,3,None,Good,None
-attert-thiaumont,1300000,exceptional-property,for-sale,4,1000,0,0,None,None,1000,5843,4,None,Good,None
-jamoigne,250000,apartment,for-sale,3,116,1,None,None,None,116,None,4,None,As new,None
-barvaux,196450,apartment,for-sale,None,None,None,0,None,None,None,None,None,None,None,None
-houffalize,180000,house,for-sale,None,None,0,0,None,334,None,334,4,None,To be done up,None
-marche-en-famenne,225000,house,for-sale,1,182,None,None,None,None,182,295,2,None,Good,None
-arlon,260000,house,for-sale,5,400,0,0,None,None,400,521,3,None,To renovate,None
-messancy,350000,apartment-block,for-sale,6,308,None,None,1,1,308,581,2,None,To renovate,None
-vielsalm,399000,country-cottage,for-sale,3,240,None,0,None,None,240,4246,4,0,To be done up,None
-virton,399000,house,for-sale,5,260,1,None,None,2800,260,3620,4,None,To be done up,None
-paliseul,555000,house,for-sale,3,162,1,None,None,None,162,41994,4,None,To renovate,None
-messancy,749000,house,for-sale,4,263,1,0,None,None,263,None,3,None,As new,None
-jamoigne,190000,apartment,for-sale,2,82,1,None,None,None,82,None,4,None,As new,None
-jamoigne,200000,apartment,for-sale,2,82,1,None,None,None,82,None,None,None,As new,None
-bastogne,Make an,house,for-sale,None,None,1,0,None,None,None,428,2,None,None,None
-marche-en-famenne,229000,apartment,for-sale,2,105,1,0,78,None,105,None,2,0,Good,None
-athus,240000,duplex,for-sale,2,107,1,0,None,None,107,None,None,0,None,None
-marche-en-famenne,243000,duplex,for-sale,3,98,None,0,None,None,98,None,None,None,None,None
-tellin,119000,bungalow,for-sale,3,45,1,0,10,308,45,308,4,None,Just renovated,None
-barvaux-sur-ourthe,180000,house,for-sale,3,130,1,0,None,None,130,433,3,None,To be done up,None
-gerouville,208000,house,for-sale,5,300,1,0,None,None,300,149,2,None,None,None
-saint-leger,230000,house,for-sale,3,106,1,0,40,324,106,400,3,None,To be done up,None
-bende,249000,house,for-sale,4,142,1,0,None,None,142,294,3,None,Good,1
-on,250000,house,for-sale,4,134,None,0,8,169,134,1182,4,None,Good,None
-villers-sainte-gertrude,259000,house,for-sale,4,183,1,0,None,None,183,240,4,None,Good,None
-villers-sainte-gertrude,285000,house,for-sale,5,163,0,0,None,None,163,1125,4,None,To renovate,None
-athus,298000,house,for-sale,3,130,None,0,None,None,130,270,3,None,None,None
-barvaux-sur-ourthe,319000,house,for-sale,7,270,1,0,None,None,270,516,3,None,Good,None
-barvaux-sur-ourthe,375000,house,for-sale,6,330,1,0,None,None,330,1220,2,None,To renovate,None
-virton,435000,house,for-sale,5,243,1,0,38,380,243,485,3,None,As new,None
-arlon,440000,mixed-use-building,for-sale,4,200,1,0,32,80,200,230,2,None,Good,None
-etalle,450000,house,for-sale,3,185,1,0,13,None,185,999,4,0,To be done up,None
-musson,480000,house,for-sale,5,303,None,0,None,750,303,1000,3,1,Good,None
-halconreux,595000,villa,for-sale,None,None,1,0,None,1379,None,None,4,None,None,None
-longchamps,185000,apartment,for-sale,2,81,1,None,None,None,81,None,4,None,As new,None
-marche-en-famenne,365000,apartment,for-sale,3,125,None,0,15,None,125,None,None,None,As new,None
-wellin,199000,house,for-sale,None,None,1,0,18,1737,None,1737,3,0,To be done up,None
-saint-hubert,199000,house,for-sale,None,None,None,None,None,None,None,1793,3,None,To restore,None
-la-roche-en-ardenne,225000,apartment,for-sale,1,125,1,None,None,None,125,None,None,0,Just renovated,None
-arlon,Make an,apartment,for-sale,2,126,None,0,None,None,126,None,2,0,None,None
-durbuy,30000,chalet,for-sale,1,40,1,1,None,None,40,280,4,0,Good,None
-saint-hubert,Make an,house,for-sale,3,161,None,0,None,None,161,67,2,None,None,None
-saint-hubert,149000,house,for-sale,3,130,None,0,16,140,130,179,4,None,To renovate,None
-marche-en-famenne,159000,house,for-sale,2,123,None,0,None,None,123,65,2,None,Good,None
-biron,179000,chalet,for-sale,2,79,None,0,40,849,79,940,4,None,Good,None
-etalle,199000,house,for-sale,2,116,1,0,None,None,116,105,None,None,None,None
-manhay,245000,house,for-sale,5,250,None,None,None,None,250,1174,4,None,To restore,None
-musson,279000,house,for-sale,6,239,1,0,None,None,239,510,None,None,None,None
-musson,285000,house,for-sale,3,157,1,0,None,None,157,352,None,None,None,None
-aubange,329000,house,for-sale,3,240,1,0,None,None,240,427,None,0,None,None
-aubange,349000,house,for-sale,6,291,1,0,None,None,291,408,None,None,None,None
-marche-en-famenne,375000,exceptional-property,for-sale,5,450,1,0,40,676,450,676,3,1,Good,None
-septon,395000,house,for-sale,5,200,1,0,None,None,200,941,4,0,Good,1
-arlon,399000,house,for-sale,5,210,1,0,None,None,210,408,None,0,None,None
-arlon,399000,apartment-block,for-sale,5,210,1,0,None,None,210,408,None,0,None,None
-virton,439000,town-house,for-sale,3,342,1,0,None,None,342,580,3,None,None,None
-jamoigne,210000,apartment,for-sale,2,82,1,None,None,None,82,None,4,None,As new,None
+neufchateau,119000,country-cottage,for-sale,None,172,None,0,None,None,None,367,3,None,To renovate,None
+erezee,310000,house,for-sale,None,None,None,0,None,None,None,3441,4,1,None,1
+arlon,315000,house,for-sale,3,153,1,0,None,None,153,None,2,None,Good,None
+libramont-chevigny,319900,house,for-sale,None,None,1,0,20,200,None,None,4,0,As new,None
+durbuy,420000,house,for-sale,6,300,1,1,130,650,300,1320,4,0,As new,None
+bastogne,430000,house,for-sale,None,None,None,0,None,None,None,3278,4,None,None,1
+bertogne,430000,house,for-sale,None,None,None,0,None,None,None,3278,4,None,None,1
+etalle,550000,house,for-sale,4,180,1,None,36,1000,180,1000,4,0,Good,None
+arlon,900000,apartment-block,for-sale,8,400,1,0,None,None,400,None,2,None,Good,None
+les-hayons,420000,house,for-sale,3,150,1,0,None,None,150,650,4,None,None,None
+arlon,124900,apartment,for-sale,1,51,None,0,None,None,51,None,None,None,None,None
+aubange,129000,apartment,for-sale,1,53,None,0,None,None,53,None,4,None,None,None
+musson,185000,apartment,for-sale,2,87,1,0,18,None,87,None,None,None,Good,None
+sainte-ode,110000,chalet,for-sale,None,None,1,0,None,None,None,892,4,None,To be done up,None
+bertogne,180000,house,for-sale,None,None,0,0,None,None,None,2185,4,None,To be done up,None
+bastogne,200000,house,for-sale,None,None,1,0,None,None,None,194,2,None,Good,None
+bertogne,200000,house,for-sale,None,None,0,0,None,None,None,2440,4,None,To restore,None
+houffalize,225000,house,for-sale,None,None,1,0,None,None,None,5820,4,None,Good,None
+bastogne,250000,house,for-sale,None,None,1,0,None,None,None,1453,4,None,Good,None
+vaux-sur-sure,270000,house,for-sale,None,None,1,0,None,None,None,1452,4,None,Good,None
+bastogne,500000,apartment-block,for-sale,None,None,1,0,None,None,None,414,3,None,Good,None
+wellin,119000,house,for-sale,1,59,1,0,None,1240,59,1240,3,0,To be done up,None
+marche-en-famenne,150000,house,for-sale,2,80,1,0,None,None,80,90,2,None,Good,None
+saint-leger,160000,house,for-sale,4,198,0,0,22,460,198,576,2,None,To renovate,None
+durbuy,160000,country-cottage,for-sale,2,116,1,None,None,None,116,340,4,0,To restore,None
+grupont,169000,house,for-sale,4,199,0,0,None,None,199,405,4,None,To renovate,None
+durbuy,179000,house,for-sale,2,79,None,0,None,607,79,680,4,None,Good,None
+durbuy,199000,house,for-sale,3,153,1,0,20,489,153,559,4,None,Good,None
+dampicourt,220000,house,for-sale,4,150,1,0,None,None,150,818,3,None,To renovate,None
+wellin,220000,house,for-sale,3,140,1,0,20,822,140,822,4,0,Good,None
+barvaux--sur-ourthe,239000,house,for-sale,5,134,1,0,36,928,134,928,3,0,To be done up,None
+wellin-chanly,245000,house,for-sale,3,157,1,0,15,571,157,571,4,None,To be done up,None
+marche-en-famenne,255000,house,for-sale,4,155,1,0,15,1192,155,1192,4,0,Good,None
+hargimont,259000,house,for-sale,4,180,1,0,None,208,180,316,4,None,Good,None
+tellin-bure,265000,house,for-sale,5,210,1,0,None,926,210,926,4,0,To be done up,None
+on,269000,house,for-sale,5,231,None,0,35,1372,231,1552,4,None,Good,None
+arlon,270000,house,for-sale,3,290,0,0,None,None,290,620,3,None,To renovate,None
+aye,299000,house,for-sale,5,216,None,0,17,1582,216,1742,4,None,Good,None
+erezee,325000,house,for-sale,3,123,1,0,None,1553,123,1580,4,0,Good,None
+ethe,340000,house,for-sale,4,280,1,0,None,350,280,500,3,None,As new,None
+ethe,349000,house,for-sale,5,165,1,0,None,None,165,450,3,None,None,None
+messancy,429000,house,for-sale,3,172,1,0,10,None,172,500,2,None,Good,None
+etalle,430000,house,for-sale,6,318,1,0,None,1600,318,1772,4,None,Good,None
+marche-en-famenne,549000,house,for-sale,7,395,1,0,71,859,395,1594,4,1,Good,None
+athus,575000,house,for-sale,4,240,1,0,None,None,240,808,4,None,As new,1
+vielsalm,745000,mixed-use-building,for-sale,8,396,1,1,None,None,396,7040,4,0,Just renovated,None
+nassogne-ambly,149000,apartment,for-sale,4,80,1,0,15,None,80,None,2,None,Good,None
+bastogne,160000,house,for-sale,None,None,1,0,None,None,None,222,None,None,Good,None
+bastogne,200000,house,for-sale,None,None,1,0,25,25,None,90,None,None,Good,None
+aubange-halanzy,295000,house,for-sale,4,130,1,0,30,150,130,297,2,None,Good,None
+marche-en-famenne-waha,199990,house,for-sale,4,274,0,None,None,None,274,915,3,None,None,None
 musson,285000,house,for-sale,3,157,1,0,None,None,157,352,None,None,None,None
 aubange,329000,house,for-sale,3,240,1,0,None,None,240,427,None,0,None,None
 aubange,349000,house,for-sale,6,291,1,0,None,None,291,408,None,None,None,None
@@ -614,14 +664,14 @@ morhet,225000,house,for-sale,3,145,1,None,None,None,145,399,3,None,As new,None
 morhet,225000,house,for-sale,4,140,1,None,None,None,140,668,4,None,As new,None
 morhet,225000,house,for-sale,3,165,1,None,None,None,165,642,4,None,As new,None
 libramont-chevigny,225000,house,for-sale,3,160,1,None,None,None,160,734,4,None,As new,None
-houffalize,Make an,house,for-sale,None,None,1,0,None,None,None,796,4,None,Good,None
-vaux-sur-sure,Make an,house,for-sale,None,None,0,0,None,None,None,2746,4,None,None,None
-houffalize,Make an,house,for-sale,2,160,None,0,None,996,160,996,None,None,To be done up,1
-bastogne,Make an,house,for-sale,None,None,1,0,None,None,None,22014,4,None,None,None
-houffalize,Make an,house,for-sale,None,None,1,0,None,None,None,241,2,None,Good,None
-leglise,Make an,house,for-sale,None,None,1,0,None,None,None,1191,4,None,Good,None
-houffalize,Make an,house,for-sale,None,None,1,0,None,None,None,3982,4,None,To renovate,None
-sainte-ode,Make an,house,for-sale,None,None,1,0,None,None,None,894,4,None,None,None
+houffalize,135000,house,for-sale,None,None,1,0,None,None,None,796,4,None,Good,None
+vaux-sur-sure,150000,house,for-sale,None,None,0,0,None,None,None,2746,4,None,None,None
+houffalize,150000,house,for-sale,2,160,None,0,None,996,160,996,None,None,To be done up,1
+bastogne,200000,house,for-sale,None,None,1,0,None,None,None,22014,4,None,None,None
+houffalize,200000,house,for-sale,None,None,1,0,None,None,None,241,2,None,Good,None
+leglise,210000,house,for-sale,None,None,1,0,None,None,None,1191,4,None,Good,None
+houffalize,225000,house,for-sale,None,None,1,0,None,None,None,3982,4,None,To renovate,None
+sainte-ode,280000,house,for-sale,None,None,1,0,None,None,None,894,4,None,None,None
 marche-en-famenne,223000,duplex,for-sale,3,100,None,0,None,None,100,None,None,None,None,None
 marche-en-famenne,223000,apartment,for-sale,3,100,None,0,None,None,100,None,None,None,None,None
 maissin,223000,chalet,for-sale,None,None,None,None,None,None,None,3627,4,None,To renovate,None
@@ -629,7 +679,7 @@ athus,223000,house,for-sale,3,180,None,None,None,None,180,290,2,None,None,None
 tohogne,139000,house,for-sale,3,70,None,0,None,None,70,210,3,None,To be done up,1
 saint-mard,155000,house,for-sale,3,164,None,0,None,None,164,482,2,None,None,None
 marche-en-famenne,165000,town-house,for-sale,None,None,None,0,None,161,None,161,1,None,To be done up,None
-beho,Make an,house,for-sale,5,185,None,None,None,None,185,367,4,None,Good,None
+beho,190000,house,for-sale,5,185,None,None,None,None,185,367,4,None,Good,None
 tenneville,250000,house,for-sale,None,None,1,None,21,None,None,1100,4,0,Good,None
 aubange,380000,house,for-sale,4,330,1,None,36,320,330,634,3,0,None,None
 tohogne,500000,house,for-sale,3,170,1,1,None,None,170,8427,4,None,As new,None
@@ -649,6 +699,56 @@ durbuy,195000,house,for-sale,4,200,1,None,None,None,200,660,None,None,To be done
 izel,239000,house,for-sale,3,151,None,0,None,None,151,1200,None,None,None,None
 grandhan,315000,house,for-sale,2,85,1,0,None,None,85,972,4,None,Good,1
 sampont,320000,house,for-sale,4,160,1,0,None,340,160,400,4,0,To be done up,None
+marche-en-famenne,700000,house,for-sale,None,None,None,0,None,None,None,11305,None,None,None,None
+gouvy,2600000,exceptional-property,for-sale,None,None,1,None,250,500,None,25000,4,1,As new,2
+vaux-sur-sure,175000,apartment,for-sale,1,60,1,0,None,None,60,None,4,None,None,None
+vaux-sur-sure,290000,house,for-sale,None,None,1,0,None,None,None,358,3,None,None,None
+bastogne,250000,house,for-sale,None,None,1,0,None,None,None,886,None,None,To renovate,None
+fauvillers,300000,villa,for-sale,None,None,1,0,None,None,None,2203,4,None,Good,None
+bertogne,345000,villa,for-sale,None,None,1,0,None,None,None,2437,4,None,Good,None
+houffalize,350000,house,for-sale,None,None,1,0,None,None,None,15640,4,None,Good,None
+la-roche,450000,country-cottage,for-sale,None,None,1,0,None,None,None,920,4,None,Just renovated,1
+marche-en-famenne,900000,apartment-block,for-sale,None,None,1,None,None,None,None,801,4,0,None,None
+lamorteau,285000,house,for-sale,3,110,0,0,None,None,110,800,4,None,None,None
+lamorteau,325000,town-house,for-sale,3,160,0,0,None,None,160,655,4,None,None,None
+lamorteau,328000,house,for-sale,3,160,0,0,None,None,160,700,4,None,None,None
+arlon,328000,house,for-sale,None,None,1,None,None,None,None,500,3,None,None,None
+aubange,328000,house,for-sale,None,None,1,None,None,None,None,500,3,None,None,None
+bastogne,215000,apartment,for-sale,1,81,1,0,None,None,81,None,2,None,Good,None
+bertogne,214000,house,for-sale,4,345,0,0,None,None,345,485,3,None,None,None
+saint-mard,311000,house,for-sale,3,165,0,0,None,None,165,1014,3,None,None,None
+arlon,127000,apartment,for-sale,None,None,1,None,None,None,None,None,None,0,Good,None
+limerle,127000,house,for-sale,4,175,None,None,None,None,175,485,3,None,None,None
+houffalize,250000,house,for-sale,None,None,1,0,None,None,None,1500,4,None,Good,None
+durbuy,1500000,exceptional-property,for-sale,None,None,1,None,220,4549,None,4549,4,1,As new,None
+juseret,269934,house,for-sale,None,None,None,0,None,None,None,613,4,None,As new,None
+flamierge,290816,house,for-sale,None,None,None,0,None,None,None,869,4,None,As new,None
+st-leger,290816,house,for-sale,None,None,1,None,None,None,None,538,3,None,None,None
+bastogne,230000,house,for-sale,None,None,1,0,None,None,None,172,2,None,Just renovated,None
+tournay,230000,house,for-sale,3,115,1,None,None,None,115,1400,4,None,None,None
+vaux-sur-sure,395000,house,for-sale,None,None,1,0,None,None,None,2711,4,None,Good,None
+messancy,515000,house,for-sale,None,None,None,None,50,700,None,700,2,None,None,None
+la-roche-en-ardenne,650000,exceptional-property,for-sale,None,None,1,0,10,1,None,None,4,0,To be done up,1
+durbuy,109000,house,for-sale,1,45,None,None,None,None,45,25,4,None,None,None
+vaux-sur-sure,135000,farmhouse,for-sale,None,None,None,None,None,None,None,1300,None,None,None,None
+bastogne,200000,house,for-sale,None,None,1,0,None,None,None,971,4,None,Good,None
+rochehaut,795000,house,for-sale,3,247,None,None,None,None,247,345,None,0,None,None
+bouillon,875000,house,for-sale,None,None,None,None,None,None,None,40000,None,None,None,None
+halleux,875000,house,for-sale,None,None,None,0,None,None,None,3500,4,None,As new,None
+bertogne,60000,house,for-sale,None,None,0,0,None,None,None,266,None,None,To renovate,None
+houffalize,145000,house,for-sale,2,95,None,0,None,None,95,1695,4,None,None,None
+warmifontaine,149999,apartment-block,for-sale,None,900,None,None,None,None,None,2000,4,None,To renovate,None
+tenneville,295000,mixed-use-building,for-sale,None,None,1,0,None,None,None,1302,4,None,None,None
+bastogne,400000,villa,for-sale,None,None,1,0,None,None,None,1080,4,None,None,1
+la-roche-en-ardenne,1000000,house,for-sale,None,None,1,0,200,12390,None,12390,4,None,None,None
+durbuy,450000,apartment-block,for-sale,4,788,None,1,None,None,788,None,3,None,None,None
+tailles,406421,house,for-sale,None,None,None,0,None,None,None,6724,4,None,As new,None
+tailles,435000,house,for-sale,None,None,1,0,None,None,None,3800,4,1,None,1
+st-leger,435000,house,for-sale,None,None,1,None,None,None,None,None,3,None,None,None
+st-leger,435000,house,for-sale,None,None,1,None,None,None,None,None,3,None,None,None
+st-leger,435000,house,for-sale,None,None,1,None,None,None,None,None,3,None,None,None
+st-leger,435000,house,for-sale,None,None,1,None,None,None,None,None,3,None,None,None
+bastogne,290000,house,for-sale,None,None,1,0,None,None,None,1076,3,None,None,None
 meix-devant-virton,450000,house,for-sale,3,180,1,0,None,None,180,2,4,0,As new,None
 aubange-rachecourt,495000,house,for-sale,5,270,1,0,20,1574,270,1774,3,None,As new,None
 signeulx,599000,house,for-sale,5,305,None,0,None,None,305,13947,None,0,None,None
@@ -689,9 +789,9 @@ malempre,180000,ground-floor,for-sale,None,None,1,None,None,None,None,None,None,
 halanzy,292500,apartment,for-sale,3,116,None,0,None,None,116,None,None,None,None,None
 arlon,387000,apartment,for-sale,2,117,1,0,18,None,117,None,None,None,None,None
 jamoigne,199500,apartment,for-sale,None,None,1,None,None,None,None,None,4,None,As new,None
-bastogne,Make an,house,for-sale,None,None,1,0,None,None,None,9525,4,None,Good,None
+bastogne,325000,house,for-sale,None,None,1,0,None,None,None,9525,4,None,Good,None
 nassogne-bande,85000,house,for-sale,3,123,0,0,None,100,123,216,2,0,To renovate,None
-vaux-sur-sure,Make,exceptional-property,for-sale,None,None,1,0,140,5650,None,6000,4,0,As new,None
+vaux-sur-sure,1199000,exceptional-property,for-sale,None,None,1,0,140,5650,None,6000,4,0,As new,None
 latour,110000,apartment,for-sale,1,50,1,0,None,None,50,None,None,0,None,None
 daverdisse,110000,house,for-sale,3,120,0,0,None,None,120,2355,4,None,None,None
 daverdisse,110000,house,for-sale,None,None,1,None,None,None,None,357,3,None,As new,None
@@ -699,9 +799,359 @@ haut-fays,110000,house,for-sale,None,None,1,None,None,None,None,465,3,None,As ne
 vielsalm,110000,house,for-sale,3,120,0,0,None,None,120,969,4,None,None,None
 houffalize,110000,house,for-sale,3,140,0,0,None,None,140,2734,4,None,None,None
 bouillon,110000,house,for-sale,3,150,0,0,None,None,150,1160,4,None,None,None
+neufchateau,169000,house,for-sale,None,None,1,None,None,100,None,143,3,None,Good,None
+beho,215000,house,for-sale,3,120,None,0,None,None,120,1073,4,None,Good,None
+berismenil,215000,house,for-sale,4,227,None,0,None,None,227,1000,3,None,To be done up,None
+paliseul,420000,apartment-block,for-sale,4,270,1,0,None,None,270,2520,4,0,As new,None
+paliseul,420000,house,for-sale,4,270,1,0,None,None,270,2520,4,0,As new,1
+arlon,545000,house,for-sale,3,160,1,None,50,None,160,None,3,0,Just renovated,1
+libramont-chevigny,140000,apartment,for-sale,2,50,1,0,None,None,50,None,2,None,Good,None
+libramont-chevigny,172500,apartment,for-sale,None,None,1,0,7,None,None,None,None,0,None,None
+libramont-chevigny,201500,apartment,for-sale,None,None,1,0,10,None,None,None,None,0,None,None
+virton,130000,house,for-sale,None,None,1,0,None,None,None,None,2,None,Good,None
+lacuisine,140000,house,for-sale,None,None,1,0,None,None,None,None,2,None,Good,None
+nassogne-ambly,169000,house,for-sale,2,159,None,0,None,None,159,2782,2,None,To renovate,None
+libramont-chevigny,240000,house,for-sale,3,140,1,0,20,20,140,None,3,0,Good,None
+marche-en-famenne,250000,house,for-sale,None,209,None,0,None,None,None,1651,4,None,None,None
+bouillon,499000,villa,for-sale,4,250,None,None,40,2750,250,3000,4,0,None,None
+arlon,670000,mixed-use-building,for-sale,4,378,1,None,None,None,378,150,3,None,None,None
+libramont-chevigny,118500,apartment,for-sale,1,60,1,0,None,None,60,None,2,0,To be done up,None
+libramont-chevigny,151000,apartment,for-sale,1,46,0,0,None,None,46,None,None,None,None,None
+libramont-chevigny,171500,apartment,for-sale,None,None,1,0,10,None,None,None,None,None,None,None
+libramont-chevigny,171500,apartment,for-sale,None,None,1,0,10,None,None,None,None,None,None,None
+libramont-chevigny,195000,duplex,for-sale,3,167,1,0,None,None,167,None,None,0,As new,None
+libramont-chevigny,203750,apartment,for-sale,None,None,1,0,10,None,None,None,None,0,None,None
+tenneville,169000,apartment,for-sale,1,58,None,0,11,None,58,None,2,None,None,None
+libramont-chevigny,158500,house,for-sale,1,146,1,None,9,1000,146,1000,4,0,To renovate,None
+neufchateau,389000,house,for-sale,4,167,1,0,None,1000,167,1201,4,None,None,None
+erezee,975000,villa,for-sale,6,690,None,None,None,None,690,4733,None,None,None,1
+erezee,975000,villa,for-sale,6,690,None,None,None,None,690,4733,None,None,None,1
+grandhan,325000,house,for-sale,4,187,1,None,None,None,187,963,None,None,As new,None
+athus,325000,villa,for-sale,5,200,None,None,None,None,200,280,3,None,None,None
+athus,325000,villa,for-sale,5,200,None,None,None,None,200,330,3,None,None,None
+athus,325000,villa,for-sale,5,200,None,None,None,None,200,500,3,None,None,None
+houffalize,120000,apartment,for-sale,1,64,None,0,None,None,64,None,3,None,As new,None
+erezee,1600000,house,for-sale,None,None,1,1,None,None,None,29351,4,0,As new,3
+aubange,219000,house,for-sale,None,None,1,0,None,None,None,570,None,None,None,None
+durbuy,650000,exceptional-property,for-sale,5,345,1,None,None,None,345,1677,4,1,As new,None
+durbuy,1600000,mixed-use-building,for-sale,2,898,1,0,None,None,898,6705,4,None,As new,None
+arlon,143000,ground-floor,for-sale,1,52,None,0,None,None,52,None,2,0,None,None
+hamipre,209900,apartment,for-sale,2,85,None,0,6,None,85,None,None,None,None,None
+tenneville,238000,apartment,for-sale,2,94,None,0,11,None,94,None,3,None,None,None
+bastogne,95000,house,for-sale,None,150,None,0,None,None,None,166,2,None,None,None
+bertogne,95000,farmhouse,for-sale,None,210,None,None,None,300,None,6000,3,None,To restore,None
+jupille,117000,chalet,for-sale,3,55,None,1,None,None,55,None,4,None,As new,None
+marche-en-famenne,120000,house,for-sale,None,290,None,0,None,None,None,559,4,None,To renovate,None
+durbuy,159900,house,for-sale,None,None,0,None,None,550,None,550,4,0,To renovate,None
+durbuy,185000,house,for-sale,2,133,1,None,None,None,133,381,None,None,None,None
+haut-fays,200000,house,for-sale,6,425,None,None,None,1,425,400,3,None,Good,None
+rochehaut,350000,house,for-sale,None,None,1,None,None,None,None,720,None,None,None,1
+arlon,350000,house,for-sale,None,None,1,None,None,None,None,1450,4,None,Good,None
+marcourt,745000,mixed-use-building,for-sale,None,None,1,0,None,None,None,2472,4,None,Good,None
+aubange,219000,house,for-sale,None,None,None,None,None,450,None,600,3,None,None,None
+marche-en-famenne,480000480000,house,for-sale,3,150,0,0,None,None,150,1004,4,None,None,None
+tellin,480000480000,house,for-sale,3,185,0,0,None,None,185,530,4,None,None,None
+morhet,480000480000,house,for-sale,None,None,1,None,None,None,None,415,3,None,As new,None
+vaux-sur-sure,480000480000,house,for-sale,3,145,0,0,None,None,145,2972,4,None,None,None
+tavigny,480000480000,house,for-sale,3,145,0,0,None,None,145,1096,4,None,None,None
+marche-en-famenne,480000480000,house,for-sale,4,150,0,0,None,None,150,1460,4,None,None,None
+libin,310000,house,for-sale,3,129,1,0,20,150,129,220,2,None,As new,None
+fauvillers,310000,house,for-sale,3,150,0,0,None,None,150,544,4,None,None,None
+daverdisse,310000,house,for-sale,4,150,0,0,None,None,150,994,4,None,None,None
+libin,330000,house,for-sale,3,129,1,0,20,200,129,340,3,None,As new,None
+leglise,330000,house,for-sale,3,180,0,0,None,None,180,2635,4,None,None,None
+messancy,330000,house,for-sale,None,None,1,None,None,None,None,225,3,None,As new,None
+st-leger,330000,house,for-sale,None,None,1,None,None,None,None,500,3,None,As new,None
+st-leger,330000,house,for-sale,None,None,1,None,None,None,None,496,3,None,As new,None
+neufchateau,330000,house,for-sale,3,220,0,0,None,None,220,1000,4,None,None,None
+st-leger,330000,house,for-sale,None,None,1,None,None,None,None,538,3,None,As new,None
+st-leger,330000,house,for-sale,3,165,0,0,None,None,165,677,4,None,None,None
+attert,330000,house,for-sale,4,190,0,0,None,None,190,1378,3,None,None,None
+bastogne,220000,house,for-sale,None,None,1,0,None,None,None,1671,None,None,Good,None
+jamoigne,180000,apartment,for-sale,1,65,1,None,None,None,65,None,None,None,As new,None
+jamoigne,199500,apartment,for-sale,1,77,1,None,None,None,77,None,4,None,As new,None
+jamoigne,220000,apartment,for-sale,2,82,1,None,None,None,82,None,4,None,As new,None
+chiny,220000,apartment,for-sale,2,82,1,None,None,None,82,None,4,None,As new,None
+vielsalm,450000,duplex,for-sale,3,195,None,None,58,None,195,None,3,0,As new,None
+aubange,165000,house,for-sale,3,170,1,0,19,None,170,911,2,None,To renovate,None
+vielsalm,178000,villa,for-sale,2,144,None,None,None,None,144,908,4,None,To renovate,1
+septon,195000,house,for-sale,None,None,None,0,None,None,None,1924,4,None,To be done up,None
+virton,219000,house,for-sale,None,177,1,0,None,None,None,135,3,None,Good,None
+habay,340000,apartment-block,for-sale,None,450,None,0,None,None,None,409,4,None,To renovate,None
+durbuy,2400000,house,for-sale,None,None,1,1,None,None,None,27589,4,1,As new,None
+chiny,2400000,apartment-block,for-sale,9,450,None,0,None,1,450,174,3,None,To be done up,None
+habay-la-neuve,2400000,apartment,for-sale,None,None,1,None,None,None,None,None,None,None,Good,None
+tintigny,2400000,house,for-sale,3,138,None,None,None,None,138,296,2,None,None,None
+ruette,98000,apartment-block,for-sale,None,600,None,0,None,None,None,2620,None,None,To renovate,None
+durbuy-tohogne,149500,house,for-sale,2,65,0,0,24,None,65,200,4,None,None,None
+tohogne,279000,house,for-sale,2,97,None,0,None,352,97,407,2,None,Good,None
+marche-en-famenne,365000,house,for-sale,4,199,None,None,38,1222,199,1338,4,None,Good,None
+virton,439000,apartment-block,for-sale,None,None,None,None,None,None,None,500,None,None,None,None
+rouvroy-lamorteau,560000,house,for-sale,6,393,1,0,100,None,393,1760,4,0,As new,None
+marche-en-famenne,560000,house,for-sale,3,150,0,None,None,None,150,897,4,None,None,None
+marche-en-famenne,560000,house,for-sale,3,150,0,0,None,None,150,1009,4,None,None,None
+marche-en-famenne,560000,house,for-sale,3,150,0,0,None,None,150,1402,4,None,None,None
+marche-en-famenne,560000,house,for-sale,3,150,0,0,None,None,150,1000,4,None,None,None
+aubange,229000,apartment,for-sale,2,88,1,0,None,None,88,None,None,0,None,None
+jamoigne,215000,apartment,for-sale,2,94,1,None,None,None,94,None,4,None,As new,None
+la-roche-en-ardenne,215000,house,for-sale,None,None,None,None,None,None,None,466,4,None,To be done up,None
+bastogne,295000,house,for-sale,3,132,None,None,None,None,132,None,1,0,Just renovated,None
+paliseul,315000,house,for-sale,3,152,1,None,None,None,152,2412,4,None,To renovate,None
+vielsalm,349000,house,for-sale,3,165,None,0,None,None,165,6015,3,0,None,None
+bastenaken,480000,country-cottage,for-sale,None,None,1,None,1,1,None,3247,6,None,To renovate,1
+libramont-chevigny,170000,apartment,for-sale,None,None,1,0,16,None,None,None,None,0,None,None
+libramont-chevigny,201500,apartment,for-sale,None,None,1,0,14,None,None,None,None,None,None,None
+libramont-chevigny,201500,apartment,for-sale,None,None,1,0,14,None,None,None,None,0,None,None
+marche-en-famenne,172000,house,for-sale,None,None,1,0,None,None,None,None,2,0,Good,None
+houffalize,199000,house,for-sale,2,118,None,0,None,None,118,118,2,None,None,None
+durbuy,199000,house,for-sale,None,None,None,0,None,None,None,1570,4,0,Good,1
+chiny,275000,house,for-sale,2,118,0,0,None,None,118,1300,4,None,None,None
+athus,285000,house,for-sale,None,None,None,0,None,90,None,None,None,None,To renovate,1
+bastogne,365000,house,for-sale,3,230,1,0,None,None,230,None,4,0,Good,None
+bastogne,365000,house,for-sale,3,230,1,0,None,None,230,None,4,0,Good,None
+libramont-chevigny,380000,house,for-sale,3,218,None,0,None,None,218,8000,4,None,None,None
+houffalize,450000,house,for-sale,2,160,1,None,36,4000,160,None,4,1,As new,1
+athus,450000,villa,for-sale,5,200,None,None,None,None,200,410,3,None,None,None
+sommerain,720000,exceptional-property,for-sale,4,338,None,0,None,None,338,6100,4,1,None,None
+habay-habay-la-neuve,1700000,apartment-block,for-sale,15,929,1,0,None,None,929,None,3,None,As new,None
+marche-en-famenne,169000,apartment,for-sale,1,65,1,None,14,None,65,None,None,0,Just renovated,None
+libramont-chevigny,172500,apartment,for-sale,None,None,1,0,16,None,None,None,None,0,None,None
+hamipre,214900,apartment,for-sale,2,86,None,0,8,None,86,None,None,None,None,None
+noville,215000,duplex,for-sale,2,84,1,0,None,None,84,None,None,None,None,None
+libramont-chevigny,189000,house,for-sale,2,65,1,0,None,None,65,1740,4,0,Good,None
+attert-tontelange,520000,house,for-sale,2,140,1,None,47,None,140,222,2,None,As new,None
+virton,625000,exceptional-property,for-sale,4,250,1,0,60,6540,250,6540,4,None,Good,None
+saint-hubert,650000,house,for-sale,9,500,None,0,None,None,500,2452,4,0,None,None
+arlon,1099000,house,for-sale,7,350,None,0,None,None,350,None,None,None,Good,None
+maboge,130000,chalet,for-sale,None,None,None,1,None,None,None,3006,4,None,Good,None
+libramont-chevigny,250000,farmhouse,for-sale,3,179,1,0,None,318,179,1303,4,0,None,None
+poupehan,250000,house,for-sale,8,390,None,None,None,None,390,2966,None,None,To renovate,None
+libramont-chevigny,299000,house,for-sale,3,135,1,None,16,230,135,None,3,None,As new,None
+habay,349000,apartment-block,for-sale,None,None,None,None,None,None,None,450,2,None,Good,None
+nadrin-houffalize,450000,house,for-sale,None,None,None,None,None,None,None,None,4,0,Good,None
+bastogne-wardin,353367,villa,for-sale,3,125,1,0,24,None,125,1069,3,None,None,None
+tenneville,315000,house,for-sale,3,122,None,0,9,None,122,626,3,None,None,None
+bande,147500,farmhouse,for-sale,2,121,None,None,None,None,121,450,3,None,None,None
+houdemont,179000,house,for-sale,2,129,None,0,None,None,129,108,None,None,None,None
+athus,230000,house,for-sale,1,122,None,0,None,None,122,None,None,None,To be done up,None
+bastogne,275000,house,for-sale,4,143,None,0,None,None,143,360,3,None,Good,None
+musson,305000,house,for-sale,None,None,1,None,None,1,None,600,4,0,Good,None
+tenneville,315000,house,for-sale,3,122,None,0,9,None,122,626,3,None,None,None
+libramont-chevigny,129000,apartment,for-sale,1,45,1,0,None,None,45,None,None,0,Good,None
+athus,167500,apartment,for-sale,None,None,None,None,None,None,None,None,None,None,Good,None
+rouvroy-dampicourt,259000,apartment,for-sale,7,510,0,0,None,None,510,None,4,None,To renovate,None
+aubange,240000,apartment,for-sale,1,80,1,None,None,None,80,None,1,0,None,None
+lomprez,270000,house,for-sale,5,220,None,None,None,None,220,2100,4,None,None,None
+anlier,270000,house,for-sale,None,None,None,1,13,3,None,3,3,None,None,None
+hamipre,209900,apartment,for-sale,2,84,None,0,6,None,84,None,None,None,None,None
+tenneville,315000,house,for-sale,3,122,None,0,9,None,122,626,3,None,None,None
+libramont-chevigny,95000,house,for-sale,1,40,1,0,None,None,40,None,4,None,To be done up,None
+neufchateau,215000,house,for-sale,4,188,None,None,None,100,188,324,3,None,None,None
+libramont-chevigny,390000,apartment-block,for-sale,None,464,None,0,None,None,None,None,None,None,Good,None
+warempage,429000,house,for-sale,None,None,None,None,None,None,None,1620,4,None,None,None
+la-roche-en-ardenne,375000,villa,for-sale,None,None,1,0,30,1023,None,1023,4,None,None,None
+marche-en-famenne,270000,apartment-block,for-sale,None,None,0,0,None,None,None,2500,None,None,None,None
+marche-en-famenne,350000,apartment-block,for-sale,None,None,0,0,None,None,None,3000,None,None,None,None
+marche-en-famenne,625000,apartment-block,for-sale,None,None,0,0,None,None,None,5500,None,None,None,None
+st-leger,625000,house,for-sale,None,None,None,None,None,None,None,None,3,None,None,None
+libramont-chevigny,95000,house,for-sale,None,None,0,None,None,None,None,2640,4,None,None,None
+daverdisse-gembes,99000,house,for-sale,None,None,None,None,None,None,None,None,3,0,To renovate,None
+saint-hubert,98000,house,for-sale,3,120,0,0,None,400,120,530,4,None,To renovate,None
+vielsalm,565000,house,for-sale,3,206,1,0,40,None,206,17940,4,None,Good,1
+libramont,260000,apartment,for-sale,2,88,1,0,8,None,88,None,4,None,None,None
+libramont,410000,penthouse,for-sale,3,139,1,0,73,None,139,None,4,None,None,None
+gouvy,274000,villa,for-sale,3,145,0,None,None,2000,145,2334,4,None,To be done up,None
+arlon,545000,house,for-sale,3,218,1,0,None,None,218,3575,4,None,To be done up,1
+saint-hubert,195000,house,for-sale,2,100,1,0,None,None,100,50,2,None,As new,None
+florenville,325000,house,for-sale,6,450,1,0,35,150,450,623,4,None,Good,None
+bertogne,349000,country-cottage,for-sale,3,335,1,0,None,None,335,21979,4,None,To restore,None
+arlon,399000,house,for-sale,3,170,1,0,8,None,170,650,3,None,None,None
+arlon,285000,house,for-sale,2,151,1,0,None,None,151,805,3,None,To be done up,None
+tavigny,2500000,castle,for-sale,10,1367,None,0,None,None,1367,17338,None,0,Good,1
+aubange,260000,ground-floor,for-sale,2,115,None,0,None,None,115,None,4,None,None,None
+florenville,440000,house,for-sale,5,243,1,None,48,480,243,1153,4,0,As new,None
+arlon,590000,mansion,for-sale,4,371,1,None,1,750,371,900,2,0,As new,1
+durbuy,295000,house,for-sale,4,127,1,0,None,None,127,632,4,None,None,None
+arlon,395000,house,for-sale,4,150,None,0,None,None,150,2497,4,None,None,None
+blier,1200000,castle,for-sale,24,1538,0,0,None,None,1538,17915,4,None,To renovate,None
+durbuy,193688,chalet,for-sale,2,60,1,0,8,236,60,236,4,None,As new,None
+durbuy,197342,chalet,for-sale,2,60,1,0,None,299,60,299,4,None,As new,None
+durbuy,197748,chalet,for-sale,3,60,1,0,8,306,60,306,4,None,As new,None
+athus,245000,house,for-sale,3,120,None,0,None,200,120,270,None,None,Good,None
+arlon,250000,apartment,for-sale,2,105,1,0,None,None,105,None,2,0,Good,None
+durbuy,180000,chalet,for-sale,2,60,1,1,3,134,60,234,3,0,Good,None
+wibrin,495000,house,for-sale,11,376,1,0,80,4915,376,5175,4,None,Good,None
+habay,959000,mixed-use-building,for-sale,6,510,1,None,120,None,510,6500,3,1,As new,None
+habay,959000,exceptional-property,for-sale,6,510,1,None,120,None,510,6500,3,1,As new,None
+durbuy,875000,exceptional-property,for-sale,5,323,1,0,75,None,323,21300,4,None,None,1
+arlon,279000,apartment,for-sale,2,76,1,0,None,None,76,None,3,0,Good,None
+florenville,190000,house,for-sale,6,266,1,0,65,1403,266,1604,4,None,Good,None
+durbuy,245000,house,for-sale,4,177,1,0,15,250,177,805,4,None,Good,None
+athus,360000,house,for-sale,4,190,1,0,None,150,190,300,2,None,None,None
+durbuy,499950,house,for-sale,5,264,None,0,None,4980,264,15000,4,None,To renovate,2
+libramont-chevigny,570000,apartment-block,for-sale,None,1000,None,0,None,None,None,470,None,0,None,None
+neufchateau,100000,mixed-use-building,for-sale,None,120,0,0,5,40,None,115,2,None,To be done up,None
+ortho,495000,house,for-sale,3,220,1,0,None,800,220,1188,4,None,As new,None
+bastogne,169000,apartment,for-sale,1,67,1,None,None,None,67,None,1,0,Just renovated,None
+bastogne,179000,duplex,for-sale,1,64,1,None,18,None,64,None,1,0,Just renovated,None
+bastogne,210000,apartment,for-sale,2,80,1,0,4,None,80,None,2,None,As new,None
+bastogne,220000,apartment,for-sale,2,105,1,0,None,None,105,None,2,0,Good,None
+achouffe,400000,house,for-sale,None,None,1,0,None,None,None,2879,4,1,Good,None
+manhay,249000,house,for-sale,5,350,0,None,None,260,350,1310,4,None,To renovate,None
+rouvroy,269000,house,for-sale,3,200,0,0,None,None,200,920,4,0,To be done up,None
+bastogne,220000,apartment,for-sale,2,105,1,0,None,None,105,None,2,0,Good,None
+achouffe,400000,house,for-sale,None,None,1,0,None,None,None,2879,4,1,Good,None
+manhay,249000,house,for-sale,5,350,0,None,None,260,350,1310,4,None,To renovate,None
+rouvroy,269000,house,for-sale,3,200,0,0,None,None,200,920,4,0,To be done up,None
+arlon,295000,house,for-sale,4,151,None,0,11,None,151,295,2,None,None,None
+bertrix,380000,mixed-use-building,for-sale,7,300,1,0,None,3000,300,3000,3,0,Good,None
+messancy,399000,house,for-sale,3,160,1,None,None,None,160,290,3,None,Good,1
+attert,499000,exceptional-property,for-sale,3,140,0,0,16,60,140,None,3,None,As new,None
+bouillon,459000,villa,for-sale,3,185,1,0,35,1000,185,1000,4,0,As new,None
+libramont,188000,ground-floor,for-sale,1,58,1,0,22,None,58,None,4,None,None,None
+la-roche-en-ardenne,289000,house,for-sale,5,216,None,0,None,None,216,1671,3,0,Good,None
+rouvroy,135000,house,for-sale,3,180,0,0,None,400,180,540,2,None,To renovate,None
+bertrix,229000,house,for-sale,2,180,1,0,30,None,180,331,2,None,Good,None
+st-mard,295000,house,for-sale,4,218,1,0,None,None,218,588,3,None,As new,1
+maissin,455000,house,for-sale,4,220,1,0,None,None,220,2931,4,None,Just renovated,1
+bomal-sur-ourthe-durbuy,140000,apartment,for-sale,3,101,None,0,None,None,101,None,3,None,Good,None
+meix-devant-virton,140000,house,for-sale,4,285,0,0,None,None,285,567,4,None,To renovate,None
+beffe,199000,house,for-sale,3,165,1,None,None,None,165,70,4,0,To be done up,None
+aubange,199000,villa,for-sale,3,165,1,None,None,None,165,700,4,None,Good,1
+dochamps,1195000,villa,for-sale,7,360,1,0,None,21600,360,21600,4,None,Good,None
+durbuy,130000,duplex,for-sale,None,None,1,1,None,None,None,None,None,0,Good,None
+la-roche-en-ardenne,240000,apartment,for-sale,3,166,None,0,47,None,166,None,2,0,Just renovated,None
+la-roche-en-ardenne,350000,house,for-sale,11,466,None,0,None,None,466,3100,4,0,Good,None
+udange,180000,house,for-sale,3,125,None,0,None,45,125,190,3,None,To restore,None
+saint-hubert,200000,mixed-use-building,for-sale,None,210,None,0,10,270,None,350,3,None,Good,None
+termes,280000,house,for-sale,2,140,1,0,None,None,140,1320,2,None,As new,1
+arlon,310000,house,for-sale,4,176,1,None,None,None,176,710,3,None,To be done up,None
+virton,310000,house,for-sale,5,224,1,0,None,None,224,821,4,None,Good,2
+arlon,350000,house,for-sale,4,114,None,0,None,None,114,1065,4,None,To be done up,None
+arlon,374000,apartment-block,for-sale,6,260,1,0,None,None,260,211,3,0,To be done up,None
+virton,390000,house,for-sale,4,233,1,0,None,None,233,100,2,None,Just renovated,None
+ebly,1850000,farmhouse,for-sale,4,320,0,0,None,None,320,7770,4,None,None,None
+arlon,120000,apartment,for-sale,1,34,None,None,None,None,34,None,None,None,None,None
+libramont-chevigny,189000,duplex,for-sale,2,126,1,1,None,None,126,None,4,0,As new,None
+libin-ochamps,180000,villa,for-sale,4,234,0,0,None,None,234,700,4,None,To renovate,None
+rendeux,209000,house,for-sale,3,150,1,None,1,1,150,None,4,0,Good,None
+arlon,210000,ground-floor,for-sale,1,69,1,0,None,None,69,None,3,0,Good,None
+marche-en-famenne,250000,apartment,for-sale,3,87,None,0,47,None,87,None,3,0,Good,None
+halanzy,264000,apartment,for-sale,2,91,1,0,None,None,91,None,None,0,None,None
+gouvy,165000,house,for-sale,4,250,0,0,None,None,250,None,2,None,To renovate,None
+la-roche-en-ardenne,169000,house,for-sale,4,216,None,0,None,None,216,691,3,0,To be done up,None
+bertrix,185000,apartment-block,for-sale,4,218,1,0,None,None,218,None,4,None,None,None
+marche-en-famenne,185000,house,for-sale,4,144,None,0,None,None,144,136,2,0,To be done up,None
+athus,230000,house,for-sale,3,119,1,0,None,None,119,None,2,None,Good,None
+fontenoille,235000,house,for-sale,4,262,None,0,None,2000,262,None,4,None,Good,None
+saint-hubert,240000,house,for-sale,3,180,1,0,None,1200,180,1192,4,0,To be done up,None
+bertrix,275000,house,for-sale,4,200,1,0,42,None,200,460,3,0,Good,None
+rendeux,280000,house,for-sale,2,155,None,0,None,None,155,1000,3,0,Good,None
+forrieres,299000,house,for-sale,4,244,None,0,None,None,244,1430,4,0,Good,None
+stockem,350000,farmhouse,for-sale,4,360,1,0,None,None,360,None,2,None,To be done up,None
+flamierge,382000,house,for-sale,4,203,1,0,None,None,203,11,4,None,None,None
+flamierge,427000,house,for-sale,3,248,1,0,None,None,248,12,3,None,None,None
+arlon,195000,house,for-sale,2,120,1,0,None,None,120,200,2,None,To renovate,None
+gouvy,450000,house,for-sale,4,329,1,1,None,None,329,495,2,None,Good,2
+libramont-chevigny,259000,apartment,for-sale,2,78,1,0,12,None,78,None,3,0,As new,None
+arlon,260000,apartment,for-sale,3,108,1,None,None,None,108,None,2,None,Good,None
+arlon,265000,apartment,for-sale,2,77,1,None,2,200,77,None,3,0,Good,None
+arlon,220000,apartment,for-sale,4,98,1,0,None,None,98,None,None,None,Good,None
+virton,128000,house,for-sale,1,170,0,0,30,None,170,97,2,None,To renovate,None
+vielsalm,250000,house,for-sale,6,296,1,None,None,None,296,2098,4,None,To be done up,None
+chenois,260000,house,for-sale,3,125,1,0,None,None,125,845,4,None,To be done up,1
+chenois,265000,house,for-sale,None,None,1,0,None,None,None,1375,2,None,As new,None
+givroulle,299000,villa,for-sale,None,None,1,0,None,None,None,898,4,None,None,None
+aye,320000,house,for-sale,3,140,1,0,None,None,140,600,4,None,Good,1
+dochamps,400000,chalet,for-sale,4,286,1,0,30,4100,286,4258,4,None,Good,None
+habay-houdemont,449000,house,for-sale,4,219,1,0,44,446,219,655,2,0,As new,None
+weris,580000,country-cottage,for-sale,6,244,1,1,39,1233,244,1200,3,None,Good,1
+bastogne,595000,apartment-block,for-sale,None,None,1,0,None,None,None,785,3,None,None,None
+arlon,695000,mixed-use-building,for-sale,5,420,None,None,None,None,420,410,2,None,To renovate,None
+gouvy,1195000,house,for-sale,4,550,1,0,None,None,550,35000,4,None,None,None
+flamierge,383500,house,for-sale,4,203,1,0,None,None,203,11,4,None,None,None
+marloie,155000,apartment,for-sale,2,84,None,0,None,None,84,None,3,None,None,None
+barvaux,199000,apartment,for-sale,2,104,1,0,None,None,104,None,None,None,Good,None
+marche-en-famenne,299000,house,for-sale,3,134,1,0,18,65,134,207,3,None,Good,None
+hotton,320000,villa,for-sale,3,195,1,None,None,1878,195,1878,4,None,Good,1
+bertogne,899000,villa,for-sale,None,None,1,0,None,None,None,2951,None,None,None,None
+attert,585000,house,for-sale,4,200,None,0,36,None,200,880,3,None,Just renovated,1
+attert,799000,house,for-sale,4,200,None,0,36,None,200,1448,3,None,Just renovated,1
+nassogne,98000,apartment,for-sale,1,31,None,0,None,None,31,None,None,None,As new,None
+marche-en-famenne,135000,apartment,for-sale,2,48,None,0,None,None,48,None,None,None,Good,None
+wellin,204000,apartment,for-sale,2,115,1,0,3,None,115,None,3,None,Just renovated,None
+marche-en-famenne,220000,duplex,for-sale,3,120,None,0,None,None,120,None,2,None,None,None
+wellin,239000,apartment,for-sale,3,124,1,0,50,None,124,None,3,None,Just renovated,None
+marche-en-famenne,308000,apartment,for-sale,3,113,None,0,53,53,113,None,None,None,Good,None
+arlon,100000,flat-studio,for-sale,1,35,None,0,None,None,35,None,None,None,Good,None
+halanzy,310000,house,for-sale,None,None,1,None,None,None,None,None,4,None,Good,None
+habay,250000,house,for-sale,4,180,1,0,50,285,180,568,3,1,To renovate,None
+bastogne,350000,apartment-block,for-sale,6,250,None,0,30,230,250,360,2,None,Good,None
+mirwart,350000,house,for-sale,None,None,1,0,None,None,None,None,3,None,Good,None
+tenneville,450000,other-property,for-sale,4,382,1,1,None,None,382,662,4,None,To be done up,None
+montleban,799000,mixed-use-building,for-sale,4,392,0,0,None,None,392,13683,4,None,None,1
+montleban,799000,house,for-sale,4,392,0,0,None,None,392,13683,4,None,None,1
+musson,985000,house,for-sale,4,240,1,None,50,21300,240,20013,3,0,As new,None
+flamierge,376400,house,for-sale,4,203,1,0,None,None,203,9,4,None,None,None
+saint-leger,230000,house,for-sale,3,230,0,0,16,None,230,4700,2,None,To renovate,None
+florenville,170000,apartment,for-sale,2,64,None,0,None,None,64,None,None,None,As new,None
+florenville,180000,apartment,for-sale,2,83,None,0,None,None,83,None,None,None,As new,None
+florenville,190000,apartment,for-sale,3,93,None,0,None,None,93,None,None,None,As new,None
+gouvy,135000,house,for-sale,3,120,None,None,None,260,120,315,4,None,Good,None
+tellin,180000,house,for-sale,None,None,1,0,20,None,None,810,4,None,To be done up,None
+tavigny,205000,bungalow,for-sale,2,88,1,None,None,None,88,467,4,None,Good,None
+florenville,214500,house,for-sale,2,110,None,0,None,None,110,None,3,None,Good,None
+neufchateau,249000,house,for-sale,3,148,1,None,25,None,148,None,2,0,Just renovated,None
+libramont-chevigny,275000,mixed-use-building,for-sale,None,None,1,0,None,None,None,76,1,None,Good,None
+bastogne,299000,house,for-sale,None,None,1,1,None,None,None,89,3,None,Good,None
+vielsalm,324000,house,for-sale,4,5,1,0,None,None,5,220,2,None,Good,None
+heyd,335000,house,for-sale,4,110,1,0,None,None,110,2180,4,None,As new,1
+marche-en-famenne,370000,house,for-sale,3,162,0,0,None,None,162,283,3,None,None,None
+marbehan,500000,apartment-block,for-sale,None,1000,1,0,None,None,None,1450,None,None,To restore,None
+attert,550000,exceptional-property,for-sale,None,None,1,0,None,None,None,1346,4,None,None,None
+neufchateau,550000,mansion,for-sale,4,245,None,None,None,None,245,645,4,None,To renovate,None
+erezee,300000,house,for-sale,None,None,0,0,None,None,None,2500,None,None,To renovate,4
+bande,365000,house,for-sale,4,260,1,0,None,200,260,323,None,None,Just renovated,None
+florenville,160000,ground-floor,for-sale,1,58,None,0,None,None,58,None,3,None,As new,None
+marche-en-famenne,243000,duplex,for-sale,3,98,None,0,None,None,98,None,None,None,None,None
+nassogne,245000,apartment,for-sale,1,61,None,1,6,None,61,None,None,None,As new,None
+hotton,155000,house,for-sale,2,97,0,0,51,None,97,108,2,None,To be done up,None
+martelange,180000,house,for-sale,2,100,None,0,None,93,100,221,4,None,To renovate,None
+vielsalm,215000,house,for-sale,None,None,1,0,None,None,None,176,4,None,Good,1
+ethe,215000,house,for-sale,3,133,1,0,None,None,133,300,2,None,Good,None
+waha,275000,house,for-sale,4,190,1,None,50,817,190,None,2,None,As new,None
+erezee,340000,chalet,for-sale,3,105,None,None,15,6800,105,6832,4,None,Good,None
+saint-leger,370000,house,for-sale,3,160,1,0,18,None,160,368,3,None,None,None
+saint-leger,375000,house,for-sale,3,160,1,0,18,None,160,478,3,None,None,None
+libramont-chevigny,415000,villa,for-sale,5,290,1,0,20,None,290,966,4,None,As new,None
+florenville,420000,house,for-sale,8,400,1,None,None,None,400,1840,2,None,Good,None
+les-hayons,225000,house,for-sale,2,228,None,None,16,55,228,210,3,None,Good,None
+les-hayons,225000,house,for-sale,2,228,None,None,16,55,228,210,3,None,Good,None
+les-hayons,225000,house,for-sale,2,228,None,None,16,55,228,210,3,None,Good,None
+les-hayons,225000,house,for-sale,2,228,None,None,16,55,228,210,3,None,Good,None
+vielsalm,220000,villa,for-sale,4,193,1,None,None,None,193,521,4,None,None,None
+saint-hubert,75000,house,for-sale,3,140,None,0,None,None,140,100,2,None,To renovate,None
+les-hayons,225000,house,for-sale,2,228,None,None,16,55,228,210,3,None,Good,None
+tronquoy,365000,house,for-sale,None,None,1,0,None,None,None,1388,4,None,Good,None
+marche-en-famenne,390000,apartment-block,for-sale,4,285,1,0,None,120,285,244,2,0,Good,None
+la-roche-en-ardenne,499000,apartment-block,for-sale,None,None,1,0,None,None,None,2304,None,None,None,None
+la-roche-en-ardenne,499000,house,for-sale,None,None,1,0,None,None,None,2304,None,None,None,None
+soy,1590000,house,for-sale,2,591,1,0,270,4200,591,4200,4,None,None,None
+marche-en-famenne,223000,duplex,for-sale,3,100,None,0,None,None,100,None,None,None,None,None
+marche-en-famenne,223000,apartment,for-sale,3,100,None,0,None,None,100,None,None,None,None,None
+aye,125000,house,for-sale,None,None,None,0,None,1757,None,1757,1,None,To renovate,None
+bouillon,235000,house,for-sale,3,212,1,0,None,None,212,None,3,None,To be done up,1
+marche-en-famenne,275000,villa,for-sale,None,None,None,0,None,626,None,626,1,None,To be done up,None
+bastogne,320000,house,for-sale,5,200,None,0,None,None,200,None,4,None,None,None
+saint-leger,375000,house,for-sale,3,160,1,0,18,None,160,504,3,None,None,None
+saint-leger,375000,house,for-sale,3,160,1,0,18,None,160,496,3,None,None,None
+saint-leger,380000,house,for-sale,3,160,1,0,18,None,160,487,3,None,None,None
+durbuy,425000,villa,for-sale,None,None,None,0,None,4275,None,4086,1,None,Good,None
+hodister,425000,house,for-sale,None,None,None,0,None,1046,None,1046,1,None,Good,None
+ny,625000,house,for-sale,None,None,None,0,8,798,None,798,1,None,As new,None
 bouillon,995000,exceptional-property,for-sale,5,445,1,None,None,None,445,3636,4,None,As new,None
 vielsalm,80000,apartment,for-sale,2,72,None,None,None,None,72,None,2,None,Good,None
-bouillon,Make an,apartment,for-sale,1,60,1,0,None,None,60,None,2,0,Good,None
+bouillon,89900,apartment,for-sale,1,60,1,0,None,None,60,None,2,0,Good,None
 longchamps,180000,apartment,for-sale,2,81,1,None,None,None,81,None,4,None,None,None
 houffalize,180000,house,for-sale,None,None,None,None,None,255,None,339,3,None,To restore,None
 longlier,96000,house,for-sale,1,124,0,0,None,None,124,None,3,None,To renovate,None
@@ -742,160 +1192,360 @@ hotton,205000,apartment,for-sale,2,84,1,None,None,None,84,None,None,None,As new,
 bertogne,229000,house,for-sale,None,None,None,None,None,2599,None,2792,3,None,To renovate,None
 redu,749000,exceptional-property,for-sale,6,317,1,1,None,None,317,757,3,1,As new,1
 tenneville,749000,house,for-sale,2,102,None,None,None,None,102,2199,None,None,None,None
-hotton,2500,chalet,for-sale,1,49,None,None,None,2500,49,2500,4,None,To renovate,None
+hotton,749000,chalet,for-sale,1,49,None,None,None,2500,49,2500,4,None,To renovate,None
 lamorteau,179000,house,for-sale,None,None,1,0,None,None,None,146,None,None,None,None
 florenville,219000,house,for-sale,4,160,1,0,None,None,160,829,None,None,None,None
 saint-leger,220000,house,for-sale,2,105,1,0,None,None,105,73,3,None,To be done up,None
 bertrix,240000,mixed-use-building,for-sale,4,614,None,None,None,None,614,636,3,None,To renovate,None
 messancy,240000,house,for-sale,None,None,1,None,None,None,None,226,3,None,None,None
 hotton,205000,apartment,for-sale,2,84,1,None,None,None,84,None,None,None,As new,None
-marche-en-famenne,480000  480000,house,for-sale,3,150,0,0,None,None,150,1004,4,None,None,None
-tellin,480000  480000,house,for-sale,3,185,0,0,None,None,185,530,4,None,None,None
-morhet,480000  480000,house,for-sale,None,None,1,None,None,None,None,415,3,None,As new,None
-vaux-sur-sure,480000  480000,house,for-sale,3,145,0,0,None,None,145,2972,4,None,None,None
-tavigny,480000  480000,house,for-sale,3,145,0,0,None,None,145,1096,4,None,None,None
-marche-en-famenne,480000  480000,house,for-sale,4,150,0,0,None,None,150,1460,4,None,None,None
-libin,310000,house,for-sale,3,129,1,0,20,150,129,220,2,None,As new,None
-fauvillers,310000,house,for-sale,3,150,0,0,None,None,150,544,4,None,None,None
-daverdisse,310000,house,for-sale,4,150,0,0,None,None,150,994,4,None,None,None
-libin,330000,house,for-sale,3,129,1,0,20,200,129,340,3,None,As new,None
-leglise,330000,house,for-sale,3,180,0,0,None,None,180,2635,4,None,None,None
-messancy,330000,house,for-sale,None,None,1,None,None,None,None,225,3,None,As new,None
-st-leger,330000,house,for-sale,None,None,1,None,None,None,None,500,3,None,As new,None
-st-leger,330000,house,for-sale,None,None,1,None,None,None,None,496,3,None,As new,None
-neufchateau,330000,house,for-sale,3,220,0,0,None,None,220,1000,4,None,None,None
-st-leger,330000,house,for-sale,None,None,1,None,None,None,None,538,3,None,As new,None
-st-leger,330000,house,for-sale,3,165,0,0,None,None,165,677,4,None,None,None
-attert,330000,house,for-sale,4,190,0,0,None,None,190,1378,3,None,None,None
-bastogne,Make an,house,for-sale,None,None,1,0,None,None,None,1671,None,None,Good,None
-jamoigne,180000,apartment,for-sale,1,65,1,None,None,None,65,None,None,None,As new,None
-jamoigne,199500,apartment,for-sale,1,77,1,None,None,None,77,None,4,None,As new,None
-jamoigne,220000,apartment,for-sale,2,82,1,None,None,None,82,None,4,None,As new,None
-chiny,220000,apartment,for-sale,2,82,1,None,None,None,82,None,4,None,As new,None
-vielsalm,450000,duplex,for-sale,3,195,None,None,58,None,195,None,3,0,As new,None
-aubange,165000,house,for-sale,3,170,1,0,19,None,170,911,2,None,To renovate,None
-vielsalm,178000,villa,for-sale,2,144,None,None,None,None,144,908,4,None,To renovate,1
-septon,195000,house,for-sale,None,None,None,0,None,None,None,1924,4,None,To be done up,None
-virton,219000,house,for-sale,None,177,1,0,None,None,None,135,3,None,Good,None
-habay,340000,apartment-block,for-sale,None,450,None,0,None,None,None,409,4,None,To renovate,None
-durbuy,2400000,house,for-sale,None,None,1,1,None,None,None,27589,4,1,As new,None
-chiny,2500,apartment-block,for-sale,9,450,None,0,None,1,450,174,3,None,To be done up,None
-habay-la-neuve,2500,apartment,for-sale,None,None,1,None,None,None,None,None,None,None,Good,None
-tintigny,2500,house,for-sale,3,138,None,None,None,None,138,296,2,None,None,None
-ruette,98000,apartment-block,for-sale,None,600,None,0,None,None,None,2620,None,None,To renovate,None
-durbuy-tohogne,149500,house,for-sale,2,65,0,0,24,None,65,200,4,None,None,None
-tohogne,279000,house,for-sale,2,97,None,0,None,352,97,407,2,None,Good,None
-marche-en-famenne,Make an,house,for-sale,4,199,None,None,38,1222,199,1338,4,None,Good,None
-virton,439000,apartment-block,for-sale,None,None,None,None,None,None,None,500,None,None,None,None
-rouvroy-lamorteau,560000,house,for-sale,6,393,1,0,100,None,393,1760,4,0,As new,None
-marche-en-famenne,560000,house,for-sale,3,150,0,None,None,None,150,897,4,None,None,None
-marche-en-famenne,560000,house,for-sale,3,150,0,0,None,None,150,1009,4,None,None,None
-marche-en-famenne,560000,house,for-sale,3,150,0,0,None,None,150,1402,4,None,None,None
-marche-en-famenne,560000,house,for-sale,3,150,0,0,None,None,150,1000,4,None,None,None
-aubange,229000,apartment,for-sale,2,88,1,0,None,None,88,None,None,0,None,None
-jamoigne,215000,apartment,for-sale,2,94,1,None,None,None,94,None,4,None,As new,None
-la-roche-en-ardenne,215000,house,for-sale,None,None,None,None,None,None,None,466,4,None,To be done up,None
-bastogne,295000,house,for-sale,3,132,None,None,None,None,132,None,1,0,Just renovated,None
-paliseul,315000,house,for-sale,3,152,1,None,None,None,152,2412,4,None,To renovate,None
-vielsalm,349000,house,for-sale,3,165,None,0,None,None,165,6015,3,0,None,None
-bastenaken,480000,country-cottage,for-sale,None,None,1,None,1,1,None,3247,6,None,To renovate,1
-marche-en-famenne,700000,house,for-sale,None,None,None,0,None,None,None,11305,None,None,None,None
-gouvy,2600000,exceptional-property,for-sale,None,None,1,None,250,500,None,25000,4,1,As new,2
-vaux-sur-sure,Make an,apartment,for-sale,1,60,1,0,None,None,60,None,4,None,None,None
-vaux-sur-sure,Make an,house,for-sale,None,None,1,0,None,None,None,358,3,None,None,None
-bastogne,Make an,house,for-sale,None,None,1,0,None,None,None,886,None,None,To renovate,None
-fauvillers,Make an,villa,for-sale,None,None,1,0,None,None,None,2203,4,None,Good,None
-bertogne,Make an,villa,for-sale,None,None,1,0,None,None,None,2437,4,None,Good,None
-houffalize,Make an,house,for-sale,None,None,1,0,None,None,None,15640,4,None,Good,None
-la-roche,Make an,country-cottage,for-sale,None,None,1,0,None,None,None,920,4,None,Just renovated,1
-marche-en-famenne,900000,apartment-block,for-sale,None,None,1,None,None,None,None,801,4,0,None,None
-lamorteau,285000,house,for-sale,3,110,0,0,None,None,110,800,4,None,None,None
-lamorteau,325000,town-house,for-sale,3,160,0,0,None,None,160,655,4,None,None,None
-lamorteau,328000,house,for-sale,3,160,0,0,None,None,160,700,4,None,None,None
-arlon,328000,house,for-sale,None,None,1,None,None,None,None,500,3,None,None,None
-aubange,328000,house,for-sale,None,None,1,None,None,None,None,500,3,None,None,None
-bastogne,215000,apartment,for-sale,1,81,1,0,None,None,81,None,2,None,Good,None
-bertogne,214000,house,for-sale,4,345,0,0,None,None,345,485,3,None,None,None
-saint-mard,311000,house,for-sale,3,165,0,0,None,None,165,1014,3,None,None,None
-arlon,127000,apartment,for-sale,None,None,1,None,None,None,None,None,None,0,Good,None
-limerle,127000,house,for-sale,4,175,None,None,None,None,175,485,3,None,None,None
-houffalize,Make an,house,for-sale,None,None,1,0,None,None,None,1500,4,None,Good,None
-durbuy,Make,exceptional-property,for-sale,None,None,1,None,220,4549,None,4549,4,1,As new,None
-juseret,269934,house,for-sale,None,None,None,0,None,None,None,613,4,None,As new,None
-flamierge,290816,house,for-sale,None,None,None,0,None,None,None,869,4,None,As new,None
-st-leger,290816,house,for-sale,None,None,1,None,None,None,None,538,3,None,None,None
-bastogne,Make an,house,for-sale,None,None,1,0,None,None,None,172,2,None,Just renovated,None
-tournay,Make an,house,for-sale,3,115,1,None,None,None,115,1400,4,None,None,None
-vaux-sur-sure,Make an,house,for-sale,None,None,1,0,None,None,None,2711,4,None,Good,None
-messancy,515000,house,for-sale,None,None,None,None,50,700,None,700,2,None,None,None
-la-roche-en-ardenne,650000,exceptional-property,for-sale,None,None,1,0,10,1,None,None,4,0,To be done up,1
-durbuy,109000,house,for-sale,1,45,None,None,None,None,45,25,4,None,None,None
-vaux-sur-sure,135000,farmhouse,for-sale,None,None,None,None,None,None,None,1300,None,None,None,None
-bastogne,Make an,house,for-sale,None,None,1,0,None,None,None,971,4,None,Good,None
-rochehaut,795000,house,for-sale,3,247,None,None,None,None,247,345,None,0,None,None
-bouillon,875000,house,for-sale,None,None,None,None,None,None,None,40000,None,None,None,None
-halleux,875000,house,for-sale,None,None,None,0,None,None,None,3500,4,None,As new,None
-bertogne,Make an,house,for-sale,None,None,0,0,None,None,None,266,None,None,To renovate,None
-houffalize,Make an,house,for-sale,2,95,None,0,None,None,95,1695,4,None,None,None
-warmifontaine,149999,apartment-block,for-sale,None,900,None,None,None,None,None,2000,4,None,To renovate,None
-tenneville,295000,mixed-use-building,for-sale,None,None,1,0,None,None,None,1302,4,None,None,None
-bastogne,Make an,villa,for-sale,None,None,1,0,None,None,None,1080,4,None,None,1
-la-roche-en-ardenne,Make,house,for-sale,None,None,1,0,200,12390,None,12390,4,None,None,None
-durbuy,Make an,apartment-block,for-sale,4,788,None,1,None,None,788,None,3,None,None,None
-tailles,406421,house,for-sale,None,None,None,0,None,None,None,6724,4,None,As new,None
-tailles,Make an,house,for-sale,None,None,1,0,None,None,None,3800,4,1,None,1
-st-leger,Make an,house,for-sale,None,None,1,None,None,None,None,None,3,None,None,None
-st-leger,Make an,house,for-sale,None,None,1,None,None,None,None,None,3,None,None,None
-st-leger,Make an,house,for-sale,None,None,1,None,None,None,None,None,3,None,None,None
-st-leger,Make an,house,for-sale,None,None,1,None,None,None,None,None,3,None,None,None
-bastogne,Make an,house,for-sale,None,None,1,0,None,None,None,1076,3,None,None,None
-bastogne,220000,apartment,for-sale,2,105,1,0,None,None,105,None,2,0,Good,None
-achouffe,Make an,house,for-sale,None,None,1,0,None,None,None,2879,4,1,Good,None
-manhay,Make an,house,for-sale,5,350,0,None,None,260,350,1310,4,None,To renovate,None
-rouvroy,269000,house,for-sale,3,200,0,0,None,None,200,920,4,0,To be done up,None
-arlon,295000,house,for-sale,4,151,None,0,11,None,151,295,2,None,None,None
-bertrix,380000,mixed-use-building,for-sale,7,300,1,0,None,3000,300,3000,3,0,Good,None
-messancy,399000,house,for-sale,3,160,1,None,None,None,160,290,3,None,Good,1
-attert,Make an,exceptional-property,for-sale,3,140,0,0,16,60,140,None,3,None,As new,None
-bouillon,459000,villa,for-sale,3,185,1,0,35,1000,185,1000,4,0,As new,None
-libramont,188000,ground-floor,for-sale,1,58,1,0,22,None,58,None,4,None,None,None
-la-roche-en-ardenne,289000,house,for-sale,5,216,None,0,None,None,216,1671,3,0,Good,None
-rouvroy,135000,house,for-sale,3,180,0,0,None,400,180,540,2,None,To renovate,None
-bertrix,229000,house,for-sale,2,180,1,0,30,None,180,331,2,None,Good,None
-st-mard,295000,house,for-sale,4,218,1,0,None,None,218,588,3,None,As new,1
-maissin,Make an,house,for-sale,4,220,1,0,None,None,220,2931,4,None,Just renovated,1
-bomal-sur-ourthe-durbuy,140000,apartment,for-sale,3,101,None,0,None,None,101,None,3,None,Good,None
-meix-devant-virton,140000,house,for-sale,4,285,0,0,None,None,285,567,4,None,To renovate,None
-beffe,199000,house,for-sale,3,165,1,None,None,None,165,70,4,0,To be done up,None
-aubange,199000,villa,for-sale,3,165,1,None,None,None,165,700,4,None,Good,1
-dochamps,1195000,villa,for-sale,7,360,1,0,None,21600,360,21600,4,None,Good,None
-durbuy,Make an,duplex,for-sale,None,None,1,1,None,None,None,None,None,0,Good,None
-la-roche-en-ardenne,240000,apartment,for-sale,3,166,None,0,47,None,166,None,2,0,Just renovated,None
-la-roche-en-ardenne,350000,house,for-sale,11,466,None,0,None,None,466,3100,4,0,Good,None
-udange,180000,house,for-sale,3,125,None,0,None,45,125,190,3,None,To restore,None
-saint-hubert,200000,mixed-use-building,for-sale,None,210,None,0,10,270,None,350,3,None,Good,None
-termes,280000,house,for-sale,2,140,1,0,None,None,140,1320,2,None,As new,1
-arlon,310000,house,for-sale,4,176,1,None,None,None,176,710,3,None,To be done up,None
-virton,310000,house,for-sale,5,224,1,0,None,None,224,821,4,None,Good,2
-arlon,350000,house,for-sale,4,114,None,0,None,None,114,1065,4,None,To be done up,None
-arlon,374000,apartment-block,for-sale,6,260,1,0,None,None,260,211,3,0,To be done up,None
-virton,390000,house,for-sale,4,233,1,0,None,None,233,100,2,None,Just renovated,None
-ebly,Make,farmhouse,for-sale,4,320,0,0,None,None,320,7770,4,None,None,None
-arlon,120000,apartment,for-sale,1,34,None,None,None,None,34,None,None,None,None,None
-libramont-chevigny,189000,duplex,for-sale,2,126,1,1,None,None,126,None,4,0,As new,None
-libin-ochamps,Make an,villa,for-sale,4,234,0,0,None,None,234,700,4,None,To renovate,None
-rendeux,209000,house,for-sale,3,150,1,None,1,1,150,None,4,0,Good,None
-arlon,210000,ground-floor,for-sale,1,69,1,0,None,None,69,None,3,0,Good,None
-marche-en-famenne,250000,apartment,for-sale,3,87,None,0,47,None,87,None,3,0,Good,None
-halanzy,264000,apartment,for-sale,2,91,1,0,None,None,91,None,None,0,None,None
-gouvy,165000,house,for-sale,4,250,0,0,None,None,250,None,2,None,To renovate,None
-la-roche-en-ardenne,169000,house,for-sale,4,216,None,0,None,None,216,691,3,0,To be done up,None
-bertrix,185000,apartment-block,for-sale,4,218,1,0,None,None,218,None,4,None,None,None
-marche-en-famenne,185000,house,for-sale,4,144,None,0,None,None,144,136,2,0,To be done up,None
-athus,230000,house,for-sale,3,119,1,0,None,None,119,None,2,None,Good,None
-fontenoille,235000,house,for-sale,4,262,None,0,None,2000,262,None,4,None,Good,None
-saint-hubert,240000,house,for-sale,3,180,1,0,None,1200,180,1192,4,0,To be done up,None
-bertrix,275000,house,for-sale,4,200,1,0,42,None,200,460,3,0,Good,None
-rendeux,280000,house,for-sale,2,155,None,0,None,None,155,1000,3,0,Good,None
-forrieres,299000,house,for-sale,4,244,None,0,None,None,244,1430,4,0,Good,None
+genappe,365000,house,for-sale,4,160,1,0,26,None,160,124,2,None,As new,None
+gistoux,420000,apartment,for-sale,2,124,1,0,14,None,124,None,4,None,None,None
+waterloo,770000,house,for-sale,4,231,1,0,None,601,231,601,4,None,As new,None
+genappe,365000,duplex,for-sale,4,160,1,0,26,None,160,None,2,None,As new,None
+wavre,289000,apartment,for-sale,1,82,1,0,18,None,82,None,2,0,As new,None
+waterloo,297000,apartment,for-sale,1,58,1,0,7,None,58,None,4,0,As new,None
+wavre,309000,apartment,for-sale,1,82,1,0,18,None,82,None,2,0,As new,None
+waterloo,367000,apartment,for-sale,2,71,1,0,7,None,71,None,4,0,As new,None
+ottignies-louvain-la-neuve,375000,apartment,for-sale,2,86,0,0,10,None,86,None,None,None,As new,None
+waterloo,430000,penthouse,for-sale,3,124,0,None,15,None,124,None,2,0,As new,None
+waterloo,455000,penthouse,for-sale,3,124,0,0,15,None,124,None,None,None,As new,None
+waterloo,530000,apartment,for-sale,2,117,1,0,15,None,117,None,4,0,As new,None
+aalst,370000,duplex,for-sale,3,175,None,None,7,None,175,None,2,None,As new,None
+dampremy,130000,house,for-sale,2,163,1,0,7,100,163,204,3,0,To be done up,None
+auvelais,189000,house,for-sale,4,168,1,None,None,1050,168,1145,4,None,To be done up,None
+namur,119000,flat-studio,for-sale,None,32,0,0,None,None,None,None,None,0,Good,None
+charleroi,190000,house,for-sale,5,145,0,0,None,None,145,None,2,None,To be done up,None
+couvin,380000,villa,for-sale,4,180,1,0,None,None,180,1170,4,0,As new,None
+thimister-clermont,249000,house,for-sale,4,214,0,0,None,217,214,312,3,0,To renovate,None
+nivelles,140000,apartment,for-sale,1,56,1,0,3,None,56,None,2,None,As new,None
+braine-le-chateau,145000,house,for-sale,2,64,1,0,9,None,64,43,3,None,To be done up,None
+nivelles,175000,apartment,for-sale,2,77,1,0,3,None,77,None,None,0,Good,None
+ottignies,250000,penthouse,for-sale,1,85,1,0,None,None,85,None,2,None,Good,None
+jodoigne,269000,apartment,for-sale,2,98,1,0,None,None,98,None,2,0,As new,None
+wavre,280000,duplex,for-sale,2,85,1,0,22,None,85,None,2,None,As new,None
+waterloo,295000,apartment,for-sale,2,87,1,0,None,None,87,None,None,None,Good,None
+waterloo,320000,house,for-sale,3,108,1,0,14,65,108,110,2,0,Good,None
+cortil-noirmont,320000,house,for-sale,3,135,1,0,15,1400,135,1550,3,None,Good,None
+braine-lalleud,324500,apartment,for-sale,2,110,1,0,None,None,110,None,2,None,As new,None
+grez-doiceau,345000,house,for-sale,3,115,1,0,30,700,115,871,4,None,To be done up,None
+braine-lalleud,350000,villa,for-sale,3,165,0,0,50,899,165,1000,4,None,To be done up,None
+nivelles,375000,mansion,for-sale,4,207,1,0,None,518,207,608,2,None,To be done up,None
+jodoigne,395000,apartment,for-sale,2,100,1,0,36,None,100,None,3,None,As new,None
+limal,399000,house,for-sale,4,215,1,0,40,None,215,3882,4,0,To renovate,None
+nivelles,425000,villa,for-sale,3,161,1,0,31,517,161,630,4,0,Good,None
+ottignies-louvain-la-neuve,455000,duplex,for-sale,3,123,1,None,None,600,123,None,2,0,As new,None
+waterloo,465000,house,for-sale,4,308,1,0,13,164,308,268,3,0,Good,None
+waterloo,475000,apartment,for-sale,2,140,1,0,3,None,140,None,4,0,To be done up,None
+villers-la-ville,475000,villa,for-sale,3,230,1,0,None,2740,230,2907,4,0,Good,None
+waterloo,485000,house,for-sale,3,174,1,None,40,400,174,500,2,0,Good,1
+braine-lalleud,485000,house,for-sale,5,302,1,0,30,600,302,776,3,0,Good,None
+chaumont-gistoux,495000,villa,for-sale,4,203,1,0,30,1737,203,1886,4,None,To be done up,None
+rixensart,500000,house,for-sale,3,152,1,0,55,739,152,850,4,0,As new,None
+braine-lalleud,530000,apartment,for-sale,2,109,1,0,45,None,109,None,3,None,Good,None
+waterloo,895000,house,for-sale,4,250,1,1,60,650,250,1138,4,0,As new,None
+genappe,935000,house,for-sale,4,328,1,0,None,13473,328,13638,3,None,As new,None
+braine-lalleud,1250000,villa,for-sale,5,420,1,0,80,4300,420,4677,4,0,As new,None
+lasne,1350000,villa,for-sale,6,300,0,0,None,None,300,14631,4,0,To renovate,None
+braine-lalleud,475000,apartment-block,for-sale,3,195,1,0,6,200,195,290,2,0,Good,None
+nivelles,550000,mansion,for-sale,4,185,1,0,None,None,185,1800,4,None,Good,1
+warempage,429000,house,for-sale,None,None,None,None,None,None,None,1620,4,None,None,None
+arlon-toernich,495000,house,for-sale,3,190,None,None,None,None,190,1390,4,None,Good,None
+manhay,254000,house,for-sale,3,117,1,0,None,None,117,1300,4,None,None,None
+tenneville,335000,house,for-sale,3,122,None,0,9,None,122,626,4,None,None,None
+tenneville,335000,house,for-sale,3,122,None,0,9,None,122,750,4,None,None,None
+neufchateau,220000,house,for-sale,6,330,None,None,None,None,330,None,4,None,None,None
+arlon,169000,apartment,for-sale,1,52,None,None,None,None,52,None,None,None,Good,None
+libramont-chevigny,170000,apartment,for-sale,None,None,1,0,16,None,None,None,None,0,None,None
+libramont-chevigny,171500,apartment,for-sale,None,None,1,0,7,None,None,None,None,0,None,None
+neufchateau,160000,house,for-sale,None,None,1,None,None,None,None,110,2,None,To be done up,None
+libramont-chevigny,295000,mixed-use-building,for-sale,2,507,None,None,None,None,507,1181,4,None,Good,None
+athus,295000,house,for-sale,None,None,None,None,None,None,None,150,2,None,Good,None
+laneuville,388000,house,for-sale,3,160,1,None,None,750,160,930,4,None,None,None
+arlon,388000,house,for-sale,None,None,None,None,None,None,None,1400,4,None,Good,None
+bras-bastogne,700000,house,for-sale,None,6581,None,0,None,None,None,6581,4,None,None,None
+arlon,850000,apartment-block,for-sale,None,None,None,None,None,None,None,917,3,None,Good,None
+neufchateau,234250,apartment,for-sale,2,82,1,0,20,None,82,None,3,0,As new,None
+neufchateau,150000,house,for-sale,1,122,1,0,None,None,122,110,3,None,None,None
+athus,129000,apartment,for-sale,None,None,None,None,None,None,None,None,None,None,Good,None
+durbuy,195000,apartment,for-sale,2,97,None,0,38,None,97,None,4,0,Just renovated,None
+athus,209500,apartment,for-sale,None,None,None,None,None,None,None,None,None,None,Good,None
+hamipre,239900,apartment,for-sale,3,102,None,0,8,456,102,None,None,None,None,None
+arlon,299000,apartment,for-sale,None,None,None,None,None,None,None,None,None,None,As new,None
+libin,155000,house,for-sale,2,125,0,None,10,215,125,390,3,None,None,None
+tenneville,315000,house,for-sale,3,122,None,0,9,None,122,626,3,None,None,None
+bovigny,445000,villa,for-sale,None,None,None,0,None,None,None,None,4,0,Just renovated,None
+neufchateau,228850,apartment,for-sale,2,84,1,0,12,None,84,None,3,0,As new,None
+la-roche-en-ardenne,400000,house,for-sale,None,688,None,0,None,None,None,1600,4,None,None,None
+libramont-chevigny,172500,apartment,for-sale,1,56,1,0,7,None,56,None,None,None,None,None
+libramont-chevigny,172500,apartment,for-sale,None,None,1,0,7,None,None,None,None,None,None,None
+bastogne,215000,apartment,for-sale,2,96,None,None,None,None,96,None,2,None,Good,None
+libin,145000,house,for-sale,2,125,0,None,5,100,125,220,3,None,None,None
+messancy,145000,villa,for-sale,None,None,1,None,None,None,None,2000,4,None,None,3
+durbuy,80000,apartment,for-sale,None,None,1,1,3,None,None,None,2,0,None,None
+hamipre,209900,apartment,for-sale,None,None,None,0,None,None,None,None,None,None,As new,None
+hamipre,214900,apartment,for-sale,2,83,None,0,6,None,83,None,None,None,None,None
+erezee,354650,house,for-sale,3,205,None,None,None,None,205,115,4,None,None,1
+laneuville,379000,house,for-sale,3,160,None,None,None,580,160,760,4,None,None,None
+vielsalm-centre,1750000,apartment-block,for-sale,None,None,None,1,None,None,None,6202,4,None,Good,None
+vielsalm-centre,1750000,exceptional-property,for-sale,None,None,None,1,None,None,None,6202,4,None,Good,None
+athus,109000,apartment,for-sale,None,None,1,None,None,None,None,None,None,None,None,None
+libramont-chevigny,201500,apartment,for-sale,None,None,1,0,14,None,None,None,None,None,None,None
+tavigny,425000,house,for-sale,None,None,None,0,None,None,None,None,None,None,None,None
+libramont-chevigny,170000,apartment,for-sale,None,None,1,0,16,None,None,None,None,None,None,None
+libramont-chevigny,201500,apartment,for-sale,None,None,1,0,14,None,None,None,None,0,None,None
+athus,259000,apartment,for-sale,None,None,1,None,None,None,None,None,None,None,Good,None
+aubange,249000,apartment,for-sale,None,None,None,0,None,None,None,None,None,None,None,None
+neufchateau,149000,house,for-sale,3,115,None,None,None,None,115,128,3,None,None,None
+vielsalm,149000,house,for-sale,3,118,None,None,None,None,118,2130,4,None,None,None
+erezee,1200000,castle,for-sale,None,None,None,None,None,None,None,15000,4,None,None,None
 stockem,350000,farmhouse,for-sale,4,360,1,0,None,None,360,None,2,None,To be done up,None
+vielsalm,399000,farmhouse,for-sale,4,156,1,1,None,None,156,8749,4,None,To be done up,None
+houffalize,795000,exceptional-property,for-sale,6,477,1,0,None,None,477,9198,4,1,As new,None
+libramont-chevigny,179000,apartment,for-sale,2,85,1,0,None,None,85,None,4,0,As new,None
+wibrin,275000,house,for-sale,5,184,None,0,None,None,184,298,4,None,To be done up,None
+tintigny,145000,house,for-sale,2,134,1,None,None,None,134,1063,3,None,To renovate,None
+bertrix,175000,house,for-sale,3,180,1,0,None,None,180,1275,3,None,Good,None
+barvaux-sur-ourthe,297000,chalet,for-sale,3,110,1,0,None,2280,110,2280,4,None,As new,None
+vielsalm,345000,house,for-sale,4,216,1,None,None,None,216,3089,4,None,Good,None
+gouvy,400000,house,for-sale,None,None,1,None,35,800,None,1000,4,None,As new,None
+neufchateau,165000,apartment,for-sale,1,56,1,0,None,None,56,None,2,0,As new,None
+bastogne,159000,apartment,for-sale,1,60,1,1,None,None,60,None,1,0,Just renovated,None
+libramont-chevigny,275000,duplex,for-sale,4,60,1,0,None,None,60,None,3,None,Good,None
+halanzy,289000,apartment,for-sale,2,84,1,0,None,None,84,None,None,0,None,None
+arlon,345000,apartment,for-sale,2,110,1,0,None,None,110,None,None,0,None,None
+saint-hubert,129000,house,for-sale,3,120,1,0,None,448,120,500,3,None,To be done up,None
+virton,129000,house,for-sale,5,279,1,0,None,None,279,50,2,None,Good,1
+gerouville,129000,house,for-sale,4,264,1,0,None,None,264,420,3,None,As new,None
+saint-hubert,290000,house,for-sale,4,262,1,0,None,None,262,140,2,0,To be done up,None
+saint-hubert,290000,apartment-block,for-sale,4,262,1,0,None,None,262,140,2,0,To be done up,None
+virton,295000,house,for-sale,3,248,None,None,None,None,248,980,4,None,Good,1
+lamorteau,295000,house,for-sale,None,None,None,0,None,None,None,1298,4,None,Good,None
+meix-devant-virton,295000,house,for-sale,3,248,None,None,None,None,248,980,4,None,Good,1
+libramont-chevigny,315000,house,for-sale,4,220,1,0,None,1000,220,1000,4,0,Good,None
+aubange,379000,house,for-sale,None,None,1,None,20,850,None,960,3,0,As new,1
+virton,390000,mixed-use-building,for-sale,None,None,1,0,None,None,None,1097,4,None,Good,None
+tenneville,390000,house,for-sale,4,180,None,0,None,None,180,350,3,None,None,None
+la-roche-en-ardenne,180000,apartment,for-sale,2,94,None,0,None,None,94,None,2,0,Good,None
+neufchateau,309000,house,for-sale,None,None,None,None,25,336,None,508,2,None,As new,None
+la-roche-en-ardenne,120000,chalet,for-sale,1,41,None,0,None,None,41,980,4,None,To be done up,None
+houdemont,219000,house,for-sale,3,192,1,0,None,None,192,272,None,None,None,None
+musson,299000,house,for-sale,4,182,1,0,None,None,182,2198,None,None,None,None
+halanzy,329000,house,for-sale,5,285,1,0,None,None,285,540,None,None,None,None
+aubange,348000,apartment-block,for-sale,4,326,1,0,None,None,326,930,None,None,None,None
+aubange,348000,house,for-sale,4,326,1,0,None,None,326,930,None,None,None,None
+chiny-jamoigne,350000,house,for-sale,4,175,1,0,None,500,175,499,3,0,Good,None
+arlon,380000,house,for-sale,3,200,0,0,5,150,200,389,2,None,None,None
+arlon,380000,house,for-sale,4,200,0,0,5,160,200,446,3,None,None,None
+messancy,399000,house,for-sale,4,168,1,0,None,None,168,810,None,None,None,None
+virton,417000,house,for-sale,5,296,1,0,None,None,296,1412,None,None,None,None
+florenville,438000,house,for-sale,5,370,1,0,None,None,370,2898,None,0,None,None
+florenville,87000,bungalow,for-sale,2,39,1,1,None,None,39,100,4,0,As new,None
+bastogne-wardin,358703,villa,for-sale,3,125,1,0,24,None,125,786,4,None,None,None
+tenneville,255000,apartment,for-sale,2,101,None,0,6,None,101,None,3,None,None,None
+libramont-chevigny,150000,apartment,for-sale,2,60,1,0,None,None,60,None,2,None,Good,None
+chiny,150000,house,for-sale,None,None,None,0,None,750,None,964,2,None,To renovate,None
+vielsalm,179000,house,for-sale,4,165,None,0,None,None,165,194,2,None,To be done up,None
+gouvy,190000,house,for-sale,2,75,None,0,None,None,75,5,4,0,Good,None
+libramont-chevigny,199000,farmhouse,for-sale,4,240,None,0,20,1200,240,1200,3,None,To be done up,None
+la-roche-en-ardenne,199000,chalet,for-sale,2,66,None,1,None,None,66,915,4,None,Good,None
+grez-doiceau,345000,house,for-sale,3,115,1,0,30,700,115,871,4,None,To be done up,None
+braine-lalleud,350000,villa,for-sale,3,165,0,0,50,899,165,1000,4,None,To be done up,None
+nivelles,375000,mansion,for-sale,4,207,1,0,None,518,207,608,2,None,To be done up,None
+jodoigne,395000,apartment,for-sale,2,100,1,0,36,None,100,None,3,None,As new,None
+limal,399000,house,for-sale,4,215,1,0,40,None,215,3882,4,0,To renovate,None
+nivelles,425000,villa,for-sale,3,161,1,0,31,517,161,630,4,0,Good,None
+ottignies-louvain-la-neuve,455000,duplex,for-sale,3,123,1,None,None,600,123,None,2,0,As new,None
+waterloo,465000,house,for-sale,4,308,1,0,13,164,308,268,3,0,Good,None
+waterloo,475000,apartment,for-sale,2,140,1,0,3,None,140,None,4,0,To be done up,None
+villers-la-ville,475000,villa,for-sale,3,230,1,0,None,2740,230,2907,4,0,Good,None
+waterloo,485000,house,for-sale,3,174,1,None,40,400,174,500,2,0,Good,1
+braine-lalleud,485000,house,for-sale,5,302,1,0,30,600,302,776,3,0,Good,None
+chaumont-gistoux,495000,villa,for-sale,4,203,1,0,30,1737,203,1886,4,None,To be done up,None
+rixensart,500000,house,for-sale,3,152,1,0,55,739,152,850,4,0,As new,None
+braine-lalleud,530000,apartment,for-sale,2,109,1,0,45,None,109,None,3,None,Good,None
+waterloo,895000,house,for-sale,4,250,1,1,60,650,250,1138,4,0,As new,None
+genappe,935000,house,for-sale,4,328,1,0,None,13473,328,13638,3,None,As new,None
+braine-lalleud,1250000,villa,for-sale,5,420,1,0,80,4300,420,4677,4,0,As new,None
+lasne,1350000,villa,for-sale,6,300,0,0,None,None,300,14631,4,0,To renovate,None
+braine-lalleud,475000,apartment-block,for-sale,3,195,1,0,6,200,195,290,2,0,Good,None
+nivelles,550000,mansion,for-sale,4,185,1,0,None,None,185,1800,4,None,Good,1
+waterloo,695000,villa,for-sale,5,188,1,0,None,None,188,776,4,None,Good,1
+wavre,279000,apartment,for-sale,1,82,1,0,10,None,82,None,2,0,As new,None
+wavre,289000,penthouse,for-sale,1,88,1,0,10,None,88,None,2,0,As new,None
+waterloo,380000,apartment,for-sale,2,97,1,0,18,None,97,None,2,None,As new,None
+nivelles,495000,apartment-block,for-sale,4,181,0,0,8,70,181,165,2,None,Good,None
+nivelles,495000,mixed-use-building,for-sale,4,181,0,0,8,70,181,165,2,None,Good,None
+enines,495000,house,for-sale,3,180,None,0,50,None,180,3000,4,None,Good,None
+wavre,180000,house,for-sale,3,190,0,None,None,None,190,72,2,None,To renovate,None
+villersla-ville-sart-dames-avelines,265000,house,for-sale,4,193,1,0,30,90,193,210,3,None,Good,None
+corroy-le-grand,315000,house,for-sale,2,110,0,0,30,1332,110,1332,4,None,To renovate,1
+nivelles,335000,apartment-block,for-sale,2,175,1,0,66,None,175,183,2,None,Good,None
+braine-lalleud,350000,house,for-sale,2,124,1,0,47,273,124,343,3,0,Good,None
+nivelles,365000,villa,for-sale,4,215,1,0,None,None,215,954,4,None,To renovate,1
+braine-lalleud,375000,mixed-use-building,for-sale,3,151,1,0,9,None,151,140,2,0,Good,None
+rixensart,379000,house,for-sale,3,120,1,0,None,400,120,489,4,None,To be done up,None
+corroy-le-grand,399000,villa,for-sale,3,125,1,0,10,766,125,866,4,None,Good,None
+braine-lalleud,425000,house,for-sale,4,207,1,None,25,275,207,344,3,None,Good,None
+waterloo,460000,house,for-sale,4,165,1,0,48,None,165,311,2,None,Good,None
+grez-doiceau,475000,villa,for-sale,5,180,1,0,48,1748,180,1883,4,0,To renovate,None
+waterloo,545000,house,for-sale,6,155,1,0,None,None,155,667,4,None,Good,1
+wavre-bierges,595000,villa,for-sale,3,183,1,0,30,500,183,1325,4,0,As new,None
+waterloo,595000,villa,for-sale,3,153,1,0,None,None,153,720,4,None,Good,1
+waterloo,795000,villa,for-sale,4,190,1,0,150,None,190,1006,4,1,As new,None
+braine-lalleud,795000,villa,for-sale,4,190,1,0,150,None,190,1006,4,1,As new,None
+rixensart,850000,exceptional-property,for-sale,4,350,1,0,25,750,350,882,4,None,To renovate,None
+waterloo,895000,villa,for-sale,5,362,1,0,60,None,362,2166,4,None,Good,1
+wavre-bierges,900000,house,for-sale,5,255,1,0,100,1500,255,1500,4,0,Good,None
+rixensart,945000,villa,for-sale,3,300,1,0,None,500,300,1110,4,1,As new,None
+waterloo,265000,apartment,for-sale,2,75,1,0,13,None,75,None,3,None,To be done up,None
+erezee,625000,house,for-sale,None,None,None,0,8,798,None,798,1,None,As new,None
+marche-en-famenne,850000,house,for-sale,None,None,None,0,None,None,None,2800,1,None,As new,None
+vielsalm,775000,penthouse,for-sale,None,None,1,0,130,None,None,None,4,None,None,None
+vielsalm,775000,penthouse,for-sale,None,None,1,0,130,None,None,None,4,None,None,None
+vielsalm,775000,apartment,for-sale,None,None,1,0,130,None,None,None,4,None,None,None
+tavigny,150000,house,for-sale,None,None,None,0,None,787,None,None,None,None,None,None
+paliseul,190000,house,for-sale,None,None,1,0,None,None,None,226,3,None,Good,None
+ste-ode,299000,house,for-sale,None,None,1,0,None,None,None,2689,4,None,To be done up,None
+jamoigne,540000,mansion,for-sale,4,225,1,None,None,1400,225,1450,4,None,Good,None
+marche-en-famenne,790000,mixed-use-building,for-sale,7,273,1,0,18,45,273,342,3,0,Good,None
+florenville,85000,chalet,for-sale,2,34,1,None,None,None,34,296,4,1,As new,None
+wellin,231209,apartment,for-sale,2,91,1,0,20,None,91,None,3,None,None,None
+arlon,139000,flat-studio,for-sale,None,None,1,None,None,None,None,None,3,0,Good,None
+libramont-chevigny,145000,apartment-block,for-sale,2,300,None,None,None,1400,300,1400,4,None,To renovate,None
+arlon,125000,ground-floor,for-sale,None,None,1,0,None,None,None,None,None,None,Good,None
+halanzy,294000,apartment,for-sale,2,74,None,0,None,None,74,None,3,None,None,None
+halanzy,303500,apartment,for-sale,2,85,None,0,None,None,85,None,3,None,None,None
+attert,320000,house,for-sale,4,222,None,None,None,None,222,723,3,None,Good,None
+marche-en-famenne,345000,house,for-sale,None,None,None,0,None,None,None,307,1,None,Good,None
+saint-leger,390000,house,for-sale,3,160,1,0,18,None,160,538,3,None,None,None
+vielsalm,795000,exceptional-property,for-sale,7,560,1,0,20,None,560,3825,4,None,None,1
+erezee,1200000,castle,for-sale,None,1744,None,1,None,None,None,None,4,None,To be done up,1
+vielsalm,475000,apartment,for-sale,None,None,1,0,48,None,None,None,4,None,None,None
+vielsalm,475000,apartment,for-sale,None,None,1,0,47,None,None,None,4,None,None,None
+vielsalm,475000,apartment,for-sale,None,None,1,0,47,None,None,None,4,None,None,None
+vielsalm,475000,apartment,for-sale,None,None,1,0,47,None,None,None,4,None,None,None
+vielsalm,475000,apartment,for-sale,None,None,1,0,43,None,None,None,4,None,None,None
+vielsalm,475000,apartment,for-sale,None,None,1,0,48,None,None,None,4,None,None,None
+vielsalm,475000,apartment,for-sale,None,None,1,0,48,None,None,None,4,None,None,None
+vielsalm,475000,apartment,for-sale,None,None,1,0,43,None,None,None,4,None,None,None
+la-roche-en-ardenne,500000,villa,for-sale,3,218,1,None,500,1000,218,1071,4,0,As new,1
+soy,99000,house,for-sale,None,None,None,0,22,None,None,500,3,None,To renovate,None
+marbehan,200000,house,for-sale,2,75,1,0,12,None,75,None,2,None,Good,None
+aubange,225000,house,for-sale,3,170,0,0,None,None,170,1202,4,None,To renovate,None
+soy,225000,chalet,for-sale,None,None,None,None,None,None,None,2131,4,None,Good,None
+etalle,270000,house,for-sale,2,126,1,None,None,150,126,270,3,None,Good,None
+arlon,315000,house,for-sale,4,274,1,0,None,None,274,1091,4,None,Good,None
+etalle,337000,house,for-sale,3,170,1,None,None,200,170,300,3,None,Good,None
+aarlen,520000,villa,for-sale,None,None,None,None,None,None,None,600,3,None,As new,None
+arlon,520000,house,for-sale,None,None,1,0,15,None,None,1164,4,None,None,None
+athus,180000,house,for-sale,None,None,None,0,None,None,None,132,3,None,None,None
+musson,265000,house,for-sale,4,206,None,0,None,None,206,None,None,None,To renovate,None
+mageret,370000,house,for-sale,5,176,None,0,None,None,176,13000,4,None,None,None
+marloie,99500,town-house,for-sale,None,None,None,0,None,None,None,90,1,None,To renovate,None
+arlon,255000,house,for-sale,2,110,None,0,None,None,110,165,2,None,Good,None
+virton,290000,house,for-sale,None,None,None,None,None,None,None,340,4,None,Just renovated,None
+arlon,380000,house,for-sale,None,None,None,None,None,None,None,1394,3,None,None,None
+petit-han,430000,house,for-sale,3,137,1,0,None,None,137,1707,None,None,None,None
+arlon,525000,mixed-use-building,for-sale,None,None,None,None,None,None,None,None,2,None,Good,None
+bouillon,645000,castle,for-sale,7,400,1,0,None,8000,400,8000,4,None,As new,None
+erezee,1200000,castle,for-sale,None,None,None,None,None,None,None,15000,4,None,None,None
+tenneville,1200000,house,for-sale,3,120,None,None,None,None,120,737,3,None,None,None
+arlon,159000,apartment,for-sale,None,None,1,0,None,None,None,None,2,None,Good,None
+neufchateau,100000,mixed-use-building,for-sale,4,360,None,0,None,None,360,120,2,None,To renovate,None
+herbeumont,425000,house,for-sale,None,None,0,0,None,None,None,590,None,None,None,None
+bastogne,138000,apartment,for-sale,1,43,None,0,None,None,43,None,2,None,Good,None
+bastogne,143000,apartment,for-sale,1,43,None,0,None,None,43,None,2,None,As new,None
+virton-saint-mard,149000,apartment,for-sale,6,250,None,0,None,None,250,None,3,None,To renovate,None
+bastogne,165000,apartment,for-sale,2,74,None,0,None,None,74,None,None,None,Good,None
+la-roche-en-ardenne,125000,house,for-sale,None,None,None,None,None,None,None,None,4,None,To renovate,None
+vielsalm,330000,apartment,for-sale,None,None,None,None,None,None,None,None,3,None,None,None
+bastogne,750000,house,for-sale,None,None,None,0,None,None,None,None,4,None,Good,None
+bastogne,123000,apartment,for-sale,1,43,None,0,None,None,43,None,2,None,Good,None
+nassogne,123000,house,for-sale,3,160,None,None,None,None,160,1150,4,None,None,None
+durbuy,123000,villa,for-sale,3,155,None,None,None,None,155,2535,4,None,None,None
+neufchateau,500000,house,for-sale,None,None,None,None,50,None,None,None,4,None,As new,None
+athus,120000,house,for-sale,None,None,None,None,None,None,None,None,None,None,None,None
+la-roche-en-ardenne,495000,villa,for-sale,6,365,1,1,95,200,365,522,4,None,Good,None
+durbuy,270000,villa,for-sale,2,90,1,0,46,894,90,894,4,None,As new,None
+bastogne,399900,house,for-sale,4,310,None,0,80,None,310,1066,4,None,Just renovated,None
+durbuy,249000,chalet,for-sale,3,135,1,1,20,1145,135,1145,4,None,Good,None
+beffe,269000,house,for-sale,3,75,1,1,20,860,75,860,4,None,As new,None
+vielsalm,599000,apartment-block,for-sale,6,503,1,0,150,603,503,1326,4,None,Good,None
+vielsalm,599000,house,for-sale,6,503,1,0,150,603,503,1326,4,None,Good,None
+vielsalm,599000,house,for-sale,6,503,1,0,150,603,503,1326,4,None,Good,None
+vielsalm,89000,apartment,for-sale,1,47,1,0,4,None,47,None,2,None,None,None
+aubange,210000,apartment,for-sale,2,92,None,0,None,None,92,None,None,None,Good,None
+melreux,229000,house,for-sale,4,203,1,0,20,476,203,476,4,None,Good,1
+athus,295000,house,for-sale,5,200,1,0,10,150,200,274,2,None,As new,None
+marche-en-famenne,399000,house,for-sale,4,325,1,0,47,None,325,310,2,None,To renovate,1
+bihain,415000,house,for-sale,5,188,1,0,None,None,188,3184,4,None,Good,1
+neuvillers,650000,house,for-sale,4,218,1,0,None,None,218,4143,4,None,As new,None
+athus,230000,apartment,for-sale,2,83,1,0,None,None,83,None,4,None,Good,None
+wellin,210000,apartment,for-sale,2,99,1,0,19,None,99,None,3,None,Just renovated,None
+bouillon,185000,apartment,for-sale,2,80,1,0,None,None,80,None,3,None,None,None
+bihain,129000,house,for-sale,2,60,1,0,20,908,60,908,None,None,Good,None
+grand-halleux,209000,apartment,for-sale,2,108,1,0,15,None,108,None,3,None,Good,None
+halanzy,285000,house,for-sale,2,162,None,0,None,None,162,239,2,None,As new,None
+saint-hubert,124999,house,for-sale,5,168,0,None,None,112,168,223,2,0,To be done up,None
+saint-hubert,149000,triplex,for-sale,3,218,1,0,None,None,218,None,2,None,Good,None
+saint-hubert,149000,triplex,for-sale,3,204,1,0,None,None,204,None,2,None,Good,None
+arlon,253000,apartment,for-sale,2,80,1,0,None,None,80,None,None,None,Good,None
+arlon,265000,apartment,for-sale,1,75,1,0,None,None,75,None,None,None,As new,None
+tohogne,70000,chalet,for-sale,1,50,1,0,None,None,50,4626,4,None,To renovate,None
+magoster,109000,chalet,for-sale,2,50,1,0,15,1948,50,1948,None,None,Good,None
+soy,319000,house,for-sale,3,155,1,0,40,691,155,691,4,None,Good,None
+messancy,450000,house,for-sale,3,177,None,0,None,2100,177,2393,4,None,Good,None
+corbion,100000,other-property,for-sale,4,102,0,0,None,None,102,113,3,None,To renovate,None
+saint-hubert,125000,house,for-sale,3,116,1,0,None,None,116,88,2,None,To renovate,None
+paliseul,145000,house,for-sale,6,180,0,0,None,None,180,935,3,None,None,None
+petit-han,430000,house,for-sale,3,137,1,0,None,None,137,1707,None,None,None,None
+arlon,525000,mixed-use-building,for-sale,None,None,None,None,None,None,None,None,2,None,Good,None
+bouillon,645000,castle,for-sale,7,400,1,0,None,8000,400,8000,4,None,As new,None
+arlon,2190000,apartment-block,for-sale,None,None,None,None,None,None,None,None,None,None,Good,None
+biourge,5500000,castle,for-sale,10,1110,None,1,None,None,1110,22938,4,None,As new,None
+bastogne,98000,flat-studio,for-sale,None,25,1,0,None,None,None,None,None,None,None,None
+habergy,200000,house,for-sale,3,94,0,0,None,None,94,300,2,None,To renovate,None
+aye,205000,house,for-sale,None,None,1,None,None,None,None,None,2,None,Good,None
+arlon,225000,apartment,for-sale,2,89,None,None,None,None,89,None,None,None,Good,None
+messancy,230000,apartment,for-sale,3,85,None,0,None,None,85,None,None,None,As new,None
+marche-en-famenne,245000,apartment,for-sale,None,None,1,None,1,None,None,None,2,0,As new,None
+gerouville,120000,house,for-sale,None,None,None,None,None,None,None,125,2,None,To be done up,None
+bomal-sur-ourthe,199000,house,for-sale,None,None,1,None,None,None,None,636,3,None,To be done up,None
+saint-hubert,349000,apartment-block,for-sale,6,280,None,0,None,None,280,365,2,None,None,None
+marche-en-famenne,320000,penthouse,for-sale,2,104,None,None,7,None,104,None,2,None,As new,None
+vielsalm,475000,apartment,for-sale,None,None,1,0,55,None,None,None,4,None,None,None
+offagne,199000,house,for-sale,3,146,0,0,None,None,146,320,4,None,Good,None
+neufchateau,500000,mixed-use-building,for-sale,None,300,None,0,None,None,None,None,None,None,None,None
+vielsalm,500000,exceptional-property,for-sale,None,None,1,0,None,None,None,48860,4,None,As new,1
+chiny,250000,villa,for-sale,None,None,None,None,None,None,None,1070,4,None,None,None
+izel,80000,house,for-sale,None,None,None,None,None,None,None,1890,3,None,To renovate,None
+vielsalm,99000,house,for-sale,1,163,0,0,None,None,163,None,None,None,None,None
+chiny,185000,house,for-sale,None,None,None,None,None,None,None,214,3,None,As new,None
+les-bulles,230000,country-cottage,for-sale,None,None,None,None,None,None,None,725,4,None,As new,None
+mageret,290000,house,for-sale,6,218,None,0,None,None,218,None,None,None,None,None
+florenville,295000,villa,for-sale,None,None,None,None,None,None,None,2373,4,None,Good,None
+florenville,300000,house,for-sale,None,None,None,None,None,None,None,221,2,None,As new,None
+arlon,319000,house,for-sale,None,None,None,None,None,None,None,315,3,None,To renovate,None
+marche-en-famenne,350000,house,for-sale,5,188,None,None,30,None,188,616,4,None,None,None
+chassepierre,550000,castle,for-sale,6,450,None,0,80,28000,450,28000,4,None,Good,None
+warisy,75000,house,for-sale,1,261,None,0,None,None,261,170,2,None,To restore,None
+bouillon,305000,mixed-use-building,for-sale,4,338,1,None,None,None,338,111,2,None,As new,None
+virton,625000,other-property,for-sale,4,250,1,0,60,6540,250,6540,4,None,Good,None
+virton,625000,house,for-sale,4,250,1,0,60,6540,250,6540,4,None,Good,None
+virton,625000,exceptional-property,for-sale,4,250,1,0,60,6540,250,6540,4,None,Good,None
+manhay,625000,house,for-sale,3,190,None,None,None,None,190,972,4,None,As new,None
+chiny,130000,house,for-sale,None,None,None,None,None,None,None,280,3,None,None,None
+arlon,130000,house,for-sale,4,360,None,0,None,None,360,350,3,None,As new,None
+athus,248000,apartment,for-sale,3,118,None,None,None,None,118,None,None,None,Good,None
+aubange,279000,apartment,for-sale,2,109,None,None,None,None,109,None,None,None,None,None
+florenville,72000,house,for-sale,None,None,None,None,None,None,None,446,3,None,To renovate,None
+florenville,115000,house,for-sale,None,None,None,None,None,None,None,450,2,None,To be done up,None
+chiny,300000,country-cottage,for-sale,None,None,None,None,1,1,None,523,2,0,None,None
+dochamps,317999,house,for-sale,None,None,0,0,None,None,None,None,4,None,None,None
+durbuy,317999,house,for-sale,None,None,None,0,None,None,None,5,3,None,As new,None
+durbuy,317999,house,for-sale,None,None,None,0,22,None,None,5,3,None,As new,None
+sohier,317999,castle,for-sale,45,2000,1,None,None,None,2000,34180,4,None,As new,None
+arlon,159000,apartment,for-sale,1,50,1,None,3,None,50,None,None,0,None,None
+tintigny,139000,apartment,for-sale,1,43,1,0,None,None,43,None,3,None,Good,None
+aubange,198000,apartment,for-sale,1,71,1,0,None,107,71,None,4,None,As new,None
