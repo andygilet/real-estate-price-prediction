@@ -35,7 +35,7 @@ Real-Estate-Price-Prediction:
             Cyril is documenting his functions.
             The project is finished.
         Day 5:
-            /
+            Imporving the code and cheeking for bugs
 
     Personnal situation:
         Andy Gilet:
