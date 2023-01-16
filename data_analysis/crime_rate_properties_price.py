@@ -2,19 +2,21 @@ import pandas as pd
 from pandas_ods_reader import read_ods
 import seaborn as sns
 from statistics import median
+import matplotlib.pyplot as plt
 
 def create_graph_price_difference_renovated(dataFrame : pd.DataFrame):
-    graph = sns.catplot(data= dataFrame, kind="bar",
-                        x="Provinces", y="Price", hue="Renovated")
-    graph.despine(left= True)
-    graph.set_axis_labels("Provinces", "Price(€)")
-    graph.legend.set_title("Price comparison between renovated and to be renovated house")
-
+    sns.catplot(data= dataFrame, kind="bar", x="Provinces", y="Price", hue="Status")
+    plt.title("Comparison between the median price of new or renovated properties to to be renovated properties")
+    plt.xlabel("Provinces")
+    plt.ylabel("Prices(€)")
+    plt.show()
+    
 def create_graph_compare_price_crime_rates(dataFrame : pd.DataFrame):
-    graph = sns.regplot(data = dataFrame, x = "Crime rates", y = "Prices",
-                        fit_reg = True, hue = "Type")
+    plt.title("Median price of properties by provinces compare to the crime rates")
+    graph = sns.regplot(data = dataFrame, x = "Crimes Rates", y = "Price",
+                        fit_reg = True,)
     graph.set_axis_labels("Crime rates", "Prices(€)")
-    graph.legend.set_title("Relation between prices of house and crime rates")
+    plt.show()
     
 def transform_locality_to_provinces(postal_code : str) -> str:
     temp = int(postal_code)
@@ -82,9 +84,11 @@ def create_dataset_price_difference_renovated(dataFrame : pd.DataFrame) -> pd.Da
                         provinces_to_renovate_price_list[j].append(price[i])
 
     for i in range(len(provinces)):
-        new_row = pd.Series({"Provinces" : provinces[i], "Price to be renovated" : median(provinces_to_renovate_price_list[i]), "Price renovated or new" : median(provinces_renovated_price_list[i])})
-        new_dataFrame = pd.concat([new_dataFrame, new_row.to_frame().T], ignore_index=True)
-          
+        new_row1 = pd.Series({"Provinces" : provinces[i], "Price" : median(provinces_to_renovate_price_list[i]), "Status" : "To be renovated"})
+        new_row2 =pd.Series({"Provinces" : provinces[i], "Price" : median(provinces_renovated_price_list[i]), "Status" : "Renovated or new"})
+        new_dataFrame = pd.concat([new_dataFrame, new_row1.to_frame().T], ignore_index=True)
+        new_dataFrame = pd.concat([new_dataFrame, new_row2.to_frame().T], ignore_index=True)
+        
     return new_dataFrame
 
 def immoweb_median_price(immoweb_data : pd.DataFrame) -> list:
@@ -156,8 +160,8 @@ def immoweb_data_to_graph():
     price_renovated_dataframe = create_dataset_price_difference_renovated(immoweb_dataframe)
     price_crime_rate = create_dataset_compare_price_crime_rates(immoweb_dataframe, demography_belgium, crime_dataframe)
     
-    print(price_renovated_dataframe)
-    print("\n\n")
+    create_graph_price_difference_renovated(price_renovated_dataframe)
     print(price_crime_rate)
+    #create_graph_compare_price_crime_rates(price_crime_rate)
 
 immoweb_data_to_graph()
