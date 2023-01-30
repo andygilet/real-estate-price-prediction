@@ -105,7 +105,7 @@ def check_data(data : pd.DataFrame) -> pd.DataFrame:
         df.drop_duplicates(inplace=True)
     df = remove_empty_cells_in_df(df)
     df = remove_str_data(df)
-    check_data_correlation(df)
+    #check_data_correlation(df)
     return df
 
 def data_clean_for_price_range() -> list:

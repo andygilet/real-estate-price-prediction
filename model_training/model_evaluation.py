@@ -113,7 +113,7 @@ def test_SVR(X_train, X_test, y_train, y_test) ->pd.DataFrame:
 
 def lunch_model_test():
     X, y = data_clean_for_price_range()
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.5, random_state=42)
     
     linear_regression_result = test_linear_regression(X_train, X_test, y_train, y_test)
     random_forest_result = test_random_forest_regression(X_train, X_test, y_train, y_test)
@@ -133,4 +133,6 @@ def lunch_model_test():
                         linear_svr_result, svr_result])
     
     print(result)
+    
+lunch_model_test()
     
