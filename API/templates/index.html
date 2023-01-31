@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+    <head>
+		<title>Price estimation for a property in Belgium</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	</head>
+    <body class="is-preload">
+        <section id="contact" class="four">
+            <div class="container">
+                <form method="post" action="">
+                    <strong>{{form.area.label}}</strong>{{form.area()}} <br>
+                    <strong>{{form.property_type.label}}</strong>{{form.property_type()}} <br>
+                    <strong>{{form.rooms_number.label}}</strong>{{form.rooms_number()}} <br>
+                    <strong>{{form.zip_code.label}}</strong>{{form.zip_code()}} <br>
+                    <strong>{{form.land_area.label}}</strong>{{form.land_area()}} <br>
+                    <strong>{{form.garden.label}}</strong>{{form.garden()}} <br>
+                    <strong>{{form.garden_area.label}}</strong>{{form.garden_area()}} <br>
+                    <strong>{{form.equipped_kitchen.label}}</strong>{{form.equipped_kitchen()}} <br>
+                    <strong>{{form.full_address.label}}</strong>{{form.full_address()}} <br>
+                    <strong>{{form.swimming_pool.label}}</strong>{{form.swimming_pool()}} <br>
+                    <strong>{{form.furnished.label}}</strong>{{form.furnished()}} <br>
+                    <strong>{{form.open_fire.label}}</strong>{{form.open_fire()}} <br>
+                    <strong>{{form.terrace.label}}</strong>{{form.terrace()}} <br>
+                    <strong>{{form.terrace_area.label}}</strong>{{form.terrace_area()}} <br>
+                    <strong>{{form.facade_number.label}}</strong>{{form.facade_number()}} <br>
+                    <strong>{{form.building_state.label}}</strong>{{form.building_state()}} <br>
+                    {{form.submit()}}
+                </form>
+            </div>
+        </section>
+        <div>
+            <p>{{result}}</p>
+        </div>
+    </body>
+</html>
