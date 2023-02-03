@@ -28,7 +28,7 @@
             You will get access to a html webforms where you can input your datas and get a prediction by pushing the submit button
 
             You can also use it in your code with a GET request at the url of the API.
-            ![My Image](images/image_get.png)
+            ![My Image](../images/image_get.png)
 
     # Visuals:
         Terminal
