@@ -27,8 +27,8 @@
             Get to the url from the API and the /home directory. 
             You will get access to a html webforms where you can input your datas and get a prediction by pushing the submit button
 
-            You can also use it in your code with a GET request at the url of the API
-            image.png
+            You can also use it in your code with a GET request at the url of the API.
+            ![Screnshot](images/image_get.png)
 
     # Visuals:
         Terminal
@@ -103,7 +103,7 @@
         Day 1: Rushed to train a bunch of models. The best ones were 65% and 49% accurate. I will improve them if I have enough time.
         Day 2: Learned to use Flask and implemented it as a rest API to use it with a GET request.
         Day 3: I corrected a few bugs from flask and started working on the datas
-        Day 4: 
+        Day 4: Corrected bugs, change the ways I was cleaning the data, improved flask.
         Day 5: Found a interesting and more user-friendly way to request a estimate from the API using webforms.
         Day 6: I have finished implementing the interface to make request to the API with a web form.
                I still have to clean the data I got with the two methods before I give it to my model.
